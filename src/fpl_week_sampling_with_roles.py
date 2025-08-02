@@ -15,6 +15,10 @@ def build_bradley_terry_matrices_with_roles(player_gw_df):
     # Overall player comparisons
     player_comparisons = defaultdict(lambda: defaultdict(int))
     
+    # Absolute points comparisons (uses score differences as weights)
+    # Higher score differences indicate more dominant performances
+    abs_comparisons = defaultdict(lambda: defaultdict(float))
+    
     # Team comparisons
     team_comparisons = defaultdict(lambda: defaultdict(int))
     
@@ -57,8 +61,14 @@ def build_bradley_terry_matrices_with_roles(player_gw_df):
                 for _, player_b in team_b_players.iterrows():
                     if player_a['total_points'] > player_b['total_points']:
                         player_comparisons[player_a['player_id']][player_b['player_id']] += 1
+                        # Absolute points comparison - use score difference as weight
+                        score_diff = player_a['total_points'] - player_b['total_points']
+                        abs_comparisons[player_a['player_id']][player_b['player_id']] += score_diff
                     elif player_b['total_points'] > player_a['total_points']:
                         player_comparisons[player_b['player_id']][player_a['player_id']] += 1
+                        # Absolute points comparison - use score difference as weight
+                        score_diff = player_b['total_points'] - player_a['total_points']
+                        abs_comparisons[player_b['player_id']][player_a['player_id']] += score_diff
                     
                     # Role-specific comparisons (only if same role)
                     role_a = player_roles.get(player_a['player_id'])
@@ -79,13 +89,66 @@ def build_bradley_terry_matrices_with_roles(player_gw_df):
             elif team_b_points > team_a_points:
                 team_comparisons[team_b][team_a] += 1
     
-    return player_comparisons, team_comparisons, role_comparisons, player_roles
+    return player_comparisons, team_comparisons, role_comparisons, player_roles, abs_comparisons
 
 
-def fit_bradley_terry_model(comparisons, max_iter=100, tol=1e-6):
-    """Fit Bradley-Terry model using maximum likelihood estimation"""
+def sigmoid(x, temperature=1.0):
+    """Sigmoid function with temperature control"""
+    return 1 / (1 + np.exp(-x * temperature))
+
+
+def compute_hessian(comparisons, params, entities):
+    """Compute Hessian matrix for Bradley-Terry model"""
+    n = len(entities)
+    entity_to_idx = {entity: i for i, entity in enumerate(entities)}
+    hessian = np.zeros((n, n))
+    
+    # Compute second derivatives
+    for i, entity_i in enumerate(entities):
+        for j, entity_j in enumerate(entities):
+            if i == j:
+                # Diagonal elements
+                diag_sum = 0
+                
+                # Contributions from wins
+                if entity_i in comparisons:
+                    for opponent, count in comparisons[entity_i].items():
+                        if opponent in entity_to_idx:
+                            pi = np.exp(params[entity_i])
+                            pj = np.exp(params[opponent])
+                            diag_sum += count * pi * pj / ((pi + pj) ** 2)
+                
+                # Contributions from losses
+                for opponent in entities:
+                    if opponent != entity_i and opponent in comparisons:
+                        if entity_i in comparisons[opponent]:
+                            count = comparisons[opponent][entity_i]
+                            pi = np.exp(params[entity_i])
+                            pj = np.exp(params[opponent])
+                            diag_sum += count * pi * pj / ((pi + pj) ** 2)
+                
+                hessian[i, i] = -diag_sum
+            else:
+                # Off-diagonal elements
+                if entity_i in comparisons and entity_j in comparisons[entity_i]:
+                    count = comparisons[entity_i][entity_j]
+                elif entity_j in comparisons and entity_i in comparisons[entity_j]:
+                    count = comparisons[entity_j][entity_i]
+                else:
+                    count = 0
+                
+                if count > 0:
+                    pi = np.exp(params[entity_i])
+                    pj = np.exp(params[entity_j])
+                    hessian[i, j] = count * pi * pj / ((pi + pj) ** 2)
+    
+    return hessian
+
+
+def fit_bradley_terry_model_with_uncertainty(comparisons, max_iter=100, tol=1e-6, temperature=2.0):
+    """Fit Bradley-Terry model with uncertainty estimation"""
     if not comparisons:
-        return {}
+        return {}, {}
     
     # Get all entities
     entities = set()
@@ -97,11 +160,12 @@ def fit_bradley_terry_model(comparisons, max_iter=100, tol=1e-6):
     n = len(entities)
     
     if n == 0:
-        return {}
+        return {}, {}
     
     # Initialize parameters (log scale)
     params = {entity: 0.0 for entity in entities}
     
+    # Fit model (same as before)
     for iteration in range(max_iter):
         old_params = params.copy()
         
@@ -132,13 +196,59 @@ def fit_bradley_terry_model(comparisons, max_iter=100, tol=1e-6):
         if max_change < tol:
             break
     
-    # Convert to probabilities (normalized)
-    strengths = {entity: np.exp(param) for entity, param in params.items()}
-    total_strength = sum(strengths.values())
+    # Compute uncertainties using Hessian
+    hessian = compute_hessian(comparisons, params, entities)
     
-    if total_strength > 0:
-        strengths = {entity: strength / total_strength for entity, strength in strengths.items()}
+    # Compute variance-covariance matrix
+    uncertainties = {}
+    try:
+        # Add small regularization to ensure positive definite
+        regularization = 1e-6 * np.eye(n)
+        cov_matrix = np.linalg.inv(-hessian + regularization)
+        variances = np.diag(cov_matrix)
+        
+        # Map back to entities
+        for i, entity in enumerate(entities):
+            uncertainties[entity] = np.sqrt(max(variances[i], 1e-10))
+    except np.linalg.LinAlgError:
+        # If inversion fails, use default uncertainty
+        for entity in entities:
+            uncertainties[entity] = 1.0
     
+    # Convert to ratings
+    ratings = {entity: np.exp(param) for entity, param in params.items()}
+    
+    # Apply sigmoid transformation with uncertainty weighting
+    rating_values = np.array([ratings[e] for e in entities])
+    uncertainty_values = np.array([uncertainties[e] for e in entities])
+    
+    # Normalize ratings
+    if len(rating_values) > 1 and np.std(rating_values) > 0:
+        normalized = (rating_values - np.mean(rating_values)) / np.std(rating_values)
+    else:
+        normalized = np.zeros_like(rating_values)
+    
+    # Apply sigmoid stretching
+    stretched = sigmoid(normalized, temperature)
+    
+    # Weight by confidence (inverse uncertainty)
+    weights = 1 / (1 + uncertainty_values)
+    final_ratings = weights * stretched + (1 - weights) * 0.5
+    
+    # Map back to dictionary
+    final_strengths = {entity: final_ratings[i] for i, entity in enumerate(entities)}
+    
+    # Normalize to sum to 1
+    total = sum(final_strengths.values())
+    if total > 0:
+        final_strengths = {e: s/total for e, s in final_strengths.items()}
+    
+    return final_strengths, uncertainties
+
+
+def fit_bradley_terry_model(comparisons, max_iter=100, tol=1e-6):
+    """Backward compatible wrapper"""
+    strengths, _ = fit_bradley_terry_model_with_uncertainty(comparisons, max_iter, tol)
     return strengths
 
 

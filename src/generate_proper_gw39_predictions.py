@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import json
-from fpl_week_sampling_with_roles import build_bradley_terry_matrices_with_roles, fit_bradley_terry_model
+from fpl_week_sampling_with_roles import build_bradley_terry_matrices_with_roles, fit_bradley_terry_model, fit_bradley_terry_model_with_uncertainty
 
 
 def main():
@@ -105,16 +105,24 @@ def main():
     merged_gw['gameweek'] = merged_gw['GW']
     
     # Build Bradley-Terry matrices
-    player_comparisons, team_comparisons, role_comparisons, player_roles = \
+    player_comparisons, team_comparisons, role_comparisons, player_roles, abs_comparisons = \
         build_bradley_terry_matrices_with_roles(merged_gw[merged_gw['gameweek'] <= 38])
     
     # Fit models
     player_strengths = fit_bradley_terry_model(player_comparisons)
     team_strengths = fit_bradley_terry_model(team_comparisons)
     
+    # Use uncertainty-aware model for absolute points
+    abs_strengths, abs_uncertainties = fit_bradley_terry_model_with_uncertainty(abs_comparisons, temperature=3.0)
+    
     role_strengths = {}
     for role, comparisons in role_comparisons.items():
         role_strengths[role] = fit_bradley_terry_model(comparisons)
+    
+    # Load role weights once
+    with open('data/cached_merged_2024_2025_v2/role_weights_2024.json', 'r') as f:
+        role_weights_data = json.load(f)
+    role_weights = role_weights_data['role_weights']
     
     # Apply Bradley-Terry scores to predictions
     for idx, row in pred_df.iterrows():
@@ -135,12 +143,39 @@ def main():
         team_score = base_score * (0.5 + 1.5 * team_strength / max(team_strengths.values())) if team_strengths else base_score
         role_score = base_score
         
-        # Calculate weighted score
-        weighted_score = (player_score + 0.5 * team_score + role_score) / 3
+        # Get absolute points score from Bradley-Terry model
+        # Look up the player's strength from historical data
+        abs_score = base_score  # Default
+        
+        # Try to find historical player ID from mapping
+        mapping = mapping_df[mapping_df['player_2025'] == row['full_name']]
+        if len(mapping) > 0 and pd.notna(mapping.iloc[0]['player_2024']):
+            player_2024 = mapping.iloc[0]['player_2024']
+            # Find historical player ID
+            hist_player = merged_gw[merged_gw['name'] == player_2024]
+            if len(hist_player) > 0:
+                hist_player_id = hist_player.iloc[0]['element']
+                if hist_player_id in abs_strengths:
+                    # Scale absolute strength to score range
+                    abs_strength = abs_strengths[hist_player_id]
+                    abs_score = base_score * (0.5 + 1.5 * abs_strength / max(abs_strengths.values())) if abs_strengths else base_score
+        
+        # Apply role weight to role_score
+        # I(role) * role_weight * role_score
+        # I(role) is 1 for the player's role, 0 for others
+        # Multiply by 4 to emphasize role importance
+        role_weight = role_weights.get(role, 0.25) * 4
+        weighted_role_score = role_weight * role_score
+        
+        # Calculate weighted score using new formula with abs_score
+        # E[player_score + alpha * team_score + I(role) * role_weight * role_score + abs_score_weight * abs_score]
+        # E is expectation (1/5), alpha = 0.5, abs_score_weight = 2.0
+        weighted_score = (player_score + 0.5 * team_score + weighted_role_score + 2.0 * abs_score) / 5
         
         pred_df.loc[idx, 'player_score'] = player_score
         pred_df.loc[idx, 'team_score'] = team_score
         pred_df.loc[idx, 'role_score'] = role_score
+        pred_df.loc[idx, 'abs_score'] = abs_score
         pred_df.loc[idx, 'weighted_score'] = weighted_score
         pred_df.loc[idx, 'average_score'] = weighted_score  # For compatibility
     

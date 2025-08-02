@@ -1,0 +1,31 @@
+{
+  "role_stats": {
+    "GK": {
+      "total_points": 2546,
+      "total_minutes": 68397,
+      "points_per_minute": 0.03722385484743483
+    },
+    "DEF": {
+      "total_points": 9209,
+      "total_minutes": 275820,
+      "points_per_minute": 0.03338771662678559
+    },
+    "MID": {
+      "total_points": 15455,
+      "total_minutes": 334791,
+      "points_per_minute": 0.046163128638463995
+    },
+    "FWD": {
+      "total_points": 4080,
+      "total_minutes": 69456,
+      "points_per_minute": 0.05874222529371113
+    }
+  },
+  "role_weights": {
+    "GK": 0.21208128367817486,
+    "DEF": 0.19022505407657395,
+    "MID": 0.2630124048240757,
+    "FWD": 0.3346812574211755
+  },
+  "description": "Role weights based on total points per total minutes played in 2024 season"
+}
