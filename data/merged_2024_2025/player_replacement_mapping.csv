@@ -1,0 +1,107 @@
+new_player,new_team,new_price,old_player,old_team,old_price,old_total_points,position,threshold_used
+Max Weiß,Burnley,4.5,Mads Hermansen,Leicester,4.5,63,GK,0.3
+Etienne Green,Burnley,4.0,Jakub Stolarczyk,Leicester,4.0,25,GK,0.3
+Václav Hladký,Burnley,4.0,Danny Ward,Leicester,4.0,2,GK,0.3
+Connor Roberts,Burnley,4.5,James Justin,Leicester,4.5,70,DEF,0.3
+Kyle Walker,Burnley,4.5,Victor Kristiansen,Leicester,4.5,34,DEF,0.3
+Hannes Delcroix,Burnley,4.0,Wout Faes,Leicester,4.0,55,DEF,0.3
+Owen Dodgson,Burnley,4.0,Conor Coady,Leicester,4.0,39,DEF,0.3
+Hjalmar Ekdal,Burnley,4.0,Caleb Okoli,Leicester,4.0,27,DEF,0.3
+Maxime Estève,Burnley,4.0,Luke Thomas,Leicester,4.0,27,DEF,0.3
+Quilindschy Hartman,Burnley,4.0,Jannik Vestergaard,Leicester,4.0,11,DEF,0.3
+Bashir Humphreys,Burnley,4.0,Woyo Coulibaly,Leicester,4.0,1,DEF,0.3
+Jordan Beyer,Burnley,4.0,Olabade Aluko,Leicester,4.0,1,DEF,0.3
+Lucas Pires Silva,Burnley,4.0,Harry Souttar,Leicester,4.0,0,DEF,0.3
+Shurandy Sambo,Burnley,4.0,Ben Nelson,Leicester,4.0,0,DEF,0.3
+Oliver Sonne,Burnley,4.0,Thomas Wilson-Brown,Leicester,4.0,0,DEF,0.3
+Jaidon Anthony,Burnley,5.5,Jordan Ayew,Leicester,5.5,75,MID,0.3
+Manuel Benson Hedilazio,Burnley,5.5,Stephy Mavididi,Leicester,5.5,72,MID,0.3
+Jacob Bruun Larsen,Burnley,5.5,Bobby De Cordova-Reid,Leicester,5.5,48,MID,0.3
+Enock Agyei,Burnley,5.0,Bilal El Khannouss,Leicester,5.0,83,MID,0.3
+Darko Churlinov,Burnley,5.0,Facundo Buonanotte,Leicester,5.0,75,MID,0.3
+Josh Cullen,Burnley,5.0,Wilfred Ndidi,Leicester,5.0,64,MID,0.3
+Marcus Edwards,Burnley,5.0,Kasey McAteer,Leicester,5.0,35,MID,0.3
+Hannibal Mejbri,Burnley,5.0,Oliver Skipp,Leicester,5.0,27,MID,0.3
+Aaron Ramsey,Burnley,4.5,Boubakary Soumaré,Leicester,4.5,48,MID,0.3
+Oluwaseun Adewumi,Burnley,4.5,Harry Winks,Leicester,4.5,40,MID,0.3
+Jaydon Banel,Burnley,4.5,Jeremy Monga,Leicester,4.5,7,MID,0.3
+Mike Trésor Ndayishimiye,Burnley,4.5,Hamza Choudhury,Leicester,4.5,4,MID,0.3
+Zian Flemming,Burnley,5.5,Jamie Vardy,Leicester,5.5,128,FWD,0.3
+Zeki Amdouni,Burnley,5.0,Patson Daka,Leicester,5.0,34,FWD,0.3
+Ashley Barnes,Burnley,4.5,Tom Cannon,Leicester,4.5,0,FWD,0.3
+Axel Tuanzebe,Burnley,4.0,Ricardo Barbosa Pereira,Leicester,4.5,10,DEF,0.5
+Luca Koleosho,Burnley,5.0,Abdul Fatawu,Leicester,5.5,26,MID,0.5
+Josh Laurent,Burnley,5.0,Jake Evans,Leicester,4.5,4,MID,0.5
+Loum Tchaouna,Burnley,5.0,Michael Golding,Leicester,4.5,1,MID,0.5
+Lyle Foster,Burnley,5.0,Odsonne Edouard,Leicester,5.5,7,FWD,0.5
+Joe Worrall,Burnley,4.0,James Justin,Leicester,4.5,70,DEF,0.8999999999999999
+Michael Obafemi,Burnley,4.5,Patson Daka,Leicester,5.0,34,FWD,0.8999999999999999
+Illan Meslier,Leeds,4.5,Arijanet Muric,Ipswich,4.5,49,GK,0.3
+Lucas Estella Perri,Leeds,4.5,Alex Palmer,Ipswich,4.5,22,GK,0.3
+Alex Cairns,Leeds,4.0,Cieran Slicker,Ipswich,4.0,0,GK,0.3
+Jayden Bogle,Leeds,4.5,Leif Davis,Ipswich,4.5,52,DEF,0.3
+Jaka Bijol,Leeds,4.0,Dara O'Shea,Ipswich,4.0,49,DEF,0.3
+Sebastiaan Bornauw,Leeds,4.0,Jacob Greaves,Ipswich,4.0,37,DEF,0.3
+Sam Byram,Leeds,4.0,Ben Johnson,Ipswich,4.0,30,DEF,0.3
+Gabriel Gudmundsson,Leeds,4.0,Axel Tuanzebe,Ipswich,4.0,27,DEF,0.3
+Joe Rodon,Leeds,4.0,Cameron Burgess,Ipswich,4.0,26,DEF,0.3
+Isaac Schmidt,Leeds,4.0,Luke Woolfenden,Ipswich,4.0,18,DEF,0.3
+Brenden Aaronson,Leeds,5.5,Omari Giraud-Hutchinson,Ipswich,5.5,88,MID,0.3
+Wilfried Gnonto,Leeds,5.5,Julio Enciso,Ipswich,5.5,59,MID,0.3
+Jack Harrison,Leeds,5.5,Jack Clarke,Ipswich,5.5,53,MID,0.3
+Daniel James,Leeds,5.5,Conor Chaplin,Ipswich,5.5,41,MID,0.3
+Ethan Ampadu,Leeds,5.0,Sam Morsy,Ipswich,5.0,67,MID,0.3
+Sam Greenwood,Leeds,5.0,Jack Taylor,Ipswich,5.0,38,MID,0.3
+Ilia Gruev,Leeds,5.0,Nathan Broadhead,Ipswich,5.0,37,MID,0.3
+Largie Ramazani,Leeds,5.0,Wes Burns,Ipswich,5.0,30,MID,0.3
+Tanaka Ao,Leeds,5.0,Kalvin Phillips,Ipswich,5.0,27,MID,0.3
+Sean Longstaff,Leeds,5.0,Chiedozie Ogbene,Ipswich,5.0,7,MID,0.3
+Anton Stach,Leeds,5.0,Marcus Myers-Harness,Ipswich,5.0,2,MID,0.3
+Charlie Crew,Leeds,4.5,Jens Cajuste,Ipswich,4.5,63,MID,0.3
+Joe Gelhardt,Leeds,4.5,Massimo Luongo,Ipswich,4.5,13,MID,0.3
+Darko Gyabi,Leeds,4.5,Cameron Humphreys,Ipswich,4.5,0,MID,0.3
+Joël Piroe,Leeds,5.5,Liam Delap,Ipswich,5.5,132,FWD,0.3
+Patrick Bamford,Leeds,5.0,Ali Al-Hamadi,Ipswich,5.0,8,FWD,0.3
+Karl Darlow,Leeds,4.0,Christian Walton,Ipswich,4.5,16,GK,0.5
+Pascal Struijk,Leeds,4.5,Conor Townsend,Ipswich,4.0,11,DEF,0.5
+Mateo Joseph Fernández-Regatillo,Leeds,5.0,George Hirst,Ipswich,5.5,46,FWD,0.5
+Lukas Nmecha,Leeds,5.0,Freddie Ladapo,Ipswich,4.5,0,FWD,0.5
+Anthony Patterson,Sunderland,4.5,Aaron Ramsdale,Southampton,4.5,97,GK,0.3
+Robin Roefs,Sunderland,4.5,Alex McCarthy,Southampton,4.5,12,GK,0.3
+Simon Moore,Sunderland,4.0,Joe Lumley,Southampton,4.0,8,GK,0.3
+Blondy Nna Noukeu,Sunderland,4.0,Mateusz Lis,Southampton,4.0,0,GK,0.3
+Daniel Ballard,Sunderland,4.5,Kyle Walker-Peters,Southampton,4.5,54,DEF,0.3
+Trai Hume,Sunderland,4.5,Sugawara Yukinari,Southampton,4.5,43,DEF,0.3
+Aji Alese,Sunderland,4.0,Jan Bednarek,Southampton,4.0,60,DEF,0.3
+Joe Anderson,Sunderland,4.0,Taylor Harwood-Bellis,Southampton,4.0,55,DEF,0.3
+Dennis Cirkin,Sunderland,4.0,Jack Stephens,Southampton,4.0,31,DEF,0.3
+Leo Fuhr Hjelde,Sunderland,4.0,James Bree,Southampton,4.0,23,DEF,0.3
+Niall Huggins,Sunderland,4.0,Nathan Wood-Gordon,Southampton,4.0,14,DEF,0.3
+Zak Johnson,Sunderland,4.0,Welington Damascena Santos,Southampton,4.0,14,DEF,0.3
+Luke O'Nien,Sunderland,4.0,Charlie Taylor,Southampton,4.0,6,DEF,0.3
+Timothée Pembélé,Sunderland,4.0,Armel Bella-Kotchap,Southampton,4.0,2,DEF,0.3
+Reinildo Mandava,Sunderland,4.0,Joachim Kayi-Sanda,Southampton,4.0,2,DEF,0.3
+Jenson Seelt,Sunderland,4.0,Ronnie Edwards,Southampton,4.0,1,DEF,0.3
+Simon Adingra,Sunderland,5.5,Ben Brereton Díaz,Southampton,5.5,13,MID,0.3
+Ian Poveda-Ocampo,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,5.0,95,MID,0.3
+Chemsdine Talbi,Sunderland,5.0,Joe Aribo,Southampton,5.0,72,MID,0.3
+Chris Rigg,Sunderland,5.0,Kamaldeen Sulemana,Southampton,5.0,53,MID,0.3
+Noah Sadiki,Sunderland,5.0,Flynn Downes,Southampton,5.0,48,MID,0.3
+Dan Neil,Sunderland,5.0,Will Smallbone,Southampton,5.0,26,MID,0.3
+Romaine Mundle,Sunderland,5.0,Adam Lallana,Southampton,5.0,17,MID,0.3
+Enzo Le Fée,Sunderland,5.0,Ryan Fraser,Southampton,5.0,7,MID,0.3
+Milan Aleksić,Sunderland,5.0,Albert Grønbæk,Southampton,5.0,6,MID,0.3
+Granit Xhaka,Sunderland,5.0,Samuel Edozie,Southampton,5.0,1,MID,0.3
+Abdoullah Ba,Sunderland,4.5,Tyler Dibling,Southampton,4.5,68,MID,0.3
+Alan Browne,Sunderland,4.5,Lesley Ugochukwu,Southampton,4.5,47,MID,0.3
+Pierre Ekwah Elimby,Sunderland,4.5,Samuel Amo-Ameyaw,Southampton,4.5,1,MID,0.3
+Harrison Jones,Sunderland,4.5,Shea Charles,Southampton,4.5,0,MID,0.3
+Jay Matete,Sunderland,4.5,Joseph O'Brien-Whitmarsh,Southampton,4.5,0,MID,0.3
+Wilson Isidor,Sunderland,5.5,Adam Armstrong,Southampton,5.5,45,FWD,0.3
+Ahmed Abdullahi,Sunderland,4.5,Ross Stewart,Southampton,4.5,20,FWD,0.3
+Luís Hemir Silva Semedo,Sunderland,4.5,Jay Robinson,Southampton,4.5,5,FWD,0.3
+Patrick Roberts,Sunderland,5.5,Maxwel Cornet,Southampton,5.0,1,MID,0.5
+Eliezer Mayenda Dossou,Sunderland,5.5,Cameron Archer,Southampton,5.0,57,FWD,0.5
+Nazarii Rusyn,Sunderland,4.5,Paul Onuachu,Southampton,5.0,51,FWD,0.5
+Habib Diarra,Sunderland,5.5,Ben Brereton Díaz,Southampton,5.5,13,MID,0.8999999999999999
+Nectarios Triantis,Sunderland,4.5,Mateus Gonçalo Espanha Fernandes,Southampton,5.0,95,MID,0.8999999999999999

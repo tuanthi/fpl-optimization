@@ -1,0 +1,671 @@
+id,player_id_2025,first_name,second_name,web_name,team,team_name,element_type,position,now_cost,total_points_2024,games_played_2024,season
+10001,1,David,Raya Martín,Raya,1,Arsenal,1,GK,5.5,142,38,2025
+10002,2,Kepa,Arrizabalaga Revuelta,Arrizabalaga,1,Arsenal,1,GK,4.5,106,38,2025
+10003,3,Karl,Hein,Hein,1,Arsenal,1,GK,4.0,0,38,2025
+10004,4,Tommy,Setford,Setford,1,Arsenal,1,GK,4.0,0,36,2025
+10005,5,Gabriel,dos Santos Magalhães,Gabriel,1,Arsenal,2,DEF,6.0,117,38,2025
+10006,6,William,Saliba,Saliba,1,Arsenal,2,DEF,6.0,130,38,2025
+10007,7,Riccardo,Calafiori,Calafiori,1,Arsenal,2,DEF,5.5,39,38,2025
+10008,8,Jurriën,Timber,J.Timber,1,Arsenal,2,DEF,5.5,114,38,2025
+10009,9,Jakub,Kiwior,Kiwior,1,Arsenal,2,DEF,5.5,43,38,2025
+10010,10,Myles,Lewis-Skelly,Lewis-Skelly,1,Arsenal,2,DEF,5.5,37,38,2025
+10011,11,Benjamin,White,White,1,Arsenal,2,DEF,5.5,50,38,2025
+10012,12,Oleksandr,Zinchenko,Zinchenko,1,Arsenal,2,DEF,5.0,40,38,2025
+10013,13,Brayden,Clarke,Clarke,1,Arsenal,2,DEF,4.0,0,4,2025
+10014,14,Maldini,Kacurri,Kacurri,1,Arsenal,2,DEF,4.0,0,35,2025
+10015,15,Josh,Nichols,Nichols,1,Arsenal,2,DEF,4.0,0,33,2025
+10016,16,Bukayo,Saka,Saka,1,Arsenal,3,MID,10.0,127,38,2025
+10017,17,Martin,Ødegaard,Ødegaard,1,Arsenal,3,MID,8.0,116,38,2025
+10018,18,Noni,Madueke,Madueke,1,Arsenal,3,MID,7.0,120,38,2025
+10019,19,Gabriel,Martinelli Silva,Martinelli,1,Arsenal,3,MID,7.0,125,38,2025
+10020,20,Leandro,Trossard,Trossard,1,Arsenal,3,MID,7.0,152,38,2025
+10021,21,Declan,Rice,Rice,1,Arsenal,3,MID,6.5,127,38,2025
+10022,22,Mikel,Merino Zazón,Merino,1,Arsenal,3,MID,6.0,92,36,2025
+10023,23,Fábio,Ferreira Vieira,Fábio Vieira,1,Arsenal,3,MID,5.5,0,38,2025
+10024,24,Christian,Nørgaard,Nørgaard,1,Arsenal,3,MID,5.5,107,38,2025
+10025,25,Ethan,Nwaneri,Nwaneri,1,Arsenal,3,MID,5.5,66,38,2025
+10026,26,Martín,Zubimendi Ibáñez,Zubimendi,1,Arsenal,3,MID,5.5,0,38,2025
+10027,27,Reiss,Nelson,Nelson,1,Arsenal,3,MID,5.0,27,38,2025
+10028,28,Ismeal,Kabia,Kabia,1,Arsenal,3,MID,4.5,0,35,2025
+10029,29,Albert,Sambi Lokonga,Sambi,1,Arsenal,3,MID,4.5,66,38,2025
+10030,30,Kai,Havertz,Havertz,1,Arsenal,4,FWD,7.5,97,38,2025
+10031,31,Gabriel,Fernando de Jesus,G.Jesus,1,Arsenal,4,FWD,6.5,42,38,2025
+10662,662,Cristhian,Mosquera,Mosquera,1,Arsenal,2,DEF,5.5,3,38,2025
+10666,666,Viktor,Gyökeres,Gyökeres,1,Arsenal,4,FWD,9.0,0,0,2025
+10032,32,Emiliano,Martínez Romero,Martinez,2,Aston Villa,1,GK,5.0,111,38,2025
+10033,33,Marco,Bizot,M.Bizot,2,Aston Villa,1,GK,4.5,9,38,2025
+10034,34,Joe,Gauci,Gauci,2,Aston Villa,1,GK,4.0,0,38,2025
+10035,35,Filip,Marschall,Marschall,2,Aston Villa,1,GK,4.0,0,38,2025
+10036,36,Matty,Cash,Cash,2,Aston Villa,2,DEF,4.5,76,38,2025
+10037,37,Lucas,Digne,Digne,2,Aston Villa,2,DEF,4.5,89,38,2025
+10038,38,Ezri,Konsa Ngoyo,Konsa,2,Aston Villa,2,DEF,4.5,103,38,2025
+10039,39,Ian,Maatsen,Maatsen,2,Aston Villa,2,DEF,4.5,57,38,2025
+10040,40,Tyrone,Mings,Mings,2,Aston Villa,2,DEF,4.5,47,38,2025
+10041,41,Pau,Torres,Pau,2,Aston Villa,2,DEF,4.5,55,38,2025
+10042,42,Andrés,García,A.García,2,Aston Villa,2,DEF,4.0,8,16,2025
+10043,43,Álex,Moreno Lopera,Alex Moreno,2,Aston Villa,2,DEF,4.0,34,38,2025
+10044,44,Lamare,Bogarde,Bogarde,2,Aston Villa,2,DEF,4.0,6,38,2025
+10045,45,Lino,da Cruz Sousa,Sousa,2,Aston Villa,2,DEF,4.0,0,38,2025
+10046,46,Yasin,Özcan,Yasin,2,Aston Villa,2,DEF,4.0,55,38,2025
+10047,47,Morgan,Rogers,Rogers,2,Aston Villa,3,MID,7.0,161,38,2025
+10048,48,Youri,Tielemans,Tielemans,2,Aston Villa,3,MID,6.0,121,38,2025
+10049,49,Leon,Bailey,Bailey,2,Aston Villa,3,MID,5.5,47,38,2025
+10050,50,Emiliano,Buendía Stati,Buendía,2,Aston Villa,3,MID,5.5,11,38,2025
+10051,51,Samuel,Iling-Junior,Iling Jr,2,Aston Villa,3,MID,5.5,0,38,2025
+10052,52,Jacob,Ramsey,J.Ramsey,2,Aston Villa,3,MID,5.5,66,38,2025
+10053,53,Donyell,Malen,Malen,2,Aston Villa,3,MID,5.5,34,17,2025
+10054,54,John,McGinn,McGinn,2,Aston Villa,3,MID,5.5,78,38,2025
+10055,55,Ross,Barkley,Barkley,2,Aston Villa,3,MID,5.0,44,38,2025
+10056,56,Enzo,Barrenechea,Barrenechea,2,Aston Villa,3,MID,5.0,0,38,2025
+10057,57,Lewis,Dobbin,Dobbin,2,Aston Villa,3,MID,5.0,0,38,2025
+10058,58,Boubacar,Kamara,Kamara,2,Aston Villa,3,MID,5.0,57,38,2025
+10059,59,Amadou,Onana,Onana,2,Aston Villa,3,MID,5.0,65,38,2025
+10060,60,Ben,Broggio,Broggio,2,Aston Villa,3,MID,4.5,0,27,2025
+10061,61,Leander,Dendoncker,Dendoncker,2,Aston Villa,3,MID,4.5,0,38,2025
+10062,62,Jamaldeen,Jimoh-Aloba,Jimoh-Aloba,2,Aston Villa,3,MID,4.5,65,38,2025
+10063,63,Kadan,Young,Young,2,Aston Villa,3,MID,4.5,0,35,2025
+10064,64,Ollie,Watkins,Watkins,2,Aston Villa,4,FWD,9.0,186,38,2025
+10065,65,Zépiqueno,Redmond,Redmond,2,Aston Villa,4,FWD,4.5,0,0,2025
+10183,183,Max,Weiß,Weiss,3,Burnley,1,GK,4.5,63,38,2025
+10184,184,Etienne,Green,Green,3,Burnley,1,GK,4.0,25,38,2025
+10185,185,Václav,Hladký,Hladký,3,Burnley,1,GK,4.0,25,38,2025
+10186,186,Connor,Roberts,Roberts,3,Burnley,2,DEF,4.5,34,38,2025
+10187,187,Kyle,Walker,Walker,3,Burnley,2,DEF,4.5,13,38,2025
+10188,188,Hannes,Delcroix,Delcroix,3,Burnley,2,DEF,4.0,70,38,2025
+10189,189,Owen,Dodgson,Dodgson,3,Burnley,2,DEF,4.0,70,38,2025
+10190,190,Hjalmar,Ekdal,Ekdal,3,Burnley,2,DEF,4.0,70,38,2025
+10191,191,Maxime,Estève,Estève,3,Burnley,2,DEF,4.0,70,38,2025
+10192,192,Quilindschy,Hartman,Hartman,3,Burnley,2,DEF,4.0,70,38,2025
+10193,193,Bashir,Humphreys,Humphreys,3,Burnley,2,DEF,4.0,0,38,2025
+10194,194,Jordan,Beyer,Jordan,3,Burnley,2,DEF,4.0,70,38,2025
+10195,195,Lucas,Pires Silva,Lucas Pires,3,Burnley,2,DEF,4.0,70,38,2025
+10196,196,Shurandy,Sambo,Sambo,3,Burnley,2,DEF,4.0,70,38,2025
+10197,197,Oliver,Sonne,Sonne,3,Burnley,2,DEF,4.0,70,38,2025
+10198,198,Axel,Tuanzebe,Tuanzebe,3,Burnley,2,DEF,4.0,27,38,2025
+10199,199,Joe,Worrall,Worrall,3,Burnley,2,DEF,4.0,0,38,2025
+10200,200,Jaidon,Anthony,Anthony,3,Burnley,3,MID,5.5,0,38,2025
+10201,201,Manuel,Benson Hedilazio,Benson,3,Burnley,3,MID,5.5,48,38,2025
+10202,202,Jacob,Bruun Larsen,Bruun Larsen,3,Burnley,3,MID,5.5,48,38,2025
+10203,203,Enock,Agyei,Boateng,3,Burnley,3,MID,5.0,83,36,2025
+10204,204,Darko,Churlinov,Churlinov,3,Burnley,3,MID,5.0,83,36,2025
+10205,205,Josh,Cullen,Cullen,3,Burnley,3,MID,5.0,83,36,2025
+10206,206,Marcus,Edwards,Edwards,3,Burnley,3,MID,5.0,1,38,2025
+10207,207,Hannibal,Mejbri,Hannibal,3,Burnley,3,MID,5.0,0,38,2025
+10208,208,Luca,Koleosho,Koleosho,3,Burnley,3,MID,5.0,83,36,2025
+10209,209,Josh,Laurent,Laurent,3,Burnley,3,MID,5.0,83,36,2025
+10210,210,Loum,Tchaouna,Tchaouna,3,Burnley,3,MID,5.0,83,36,2025
+10211,211,Aaron,Ramsey,A.Ramsey,3,Burnley,3,MID,4.5,83,36,2025
+10212,212,Oluwaseun,Adewumi,Adewumi,3,Burnley,3,MID,4.5,83,36,2025
+10213,213,Jaydon,Banel,Banel,3,Burnley,3,MID,4.5,83,36,2025
+10214,214,Mike,Trésor Ndayishimiye,Trésor,3,Burnley,3,MID,4.5,83,36,2025
+10215,215,Zian,Flemming,Flemming,3,Burnley,4,FWD,5.5,128,38,2025
+10216,216,Zeki,Amdouni,Amdouni,3,Burnley,4,FWD,5.0,34,38,2025
+10217,217,Lyle,Foster,Foster,3,Burnley,4,FWD,5.0,34,38,2025
+10218,218,Ashley,Barnes,Barnes,3,Burnley,4,FWD,4.5,130,38,2025
+10219,219,Michael,Obafemi,Obafemi,3,Burnley,4,FWD,4.5,34,38,2025
+10066,66,Norberto,Murara Neto,Neto,4,Bournemouth,1,GK,4.5,7,38,2025
+10067,67,Đorđe,Petrović,Petrović,4,Bournemouth,1,GK,4.5,0,38,2025
+10068,68,Will,Dennis,Dennis,4,Bournemouth,1,GK,4.0,0,38,2025
+10069,69,Callan,McKenna,McKenna,4,Bournemouth,1,GK,4.0,0,17,2025
+10070,70,Alex,Paulsen,Paulsen,4,Bournemouth,1,GK,4.0,0,38,2025
+10071,71,Illia,Zabarnyi,Zabarnyi,4,Bournemouth,2,DEF,5.0,94,38,2025
+10072,72,Marcos,Senesi Barón,Senesi,4,Bournemouth,2,DEF,4.5,31,38,2025
+10073,73,Adam,Smith,Smith,4,Bournemouth,2,DEF,4.5,57,38,2025
+10074,74,Adrien,Truffert,Truffert,4,Bournemouth,2,DEF,4.5,104,38,2025
+10075,75,Matai,Akinmboni,Akinmboni,4,Bournemouth,2,DEF,4.0,0,18,2025
+10076,76,Owen,Bevan,Bevan,4,Bournemouth,2,DEF,4.0,17,38,2025
+10077,77,James,Hill,Hill,4,Bournemouth,2,DEF,4.0,17,38,2025
+10078,78,Julián,Araujo Zúñiga,J.Araujo,4,Bournemouth,2,DEF,4.0,12,38,2025
+10079,79,Chris,Mepham,Mepham,4,Bournemouth,2,DEF,4.0,0,38,2025
+10080,80,Julio,Soler Barreto,Soler,4,Bournemouth,2,DEF,4.0,3,18,2025
+10081,81,Justin,Kluivert,Kluivert,4,Bournemouth,3,MID,7.0,158,38,2025
+10082,82,Antoine,Semenyo,Semenyo,4,Bournemouth,3,MID,7.0,165,38,2025
+10083,83,Dango,Ouattara,O.Dango,4,Bournemouth,3,MID,6.0,111,38,2025
+10084,84,Marcus,Tavernier,Tavernier,4,Bournemouth,3,MID,5.5,87,38,2025
+10085,85,Tyler,Adams,Adams,4,Bournemouth,3,MID,5.0,58,38,2025
+10086,86,David,Brooks,Brooks,4,Bournemouth,3,MID,5.0,52,38,2025
+10087,87,Ryan,Christie,Christie,4,Bournemouth,3,MID,5.0,76,38,2025
+10088,88,Lewis,Cook,Cook,4,Bournemouth,3,MID,5.0,82,38,2025
+10089,89,Philip,Billing,Philip,4,Bournemouth,3,MID,5.0,10,38,2025
+10090,90,Alex,Scott,Scott,4,Bournemouth,3,MID,5.0,26,38,2025
+10091,91,Luis,Sinisterra Lucumí,Sinisterra,4,Bournemouth,3,MID,5.0,23,38,2025
+10092,92,Romain,Faivre,Faivre,4,Bournemouth,3,MID,4.5,0,38,2025
+10093,93,Hamed,Traorè,H.Traorè,4,Bournemouth,3,MID,4.5,0,38,2025
+10094,94,Dominic,Sadi,Sadi,4,Bournemouth,3,MID,4.5,0,18,2025
+10095,95,Zain,Silcott-Duberry,Silcott-Duberry,4,Bournemouth,3,MID,4.5,1,17,2025
+10096,96,Ben,Winterburn,Winterburn,4,Bournemouth,3,MID,4.5,4,26,2025
+10097,97,Francisco Evanilson,de Lima Barbosa,Evanilson,4,Bournemouth,4,FWD,7.0,128,37,2025
+10098,98,Enes,Ünal,Enes Ünal,4,Bournemouth,4,FWD,5.5,32,38,2025
+10099,99,Daniel,Adu-Adjei,Adu-Adjei,4,Bournemouth,4,FWD,4.5,0,18,2025
+10100,100,Eli Junior,Kroupi,Kroupi.Jr,4,Bournemouth,4,FWD,4.5,20,38,2025
+10101,101,Caoimhín,Kelleher,Kelleher,5,Brentford,1,GK,4.5,45,38,2025
+10102,102,Ellery,Balcombe,Balcombe,5,Brentford,1,GK,4.0,2,38,2025
+10103,103,Matthew,Cox,Cox,5,Brentford,1,GK,4.0,2,38,2025
+10104,104,Julian,Eyestone,Eyestone,5,Brentford,1,GK,4.0,0,15,2025
+10105,105,Hákon Rafn,Valdimarsson,Valdimarsson,5,Brentford,1,GK,4.0,2,38,2025
+10106,106,Nathan,Collins,Collins,5,Brentford,2,DEF,5.0,127,38,2025
+10107,107,Keane,Lewis-Potter,Lewis-Potter,5,Brentford,2,DEF,5.0,94,38,2025
+10108,108,Kristoffer,Ajer,Ajer,5,Brentford,2,DEF,4.5,39,38,2025
+10109,109,Rico,Henry,Henry,5,Brentford,2,DEF,4.5,4,38,2025
+10110,110,Michael,Kayode,Kayode,5,Brentford,2,DEF,4.5,27,15,2025
+10111,111,Ethan,Pinnock,Pinnock,5,Brentford,2,DEF,4.5,47,38,2025
+10112,112,Mads,Roerslev Rasmussen,Roerslev,5,Brentford,2,DEF,4.5,36,38,2025
+10113,113,Sepp,van den Berg,Van den Berg,5,Brentford,2,DEF,4.5,62,38,2025
+10114,114,Benjamin,Arthur,Arthur,5,Brentford,2,DEF,4.0,0,21,2025
+10115,115,Benjamin,Fredrick,Fredrick,5,Brentford,2,DEF,4.0,0,11,2025
+10116,116,Aaron,Hickey,Hickey,5,Brentford,2,DEF,4.0,0,38,2025
+10117,117,Kim,Ji-soo,Ji-soo,5,Brentford,2,DEF,4.0,3,38,2025
+10118,118,Jayden,Meghoma,Meghoma,5,Brentford,2,DEF,4.0,1,35,2025
+10120,120,Kevin,Schade,Schade,5,Brentford,3,MID,7.0,149,38,2025
+10121,121,Mikkel,Damsgaard,Damsgaard,5,Brentford,3,MID,6.0,131,38,2025
+10122,122,Antoni,Milambo,Milambo,5,Brentford,3,MID,5.5,149,38,2025
+10123,123,Fábio,Freitas Gouveia Carvalho,Carvalho,5,Brentford,3,MID,5.0,35,38,2025
+10124,124,Jordan,Henderson,Henderson,5,Brentford,3,MID,5.0,135,38,2025
+10125,125,Vitaly,Janelt,Janelt,5,Brentford,3,MID,5.0,73,38,2025
+10126,126,Mathias,Jensen,Jensen,5,Brentford,3,MID,5.0,38,38,2025
+10127,127,Gustavo,Nunes Fernandes Gomes,Nunes,5,Brentford,3,MID,5.0,3,36,2025
+10128,128,Frank,Onyeka,Onyeka,5,Brentford,3,MID,5.0,2,38,2025
+10129,129,Yehor,Yarmoliuk,Yarmoliuk,5,Brentford,3,MID,5.0,43,38,2025
+10130,130,Romelle,Donovan,Donovan,5,Brentford,3,MID,4.5,107,38,2025
+10131,131,Yunus Emre,Konak,Konak,5,Brentford,3,MID,4.5,10,38,2025
+10132,132,Paris,Maghoma,Maghoma,5,Brentford,3,MID,4.5,8,29,2025
+10133,133,Myles,Peart-Harris,Peart-Harris,5,Brentford,3,MID,4.5,0,38,2025
+10134,134,Ryan,Trevitt,Trevitt,5,Brentford,3,MID,4.5,1,38,2025
+10135,135,Yoane,Wissa,Wissa,5,Brentford,4,FWD,7.5,185,38,2025
+10136,136,Igor Thiago,Nascimento Rodrigues,Thiago,5,Brentford,4,FWD,6.0,9,38,2025
+10137,137,Iwan,Morgan,Morgan,5,Brentford,4,FWD,4.5,0,13,2025
+10138,138,Jason,Steele,Steele,6,Brighton,1,GK,4.5,9,38,2025
+10139,139,Bart,Verbruggen,Verbruggen,6,Brighton,1,GK,4.5,103,38,2025
+10140,140,Tom,McGill,McGill,6,Brighton,1,GK,4.0,9,38,2025
+10141,141,Carl,Rushworth,Rushworth,6,Brighton,1,GK,4.0,0,38,2025
+10142,142,Kjell,Scherpen,Scherpen,6,Brighton,1,GK,4.0,9,38,2025
+10143,143,Olivier,Boscagli,Boscagli,6,Brighton,2,DEF,4.5,87,38,2025
+10144,144,Diego,Coppola,Coppola,6,Brighton,2,DEF,4.5,87,38,2025
+10145,145,Maxim,De Cuyper,De Cuyper,6,Brighton,2,DEF,4.5,87,38,2025
+10146,146,Lewis,Dunk,Dunk,6,Brighton,2,DEF,4.5,44,38,2025
+10147,147,Pervis,Estupiñán Tenorio,Estupiñan,6,Brighton,2,DEF,4.5,63,38,2025
+10148,148,Ferdi,Kadıoğlu,F.Kadıoğlu,6,Brighton,2,DEF,4.5,19,36,2025
+10149,149,Igor Julio,dos Santos de Paulo,Igor,6,Brighton,2,DEF,4.5,18,38,2025
+10150,150,Tariq,Lamptey,Lamptey,6,Brighton,2,DEF,4.5,42,38,2025
+10151,151,Jan Paul,van Hecke,Van Hecke,6,Brighton,2,DEF,4.5,87,38,2025
+10152,152,Joël,Veltman,Veltman,6,Brighton,2,DEF,4.5,59,38,2025
+10153,153,Adam,Webster,Webster,6,Brighton,2,DEF,4.5,39,38,2025
+10154,154,Eiran,Cashin,Cashin,6,Brighton,2,DEF,4.0,1,14,2025
+10155,155,Jacob,Slater,Slater,6,Brighton,2,DEF,4.0,0,26,2025
+10156,156,Charlie,Tasker,Tasker,6,Brighton,2,DEF,4.0,0,9,2025
+10157,157,Mitoma,Kaoru,Mitoma,6,Brighton,3,MID,6.5,145,38,2025
+10158,158,Georginio,Rutter,Georginio,6,Brighton,3,MID,6.0,95,37,2025
+10159,159,Solly,March,March,6,Brighton,3,MID,6.0,7,38,2025
+10160,160,Yankuba,Minteh,Minteh,6,Brighton,3,MID,6.0,102,38,2025
+10161,161,Julio,Enciso Espínola,Enciso,6,Brighton,3,MID,5.5,59,38,2025
+10162,162,Brajan,Gruda,Gruda,6,Brighton,3,MID,5.5,45,38,2025
+10163,163,Jack,Hinshelwood,Hinshelwood,6,Brighton,3,MID,5.5,89,38,2025
+10164,164,Matt,O'Riley,O'Riley,6,Brighton,3,MID,5.5,50,36,2025
+10165,165,Abdallah,Sima,Sima,6,Brighton,3,MID,5.5,50,36,2025
+10166,166,Yasin,Ayari,Ayari,6,Brighton,3,MID,5.0,74,38,2025
+10167,167,Carlos,Baleba,Baleba,6,Brighton,3,MID,5.0,87,38,2025
+10168,168,Facundo,Buonanotte,Buonanotte,6,Brighton,3,MID,5.0,75,38,2025
+10169,169,Diego,Gómez Amarilla,Gomez,6,Brighton,3,MID,5.0,14,38,2025
+10170,170,James,Milner,Milner,6,Brighton,3,MID,5.0,6,38,2025
+10171,171,Jeremy,Sarmiento Morante,Sarmiento,6,Brighton,3,MID,5.0,1,38,2025
+10172,172,Tom,Watson,Watson,6,Brighton,3,MID,5.0,102,38,2025
+10173,173,Mats,Wieffer,Wieffer,6,Brighton,3,MID,5.0,52,38,2025
+10174,174,Malick,Yalcouyé,Yalcouye,6,Brighton,3,MID,5.0,102,38,2025
+10175,175,Joe,Knight,Knight,6,Brighton,3,MID,4.5,0,15,2025
+10176,176,Adrian,Mazilu,Mazilu,6,Brighton,3,MID,4.5,0,38,2025
+10177,177,Andrew,Moran,Moran,6,Brighton,3,MID,4.5,0,38,2025
+10178,178,Danny,Welbeck,Welbeck,6,Brighton,4,FWD,6.5,125,38,2025
+10179,179,Evan,Ferguson,Ferguson,6,Brighton,4,FWD,5.5,27,38,2025
+10180,180,Stefanos,Tzimas,Tzimas,6,Brighton,4,FWD,5.5,126,38,2025
+10181,181,Charalampos,Kostoulas,Kostoulas,6,Brighton,4,FWD,5.0,126,38,2025
+10220,220,Robert,Lynch Sánchez,Sánchez,7,Chelsea,1,GK,5.0,126,38,2025
+10221,221,Filip,Jörgensen,Jörgensen,7,Chelsea,1,GK,4.5,126,38,2025
+10222,222,Mike,Penders,Penders,7,Chelsea,1,GK,4.0,18,38,2025
+10223,223,Gabriel,Słonina,Slonina,7,Chelsea,1,GK,4.0,18,38,2025
+10224,224,Marc,Cucurella Saseta,Cucurella,7,Chelsea,2,DEF,6.0,133,38,2025
+10225,225,Reece,James,James,7,Chelsea,2,DEF,5.5,54,38,2025
+10226,226,Trevoh,Chalobah,Chalobah,7,Chelsea,2,DEF,5.0,93,38,2025
+10227,227,Levi,Samuels Colwill,Colwill,7,Chelsea,2,DEF,5.0,109,38,2025
+10228,228,Malo,Gusto,Gusto,7,Chelsea,2,DEF,5.0,60,38,2025
+10229,229,Benoît,Badiashile Mukinayi,B.Badiashile,7,Chelsea,2,DEF,4.5,7,38,2025
+10230,230,Wesley,Fofana,Fofana,7,Chelsea,2,DEF,4.5,26,38,2025
+10231,231,Mamadou,Sarr,M.Sarr,7,Chelsea,2,DEF,4.5,0,38,2025
+10232,232,Tosin,Adarabioyo,Tosin,7,Chelsea,2,DEF,4.5,71,38,2025
+10233,233,Josh,Acheampong,Acheampong,7,Chelsea,2,DEF,4.0,4,23,2025
+10234,234,Aarón,Anselmino,Anselmino,7,Chelsea,2,DEF,4.0,0,14,2025
+10235,235,Cole,Palmer,Palmer,7,Chelsea,3,MID,10.5,214,38,2025
+10236,236,Pedro,Lomba Neto,Neto,7,Chelsea,3,MID,7.0,104,38,2025
+10237,237,Enzo,Fernández,Enzo,7,Chelsea,3,MID,6.5,135,38,2025
+10238,238,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,7,Chelsea,3,MID,6.5,86,38,2025
+10239,239,Jamie,Bynoe-Gittens,Gittens,7,Chelsea,3,MID,6.5,86,38,2025
+10240,240,Christopher,Nkunku,Nkunku,7,Chelsea,3,MID,6.0,60,38,2025
+10241,241,Moisés,Caicedo Corozo,Caicedo,7,Chelsea,3,MID,5.5,98,38,2025
+10242,242,Kiernan,Dewsbury-Hall,Dewsbury-Hall,7,Chelsea,3,MID,5.0,18,38,2025
+10243,243,Tyrique,George,George,7,Chelsea,3,MID,5.0,17,23,2025
+10244,244,Roméo,Lavia,Lavia,7,Chelsea,3,MID,5.0,26,38,2025
+10245,245,Mykhailo,Mudryk,Mudryk,7,Chelsea,3,MID,5.0,7,38,2025
+10246,246,Andrey,Nascimento dos Santos,Andrey Santos,7,Chelsea,3,MID,4.5,0,38,2025
+10247,247,Dário,Luís Essugo,D.Essugo,7,Chelsea,3,MID,4.5,135,38,2025
+10248,248,Kendry,Páez Andrade,Paez,7,Chelsea,3,MID,4.5,135,38,2025
+10249,249,João Pedro,Junqueira de Jesus,João Pedro,7,Chelsea,4,FWD,7.5,126,38,2025
+10250,250,Liam,Delap,Delap,7,Chelsea,4,FWD,6.5,132,38,2025
+10251,251,Nicolas,Jackson,N.Jackson,7,Chelsea,4,FWD,6.5,121,38,2025
+10252,252,Marc,Guiu Paz,Marc Guiu,7,Chelsea,4,FWD,4.5,3,38,2025
+10253,253,Dean,Henderson,Henderson,8,Crystal Palace,1,GK,5.0,135,38,2025
+10254,254,Walter,Benítez,Benitez,8,Crystal Palace,1,GK,4.0,0,38,2025
+10255,255,Remi,Matthews,Matthews,8,Crystal Palace,1,GK,4.0,0,38,2025
+10256,256,Daniel,Muñoz Mejía,Muñoz,8,Crystal Palace,2,DEF,5.5,142,38,2025
+10257,257,Maxence,Lacroix,Lacroix,8,Crystal Palace,2,DEF,5.0,114,35,2025
+10258,258,Tyrick,Mitchell,Mitchell,8,Crystal Palace,2,DEF,5.0,123,38,2025
+10259,259,Borna,Sosa,Sosa,8,Crystal Palace,2,DEF,5.0,25,37,2025
+10260,260,Marc,Guéhi,Guéhi,8,Crystal Palace,2,DEF,4.5,116,38,2025
+10261,261,Chris,Richards,Richards,8,Crystal Palace,2,DEF,4.5,68,38,2025
+10262,262,Chadi,Riad Dnanou,Chadi Riad,8,Crystal Palace,2,DEF,4.0,1,38,2025
+10263,263,Nathaniel,Clyne,Clyne,8,Crystal Palace,2,DEF,4.0,18,38,2025
+10264,264,Rob,Holding,Holding,8,Crystal Palace,2,DEF,4.0,0,38,2025
+10265,265,Caleb,Kporha,Kporha,8,Crystal Palace,2,DEF,4.0,2,32,2025
+10266,266,Eberechi,Eze,Eze,8,Crystal Palace,3,MID,7.5,148,38,2025
+10267,267,Ismaïla,Sarr,Sarr,8,Crystal Palace,3,MID,6.5,149,38,2025
+10268,268,Cheick,Doucouré,Doucouré,8,Crystal Palace,3,MID,5.0,19,38,2025
+10269,269,Romain,Esse,Esse,8,Crystal Palace,3,MID,5.0,22,16,2025
+10270,270,Will,Hughes,Hughes,8,Crystal Palace,3,MID,5.0,67,38,2025
+10271,271,Daichi,Kamada,Kamada,8,Crystal Palace,3,MID,5.0,45,38,2025
+10272,272,Jefferson,Lerma Solís,Lerma,8,Crystal Palace,3,MID,5.0,58,38,2025
+10273,273,Adam,Wharton,Wharton,8,Crystal Palace,3,MID,5.0,42,38,2025
+10274,274,Asher,Agbinone,Agbinone,8,Crystal Palace,3,MID,4.5,2,36,2025
+10275,275,Naouirou,Ahamada,Ahamada,8,Crystal Palace,3,MID,4.5,0,38,2025
+10276,276,Justin,Devenny,Devenny,8,Crystal Palace,3,MID,4.5,34,36,2025
+10277,277,Malcolm,Ebiowei,Ebiowei,8,Crystal Palace,3,MID,4.5,0,38,2025
+10278,278,Jesurun,Rak-Sakyi,J.Rak-Sakyi,8,Crystal Palace,3,MID,4.5,0,38,2025
+10279,279,Matheus,França de Oliveira,M.França,8,Crystal Palace,3,MID,4.5,9,38,2025
+10280,280,David,Ozoh,Ozoh,8,Crystal Palace,3,MID,4.5,0,38,2025
+10281,281,Kaden,Rodney,Rodney,8,Crystal Palace,3,MID,4.5,0,36,2025
+10282,282,Franco,Umeh-Chibueze,Umeh,8,Crystal Palace,3,MID,4.5,0,36,2025
+10283,283,Jean-Philippe,Mateta,Mateta,8,Crystal Palace,4,FWD,7.5,150,38,2025
+10284,284,Eddie,Nketiah,Nketiah,8,Crystal Palace,4,FWD,5.5,53,38,2025
+10285,285,Odsonne,Édouard,Édouard,8,Crystal Palace,4,FWD,5.0,0,28,2025
+10286,286,Zach,Marsh,Marsh,8,Crystal Palace,4,FWD,4.5,0,28,2025
+10287,287,Jordan,Pickford,Pickford,9,Everton,1,GK,5.5,158,38,2025
+10288,288,Mark,Travers,Travers,9,Everton,1,GK,4.5,19,38,2025
+10289,289,Harry,Tyrer,Tyrer,9,Everton,1,GK,4.0,0,38,2025
+10290,290,Jarrad,Branthwaite,Branthwaite,9,Everton,2,DEF,5.5,88,38,2025
+10291,291,James,Tarkowski,Tarkowski,9,Everton,2,DEF,5.5,105,38,2025
+10292,292,Vitalii,Mykolenko,Mykolenko,9,Everton,2,DEF,5.0,121,38,2025
+10293,293,Jake,O'Brien,O'Brien,9,Everton,2,DEF,5.0,65,38,2025
+10294,294,Séamus,Coleman,Coleman,9,Everton,2,DEF,4.5,5,38,2025
+10295,295,Michael,Keane,Keane,9,Everton,2,DEF,4.5,48,38,2025
+10296,296,Nathan,Patterson,Patterson,9,Everton,2,DEF,4.5,14,38,2025
+10297,297,Roman,Dixon,Dixon,9,Everton,2,DEF,4.0,0,37,2025
+10298,298,Reece,Welch,Welch,9,Everton,2,DEF,4.0,0,1,2025
+10299,299,Iliman,Ndiaye,Ndiaye,9,Everton,3,MID,6.5,114,38,2025
+10300,300,Dwight,McNeil,McNeil,9,Everton,3,MID,6.0,93,38,2025
+10301,301,Carlos,Alcaraz Durán,Alcaraz,9,Everton,3,MID,5.5,44,39,2025
+10302,302,Idrissa Gana,Gueye,Gana,9,Everton,3,MID,5.5,89,38,2025
+10303,303,James,Garner,Garner,9,Everton,3,MID,5.0,42,38,2025
+10304,304,Tim,Iroegbunam,Iroegbunam,9,Everton,3,MID,5.0,22,38,2025
+10305,305,Harrison,Armstrong,Armstrong,9,Everton,3,MID,4.5,2,38,2025
+10306,306,Callum,Bates,Bates,9,Everton,3,MID,4.5,0,28,2025
+10307,307,Coby,Ebere,Ebere,9,Everton,3,MID,4.5,0,14,2025
+10308,308,Isaac,Heath,Heath,9,Everton,3,MID,4.5,0,16,2025
+10309,309,Jenson,Metcalfe,Metcalfe,9,Everton,3,MID,4.5,0,38,2025
+10310,310,Thierno,Barry,Barry,9,Everton,4,FWD,6.0,63,38,2025
+10311,311,Norberto Bercique,Gomes Betuncal,Beto,9,Everton,4,FWD,5.5,87,38,2025
+10312,312,Youssef,Ramalho Chermiti,Y.Chermiti,9,Everton,4,FWD,5.0,3,38,2025
+10313,313,Martin,Sherif,Sherif,9,Everton,4,FWD,4.5,0,19,2025
+10667,667,Adam,Aznou,Aznou,9,Everton,2,DEF,4.5,121,38,2025
+10314,314,Bernd,Leno,Leno,10,Fulham,1,GK,5.0,115,38,2025
+10315,315,Steven,Benda,Benda,10,Fulham,1,GK,4.0,0,38,2025
+10316,316,Antonee,Robinson,Robinson,10,Fulham,2,DEF,5.0,106,38,2025
+10317,317,Joachim,Andersen,Andersen,10,Fulham,2,DEF,4.5,51,38,2025
+10318,318,Calvin,Bassey,Bassey,10,Fulham,2,DEF,4.5,75,38,2025
+10319,319,Timothy,Castagne,Castagne,10,Fulham,2,DEF,4.5,46,38,2025
+10320,320,Issa,Diop,Diop,10,Fulham,2,DEF,4.5,31,38,2025
+10321,321,Jorge,Cuenca Barreno,J.Cuenca,10,Fulham,2,DEF,4.5,9,38,2025
+10322,322,Kenny,Tete,Tete,10,Fulham,2,DEF,4.5,49,38,2025
+10323,323,Samuel,Amissah,Amissah,10,Fulham,2,DEF,4.0,0,26,2025
+10324,324,Alex,Iwobi,Iwobi,10,Fulham,3,MID,6.5,156,38,2025
+10325,325,Emile,Smith Rowe,Smith Rowe,10,Fulham,3,MID,6.0,114,38,2025
+10326,326,Adama,Traoré Diarra,Adama,10,Fulham,3,MID,5.5,95,38,2025
+10327,327,Andreas,Hoelgebaum Pereira,Andreas,10,Fulham,3,MID,5.5,81,38,2025
+10328,328,Ryan,Sessegnon,Sessegnon,10,Fulham,3,MID,5.5,57,38,2025
+10329,329,Harry,Wilson,Wilson,10,Fulham,3,MID,5.5,78,38,2025
+10330,330,Sander,Berge,Berge,10,Fulham,3,MID,5.0,53,37,2025
+10331,331,Tom,Cairney,Cairney,10,Fulham,3,MID,5.0,33,38,2025
+10332,332,Saša,Lukić,Lukić,10,Fulham,3,MID,5.0,56,38,2025
+10333,333,Martial,Godo,Godo,10,Fulham,3,MID,4.5,2,38,2025
+10334,334,Luke,Harris,Harris,10,Fulham,3,MID,4.5,0,38,2025
+10335,335,Josh,King,King,10,Fulham,3,MID,4.5,10,38,2025
+10336,336,Harrison,Reed,Reed,10,Fulham,3,MID,4.5,10,38,2025
+10337,337,Raúl,Jiménez Rodríguez,Raúl,10,Fulham,4,FWD,6.5,147,38,2025
+10338,338,Rodrigo,Muniz Carvalho,Muniz,10,Fulham,4,FWD,5.5,86,38,2025
+10664,664,Benjamin,Lecomte,Lecomte,10,Fulham,1,GK,4.0,0,38,2025
+10339,339,Illan,Meslier,Meslier,11,Leeds,1,GK,4.5,49,38,2025
+10340,340,Alex,Cairns,Cairns,11,Leeds,1,GK,4.0,16,38,2025
+10341,341,Karl,Darlow,Darlow,11,Leeds,1,GK,4.0,16,38,2025
+10342,342,Jayden,Bogle,Bogle,11,Leeds,2,DEF,4.5,52,38,2025
+10343,343,Pascal,Struijk,Struijk,11,Leeds,2,DEF,4.5,52,38,2025
+10344,344,Jaka,Bijol,Bijol,11,Leeds,2,DEF,4.0,52,38,2025
+10345,345,Sebastiaan,Bornauw,Bornauw,11,Leeds,2,DEF,4.0,52,38,2025
+10346,346,Sam,Byram,Byram,11,Leeds,2,DEF,4.0,52,38,2025
+10347,347,Gabriel,Gudmundsson,Gudmundsson,11,Leeds,2,DEF,4.0,52,38,2025
+10348,348,Joe,Rodon,Rodon,11,Leeds,2,DEF,4.0,52,38,2025
+10349,349,Isaac,Schmidt,Schmidt,11,Leeds,2,DEF,4.0,52,38,2025
+10350,350,Brenden,Aaronson,Aaronson,11,Leeds,3,MID,5.5,88,38,2025
+10351,351,Wilfried,Gnonto,Gnonto,11,Leeds,3,MID,5.5,88,38,2025
+10352,352,Jack,Harrison,Harrison,11,Leeds,3,MID,5.5,81,38,2025
+10353,353,Daniel,James,James,11,Leeds,3,MID,5.5,54,38,2025
+10354,354,Ethan,Ampadu,Ampadu,11,Leeds,3,MID,5.0,88,38,2025
+10355,355,Sam,Greenwood,Greenwood,11,Leeds,3,MID,5.0,88,38,2025
+10356,356,Ilia,Gruev,Gruev,11,Leeds,3,MID,5.0,88,38,2025
+10357,357,Largie,Ramazani,Ramazani,11,Leeds,3,MID,5.0,88,38,2025
+10358,358,Tanaka,Ao,Tanaka,11,Leeds,3,MID,5.0,88,38,2025
+10359,359,Charlie,Crew,Crew,11,Leeds,3,MID,4.5,67,38,2025
+10360,360,Joe,Gelhardt,Gelhardt,11,Leeds,3,MID,4.5,67,38,2025
+10361,361,Darko,Gyabi,Gyabi,11,Leeds,3,MID,4.5,67,38,2025
+10362,362,Joël,Piroe,Piroe,11,Leeds,4,FWD,5.5,132,38,2025
+10363,363,Patrick,Bamford,Bamford,11,Leeds,4,FWD,5.0,8,38,2025
+10364,364,Mateo,Joseph Fernández-Regatillo,Mateo Joseph,11,Leeds,4,FWD,5.0,8,38,2025
+10365,365,Lukas,Nmecha,Nmecha,11,Leeds,4,FWD,5.0,8,38,2025
+10493,493,Sean,Longstaff,Longstaff,11,Leeds,3,MID,5.0,34,38,2025
+10660,660,Anton,Stach,Stach,11,Leeds,3,MID,5.0,88,38,2025
+10665,665,Lucas Estella,Perri,Perri,11,Leeds,1,GK,4.5,49,38,2025
+10366,366,Alisson,Becker,A.Becker,12,Liverpool,1,GK,5.5,112,38,2025
+10367,367,Giorgi,Mamardashvili,Mamardashvili,12,Liverpool,1,GK,4.5,1,34,2025
+10368,368,Ármin,Pécsi,Pécsi,12,Liverpool,1,GK,4.0,45,38,2025
+10369,369,Freddie,Woodman,Woodman,12,Liverpool,1,GK,4.0,45,38,2025
+10370,370,Jeremie,Frimpong,Frimpong,12,Liverpool,2,DEF,6.0,91,38,2025
+10371,371,Milos,Kerkez,Kerkez,12,Liverpool,2,DEF,6.0,134,38,2025
+10372,372,Andrew,Robertson,Robertson,12,Liverpool,2,DEF,6.0,91,38,2025
+10373,373,Virgil,van Dijk,Virgil,12,Liverpool,2,DEF,6.0,143,38,2025
+10374,374,Ibrahima,Konaté,Konaté,12,Liverpool,2,DEF,5.5,106,38,2025
+10375,375,Conor,Bradley,Bradley,12,Liverpool,2,DEF,5.0,41,38,2025
+10376,376,Joe,Gomez,Gomez,12,Liverpool,2,DEF,5.0,14,38,2025
+10377,377,Konstantinos,Tsimikas,Tsimikas,12,Liverpool,2,DEF,5.0,43,38,2025
+10378,378,Amara,Nallo,Nallo,12,Liverpool,2,DEF,4.0,0,25,2025
+10379,379,Rhys,Williams,R.Williams,12,Liverpool,2,DEF,4.0,0,38,2025
+10380,380,Calvin,Ramsay,Ramsay,12,Liverpool,2,DEF,4.0,9,38,2025
+10381,381,Mohamed,Salah,M.Salah,12,Liverpool,3,MID,14.5,344,38,2025
+10382,382,Florian,Wirtz,Wirtz,12,Liverpool,3,MID,8.5,183,38,2025
+10383,383,Luis,Díaz Marulanda,Luis Díaz,12,Liverpool,3,MID,8.0,183,38,2025
+10384,384,Cody,Gakpo,Gakpo,12,Liverpool,3,MID,7.5,127,38,2025
+10385,385,Federico,Chiesa,Chiesa,12,Liverpool,3,MID,6.5,7,36,2025
+10386,386,Alexis,Mac Allister,Mac Allister,12,Liverpool,3,MID,6.5,122,38,2025
+10387,387,Dominik,Szoboszlai,Szoboszlai,12,Liverpool,3,MID,6.5,143,38,2025
+10388,388,Curtis,Jones,C.Jones,12,Liverpool,3,MID,5.5,87,38,2025
+10389,389,Harvey,Elliott,Elliott,12,Liverpool,3,MID,5.5,33,38,2025
+10390,390,Ryan,Gravenberch,Gravenberch,12,Liverpool,3,MID,5.5,92,38,2025
+10391,391,Ben,Doak,Doak,12,Liverpool,3,MID,5.0,0,38,2025
+10392,392,Endo,Wataru,Endo,12,Liverpool,3,MID,5.0,21,38,2025
+10393,393,Stefan,Bajčetić Maquieira,Bajcetic,12,Liverpool,3,MID,4.5,0,38,2025
+10394,394,James,McConnell,McConnell,12,Liverpool,3,MID,4.5,0,38,2025
+10395,395,Tyler,Morton,Morton,12,Liverpool,3,MID,4.5,0,38,2025
+10396,396,Trey,Nyoni,Nyoni,12,Liverpool,3,MID,4.5,0,26,2025
+10397,397,Darwin,Núñez Ribeiro,Darwin,12,Liverpool,4,FWD,6.5,66,38,2025
+10398,398,Jayden,Danns,Danns,12,Liverpool,4,FWD,4.5,1,21,2025
+10661,661,Hugo,Ekitiké,Ekitiké,12,Liverpool,4,FWD,8.5,0,0,2025
+10182,182,James,Trafford,Trafford,13,Man City,1,GK,5.0,111,38,2025
+10399,399,Ederson,Santana de Moraes,Ederson M.,13,Man City,1,GK,5.5,111,38,2025
+10400,400,Stefan,Ortega Moreno,Ortega Moreno,13,Man City,1,GK,5.0,35,38,2025
+10401,401,Marcus,Bettinelli,Bettinelli,13,Man City,1,GK,4.0,0,38,2025
+10402,402,Rayan,Aït-Nouri,Aït-Nouri,13,Man City,2,DEF,6.0,125,38,2025
+10403,403,Joško,Gvardiol,Gvardiol,13,Man City,2,DEF,6.0,153,38,2025
+10404,404,Manuel,Akanji,Akanji,13,Man City,2,DEF,5.5,61,38,2025
+10405,405,Nathan,Aké,Aké,13,Man City,2,DEF,5.5,25,38,2025
+10406,406,Abdukodir,Khusanov,Khusanov,13,Man City,2,DEF,5.5,14,16,2025
+10407,407,Matheus,Nunes,Matheus N.,13,Man City,2,DEF,5.5,81,38,2025
+10408,408,Rúben,dos Santos Gato Alves Dias,Rúben,13,Man City,2,DEF,5.5,90,38,2025
+10409,409,John,Stones,Stones,13,Man City,2,DEF,5.5,29,38,2025
+10410,410,Rico,Lewis,Lewis,13,Man City,2,DEF,5.0,66,38,2025
+10411,411,Nico,O'Reilly,O’Reilly,13,Man City,2,DEF,5.0,31,38,2025
+10412,412,Vitor,de Oliveira Nunes dos Reis,Vitor Reis,13,Man City,2,DEF,5.0,1,16,2025
+10413,413,Omar,Marmoush,Marmoush,13,Man City,3,MID,8.5,73,16,2025
+10414,414,Phil,Foden,Foden,13,Man City,3,MID,8.0,105,38,2025
+10415,415,Sávio,Moreira de Oliveira,Savinho,13,Man City,3,MID,7.0,106,38,2025
+10416,416,Bernardo,Mota Veiga de Carvalho e Silva,Bernardo,13,Man City,3,MID,6.5,110,38,2025
+10417,417,Rayan,Cherki,Cherki,13,Man City,3,MID,6.5,97,37,2025
+10418,418,Jérémy,Doku,Doku,13,Man City,3,MID,6.5,88,38,2025
+10419,419,Jack,Grealish,Grealish,13,Man City,3,MID,6.5,38,38,2025
+10420,420,İlkay,Gündoğan,Gündoğan,13,Man City,3,MID,6.5,97,37,2025
+10421,421,Rodrigo 'Rodri',Hernandez Cascante,Rodrigo,13,Man City,3,MID,6.5,3,38,2025
+10422,422,Mateo,Kovačić,Kovačić,13,Man City,3,MID,6.0,109,38,2025
+10423,423,Nico,González Iglesias,N.Gonzalez,13,Man City,3,MID,6.0,31,14,2025
+10424,424,Oscar,Bobb,Bobb,13,Man City,3,MID,5.5,3,38,2025
+10425,425,Claudio,Echeverri,Echeverri,13,Man City,3,MID,5.5,1,11,2025
+10426,426,James,McAtee,McAtee,13,Man City,3,MID,5.5,31,38,2025
+10427,427,Tijjani,Reijnders,Reijnders,13,Man City,3,MID,5.5,109,38,2025
+10428,428,Sverre,Nypan,Nypan,13,Man City,3,MID,5.0,81,38,2025
+10429,429,Kalvin,Phillips,Phillips,13,Man City,3,MID,5.0,27,38,2025
+10430,430,Erling,Haaland,Haaland,13,Man City,4,FWD,14.0,181,38,2025
+10119,119,Bryan,Mbeumo,Mbeumo,14,Man Utd,3,MID,8.0,236,38,2025
+10431,431,Altay,Bayındır,Bayindir,14,Man Utd,1,GK,5.0,8,38,2025
+10432,432,André,Onana,Onana,14,Man Utd,1,GK,5.0,120,38,2025
+10433,433,Elyh,Harrison,Harrison,14,Man Utd,1,GK,4.0,0,15,2025
+10434,434,Tom,Heaton,Heaton,14,Man Utd,1,GK,4.0,0,38,2025
+10435,435,Dermot,Mee,Mee,14,Man Utd,1,GK,4.0,0,11,2025
+10436,436,Matthijs,de Ligt,De Ligt,14,Man Utd,2,DEF,5.0,68,38,2025
+10437,437,Lisandro,Martínez,Martinez,14,Man Utd,2,DEF,5.0,68,38,2025
+10438,438,Noussair,Mazraoui,Mazraoui,14,Man Utd,2,DEF,5.0,88,38,2025
+10439,439,Diego,León Blanco,D.Leon,14,Man Utd,2,DEF,4.5,88,38,2025
+10440,440,Diogo,Dalot Teixeira,Dalot,14,Man Utd,2,DEF,4.5,95,38,2025
+10441,441,Patrick,Dorgu,Dorgu,14,Man Utd,2,DEF,4.5,18,14,2025
+10442,442,Harry,Maguire,Maguire,14,Man Utd,2,DEF,4.5,48,38,2025
+10443,443,Luke,Shaw,Shaw,14,Man Utd,2,DEF,4.5,5,38,2025
+10444,444,Leny,Yoro,Yoro,14,Man Utd,2,DEF,4.5,22,38,2025
+10445,445,Harry,Amass,Amass,14,Man Utd,2,DEF,4.0,4,30,2025
+10446,446,Tyler,Fredricson,Fredricson,14,Man Utd,2,DEF,4.0,2,14,2025
+10447,447,Ayden,Heaven,Heaven,14,Man Utd,2,DEF,4.0,10,35,2025
+10448,448,Tyrell,Malacia,Malacia,14,Man Utd,2,DEF,4.0,2,38,2025
+10449,449,Bruno,Borges Fernandes,B.Fernandes,14,Man Utd,3,MID,9.0,174,38,2025
+10450,450,Matheus,Santos Carneiro da Cunha,Cunha,14,Man Utd,3,MID,8.0,178,38,2025
+10451,451,Marcus,Rashford,Rashford,14,Man Utd,3,MID,7.0,95,38,2025
+10452,452,Amad,Diallo,Amad,14,Man Utd,3,MID,6.5,129,38,2025
+10453,453,Alejandro,Garnacho Ferreyra,Garnacho,14,Man Utd,3,MID,6.5,106,38,2025
+10454,454,Antony,dos Santos,Antony,14,Man Utd,3,MID,6.0,8,38,2025
+10455,455,Mason,Mount,Mount,14,Man Utd,3,MID,6.0,25,38,2025
+10456,456,Jadon,Sancho,Sancho,14,Man Utd,3,MID,6.0,86,38,2025
+10457,457,Carlos Henrique,Casimiro,Casemiro,14,Man Utd,3,MID,5.5,48,38,2025
+10458,458,Kobbie,Mainoo,Mainoo,14,Man Utd,3,MID,5.0,42,38,2025
+10459,459,Manuel,Ugarte Ribeiro,Ugarte,14,Man Utd,3,MID,5.0,49,35,2025
+10460,460,Toby,Collyer,Collyer,14,Man Utd,3,MID,4.5,6,38,2025
+10461,461,Jayce,Fitzgerald,Fitzgerald,14,Man Utd,3,MID,4.5,0,29,2025
+10462,462,Jack,Fletcher,J.Fletcher,14,Man Utd,3,MID,4.5,0,31,2025
+10463,463,Sékou,Koné,Kone,14,Man Utd,3,MID,4.5,0,14,2025
+10464,464,Jack,Moorhouse,Moorhouse,14,Man Utd,3,MID,4.5,0,14,2025
+10465,465,Rasmus,Højlund,Højlund,14,Man Utd,4,FWD,6.5,78,38,2025
+10466,466,Joshua,Zirkzee,Zirkzee,14,Man Utd,4,FWD,6.0,64,38,2025
+10467,467,Chido,Obi,Obi,14,Man Utd,4,FWD,4.5,7,14,2025
+10468,468,Ethan,Wheatley,Wheatley,14,Man Utd,4,FWD,4.5,0,36,2025
+10469,469,Nick,Pope,Pope,15,Newcastle,1,GK,5.0,102,38,2025
+10470,470,Martin,Dúbravka,Dúbravka,15,Newcastle,1,GK,4.0,44,38,2025
+10471,471,Mark,Gillespie,Gillespie,15,Newcastle,1,GK,4.0,44,38,2025
+10472,472,Odysseas,Vlachodimos,Odysseas,15,Newcastle,1,GK,4.0,0,38,2025
+10473,473,Lewis,Hall,Hall,15,Newcastle,2,DEF,5.5,102,38,2025
+10474,474,Fabian,Schär,Schär,15,Newcastle,2,DEF,5.5,118,38,2025
+10475,475,Sven,Botman,Botman,15,Newcastle,2,DEF,5.0,18,38,2025
+10476,476,Dan,Burn,Burn,15,Newcastle,2,DEF,5.0,115,38,2025
+10477,477,Tino,Livramento,Livramento,15,Newcastle,2,DEF,5.0,105,38,2025
+10478,478,Kieran,Trippier,Trippier,15,Newcastle,2,DEF,5.0,72,38,2025
+10479,479,Emil,Krafth,Krafth,15,Newcastle,2,DEF,4.5,17,38,2025
+10480,480,Jamaal,Lascelles,Lascelles,15,Newcastle,2,DEF,4.5,0,38,2025
+10481,481,Alex,Murphy,A.Murphy,15,Newcastle,2,DEF,4.0,0,38,2025
+10482,482,Harrison,Ashby,Ashby,15,Newcastle,2,DEF,4.0,17,38,2025
+10483,483,Miodrag,Pivaš,Pivas,15,Newcastle,2,DEF,4.0,0,38,2025
+10484,484,Matt,Targett,Targett,15,Newcastle,2,DEF,4.0,2,38,2025
+10485,485,Anthony,Gordon,Gordon,15,Newcastle,3,MID,7.5,124,38,2025
+10486,486,Anthony,Elanga,Elanga,15,Newcastle,3,MID,7.0,153,38,2025
+10487,487,Harvey,Barnes,Barnes,15,Newcastle,3,MID,6.5,130,38,2025
+10488,488,Bruno,Guimarães Rodriguez Moura,Bruno G.,15,Newcastle,3,MID,6.5,135,38,2025
+10489,489,Jacob,Murphy,J.Murphy,15,Newcastle,3,MID,6.5,159,38,2025
+10490,490,Joelinton Cássio,Apolinário de Lira,Joelinton,15,Newcastle,3,MID,6.0,99,38,2025
+10491,491,Sandro,Tonali,Tonali,15,Newcastle,3,MID,5.5,106,38,2025
+10492,492,Antoñito,Cordero Campillo,Antoñito C.,15,Newcastle,3,MID,5.0,159,38,2025
+10494,494,Joe,Willock,Willock,15,Newcastle,3,MID,5.0,46,38,2025
+10495,495,Isaac,Hayden,Hayden,15,Newcastle,3,MID,4.5,0,38,2025
+10496,496,Garang,Kuol,Kuol,15,Newcastle,3,MID,4.5,0,38,2025
+10497,497,Lewis,Miley,L.Miley,15,Newcastle,3,MID,4.5,21,38,2025
+10498,498,Joe,White,White,15,Newcastle,3,MID,4.5,0,38,2025
+10499,499,Alexander,Isak,Isak,15,Newcastle,4,FWD,10.5,211,38,2025
+10500,500,William,Osula,Osula,15,Newcastle,4,FWD,5.5,19,38,2025
+10501,501,Sean,Neave,Neave,15,Newcastle,4,FWD,4.5,0,11,2025
+10502,502,Matz,Sels,Sels,16,Nott'm Forest,1,GK,5.0,150,38,2025
+10503,503,Carlos Miguel,dos Santos Pereira,C.Miguel,16,Nott'm Forest,1,GK,4.0,0,38,2025
+10504,504,Matt,Turner,Turner,16,Nott'm Forest,1,GK,4.0,0,38,2025
+10505,505,Nikola,Milenković,Milenković,16,Nott'm Forest,2,DEF,5.5,145,38,2025
+10506,506,Murillo,Costa dos Santos,Murillo,16,Nott'm Forest,2,DEF,5.5,130,38,2025
+10507,507,Ola,Aina,Aina,16,Nott'm Forest,2,DEF,5.0,128,38,2025
+10508,508,Neco,Williams,N.Williams,16,Nott'm Forest,2,DEF,5.0,109,38,2025
+10509,509,David,Mota Veiga Teixeira do Carmo,David Carmo,16,Nott'm Forest,2,DEF,4.5,130,38,2025
+10510,510,Jair,Paula da Cunha Filho,Jair Cunha,16,Nott'm Forest,2,DEF,4.5,130,38,2025
+10511,511,Felipe,Rodrigues da Silva,Morato,16,Nott'm Forest,2,DEF,4.5,36,35,2025
+10512,512,Omar,Richards,O.Richards,16,Nott'm Forest,2,DEF,4.5,0,38,2025
+10513,513,Zach,Abbott,Abbott,16,Nott'm Forest,2,DEF,4.0,0,20,2025
+10514,514,Willy,Boly,Boly,16,Nott'm Forest,2,DEF,4.0,6,38,2025
+10515,515,Morgan,Gibbs-White,Gibbs-White,16,Nott'm Forest,3,MID,7.5,154,38,2025
+10516,516,Callum,Hudson-Odoi,Hudson-Odoi,16,Nott'm Forest,3,MID,6.0,103,38,2025
+10517,517,Elliot,Anderson,Anderson,16,Nott'm Forest,3,MID,5.5,107,38,2025
+10518,518,João Pedro,Ferreira da Silva,Jota,16,Nott'm Forest,3,MID,5.5,52,38,2025
+10519,519,Nicolás,Domínguez,Dominguez,16,Nott'm Forest,3,MID,5.0,54,38,2025
+10520,520,Lewis,O'Brien,O'Brien,16,Nott'm Forest,3,MID,5.0,0,38,2025
+10521,521,Ibrahim,Sangaré,Sangaré,16,Nott'm Forest,3,MID,5.0,20,38,2025
+10522,522,Ryan,Yates,Yates,16,Nott'm Forest,3,MID,5.0,67,38,2025
+10523,523,Eric,da Silva Moreira,Da Silva Moreira,16,Nott'm Forest,3,MID,4.5,2,38,2025
+10524,524,Marko,Stamenić,Stamenic,16,Nott'm Forest,3,MID,4.5,67,38,2025
+10525,525,Chris,Wood,Wood,16,Nott'm Forest,4,FWD,7.5,200,38,2025
+10526,526,Igor Jesus,Maciel da Cruz,Igor Jesus,16,Nott'm Forest,4,FWD,6.0,32,38,2025
+10527,527,Taiwo,Awoniyi,Awoniyi,16,Nott'm Forest,4,FWD,5.5,32,38,2025
+10669,669,Dan,Ndoye,Ndoye,16,Nott'm Forest,3,MID,6.0,52,38,2025
+10528,528,Anthony,Patterson,Patterson,17,Sunderland,1,GK,4.5,14,38,2025
+10529,529,Simon,Moore,Moore,17,Sunderland,1,GK,4.0,0,1,2025
+10530,530,Blondy,Nna Noukeu,Nna Noukeu,17,Sunderland,1,GK,4.0,12,38,2025
+10531,531,Daniel,Ballard,Ballard,17,Sunderland,2,DEF,4.5,54,38,2025
+10532,532,Trai,Hume,Hume,17,Sunderland,2,DEF,4.5,54,38,2025
+10533,533,Aji,Alese,Alese,17,Sunderland,2,DEF,4.0,60,38,2025
+10534,534,Joe,Anderson,Anderson,17,Sunderland,2,DEF,4.0,107,38,2025
+10535,535,Dennis,Cirkin,Cirkin,17,Sunderland,2,DEF,4.0,60,38,2025
+10536,536,Leo Fuhr,Hjelde,Hjelde,17,Sunderland,2,DEF,4.0,60,38,2025
+10537,537,Niall,Huggins,Huggins,17,Sunderland,2,DEF,4.0,60,38,2025
+10538,538,Zak,Johnson,Johnson,17,Sunderland,2,DEF,4.0,30,38,2025
+10539,539,Luke,O'Nien,O'Nien,17,Sunderland,2,DEF,4.0,60,38,2025
+10540,540,Timothée,Pembélé,Pembele,17,Sunderland,2,DEF,4.0,60,38,2025
+10541,541,Reinildo,Mandava,Reinildo,17,Sunderland,2,DEF,4.0,60,38,2025
+10542,542,Jenson,Seelt,Seelt,17,Sunderland,2,DEF,4.0,60,38,2025
+10543,543,Simon,Adingra,Adingra,17,Sunderland,3,MID,5.5,60,38,2025
+10544,544,Habib,Diarra,Diarra,17,Sunderland,3,MID,5.5,95,37,2025
+10545,545,Patrick,Roberts,Roberts,17,Sunderland,3,MID,5.5,95,37,2025
+10546,546,Milan,Aleksić,Aleksić,17,Sunderland,3,MID,5.0,95,37,2025
+10547,547,Enzo,Le Fée,E.Le Fée,17,Sunderland,3,MID,5.0,95,37,2025
+10548,548,Romaine,Mundle,Mundle,17,Sunderland,3,MID,5.0,95,37,2025
+10549,549,Dan,Neil,Neil,17,Sunderland,3,MID,5.0,95,37,2025
+10550,550,Ian,Poveda-Ocampo,Poveda,17,Sunderland,3,MID,5.0,95,37,2025
+10551,551,Chris,Rigg,Rigg,17,Sunderland,3,MID,5.0,95,37,2025
+10552,552,Noah,Sadiki,Sadiki,17,Sunderland,3,MID,5.0,95,37,2025
+10553,553,Chemsdine,Talbi,Talbi,17,Sunderland,3,MID,5.0,95,37,2025
+10554,554,Abdoullah,Ba,Ba,17,Sunderland,3,MID,4.5,68,38,2025
+10555,555,Alan,Browne,Browne,17,Sunderland,3,MID,4.5,68,38,2025
+10556,556,Pierre,Ekwah Elimby,Ekwah,17,Sunderland,3,MID,4.5,68,38,2025
+10557,557,Harrison,Jones,H.Jones,17,Sunderland,3,MID,4.5,68,38,2025
+10558,558,Jay,Matete,Matete,17,Sunderland,3,MID,4.5,68,38,2025
+10559,559,Nectarios,Triantis,Triantis,17,Sunderland,3,MID,4.5,68,38,2025
+10560,560,Wilson,Isidor,Isidor,17,Sunderland,4,FWD,5.5,45,38,2025
+10561,561,Eliezer,Mayenda Dossou,Mayenda,17,Sunderland,4,FWD,5.5,45,38,2025
+10562,562,Ahmed,Abdullahi,Abdullahi,17,Sunderland,4,FWD,4.5,57,38,2025
+10563,563,Luís Hemir,Silva Semedo,Luís Hemir,17,Sunderland,4,FWD,4.5,57,38,2025
+10564,564,Nazarii,Rusyn,Rusyn,17,Sunderland,4,FWD,4.5,57,38,2025
+10668,668,Granit,Xhaka,Xhaka,17,Sunderland,3,MID,5.0,95,37,2025
+10670,670,Robin,Roefs,Roefs,17,Sunderland,1,GK,4.5,97,38,2025
+10565,565,Guglielmo,Vicario,Vicario,18,Spurs,1,GK,5.0,66,38,2025
+10566,566,Brandon,Austin,Austin,18,Spurs,1,GK,4.0,1,38,2025
+10567,567,Antonín,Kinský,Kinsky,18,Spurs,1,GK,4.0,17,18,2025
+10568,568,Pedro,Porro Sauceda,Pedro Porro,18,Spurs,2,DEF,5.5,98,38,2025
+10569,569,Cristian,Romero,Romero,18,Spurs,2,DEF,5.0,49,38,2025
+10570,570,Kevin,Danso,Danso,18,Spurs,2,DEF,4.5,16,14,2025
+10571,571,Ben,Davies,Davies,18,Spurs,2,DEF,4.5,28,38,2025
+10572,572,Radu,Drăgușin,Dragusin,18,Spurs,2,DEF,4.5,24,38,2025
+10573,573,Djed,Spence,Spence,18,Spurs,2,DEF,4.5,51,38,2025
+10574,574,Destiny,Udogie,Udogie,18,Spurs,2,DEF,4.5,43,38,2025
+10575,575,Micky,van de Ven,Van de Ven,18,Spurs,2,DEF,4.5,32,38,2025
+10576,576,Ashley,Phillips,Phillips,18,Spurs,2,DEF,4.0,0,38,2025
+10577,577,Takai,Kōta,Takai,18,Spurs,2,DEF,4.0,28,38,2025
+10578,578,Luka,Vušković,Vuskovic,18,Spurs,2,DEF,4.0,28,38,2025
+10579,579,Son,Heung-min,Son,18,Spurs,3,MID,8.5,129,38,2025
+10580,580,Brennan,Johnson,Johnson,18,Spurs,3,MID,7.0,137,38,2025
+10581,581,James,Maddison,Maddison,18,Spurs,3,MID,7.0,133,38,2025
+10582,582,Mohammed,Kudus,Kudus,18,Spurs,3,MID,6.5,106,38,2025
+10583,583,Dejan,Kulusevski,Kulusevski,18,Spurs,3,MID,6.5,117,38,2025
+10584,584,Mathys,Tel,Tel,18,Spurs,3,MID,6.5,42,14,2025
+10585,585,Rodrigo,Bentancur,Bentancur,18,Spurs,3,MID,5.5,49,38,2025
+10586,586,Lucas,Bergvall,Bergvall,18,Spurs,3,MID,5.5,44,38,2025
+10587,587,Yves,Bissouma,Bissouma,18,Spurs,3,MID,5.5,50,38,2025
+10588,588,Wilson,Odobert,Odobert,18,Spurs,3,MID,5.5,34,38,2025
+10589,589,Manor,Solomon,Solomon,18,Spurs,3,MID,5.5,0,38,2025
+10590,590,Bryan,Gil Salvatierra,Bryan,18,Spurs,3,MID,5.0,0,38,2025
+10591,591,Archie,Gray,Gray,18,Spurs,3,MID,5.0,45,38,2025
+10592,592,Mikey,Moore,Moore,18,Spurs,3,MID,5.0,19,38,2025
+10593,593,Pape Matar,Sarr,P.M.Sarr,18,Spurs,3,MID,5.0,71,38,2025
+10594,594,Yang,Min-hyeok,Min-hyeok,18,Spurs,3,MID,4.5,71,38,2025
+10595,595,Callum,Olusesi,Olusesi,18,Spurs,3,MID,4.5,0,27,2025
+10596,596,Dominic,Solanke-Mitchell,Solanke,18,Spurs,4,FWD,7.5,108,38,2025
+10597,597,Richarlison,de Andrade,Richarlison,18,Spurs,4,FWD,6.5,35,38,2025
+10598,598,Will,Lankshear,Lankshear,18,Spurs,4,FWD,4.5,3,38,2025
+10599,599,Dane,Scarlett,Scarlett,18,Spurs,4,FWD,4.5,6,38,2025
+10600,600,Alphonse,Areola,Areola,19,West Ham,1,GK,4.5,69,38,2025
+10601,601,Wes,Foderingham,Foderingham,19,West Ham,1,GK,4.0,0,38,2025
+10602,602,Krisztián,Hegyi,Hegyi,19,West Ham,1,GK,4.0,69,38,2025
+10603,603,El Hadji Malick,Diouf,Diouf,19,West Ham,2,DEF,4.5,118,38,2025
+10604,604,Emerson,Palmieri dos Santos,Emerson,19,West Ham,2,DEF,4.5,76,38,2025
+10605,605,Maximilian,Kilman,Kilman,19,West Ham,2,DEF,4.5,82,38,2025
+10606,606,Konstantinos,Mavropanos,Mavropanos,19,West Ham,2,DEF,4.5,45,38,2025
+10607,607,Nayef,Aguerd,N.Aguerd,19,West Ham,2,DEF,4.5,0,38,2025
+10608,608,Ollie,Scarles,Scarles,19,West Ham,2,DEF,4.5,29,28,2025
+10609,609,Jean-Clair,Todibo,Todibo,19,West Ham,2,DEF,4.5,54,38,2025
+10610,610,Aaron,Wan-Bissaka,Wan-Bissaka,19,West Ham,2,DEF,4.5,118,38,2025
+10611,611,Kaelan,Casey,Casey,19,West Ham,2,DEF,4.0,1,36,2025
+10612,612,Lucas,Tolentino Coelho de Lima,L.Paquetá,19,West Ham,3,MID,6.0,80,38,2025
+10613,613,Tomáš,Souček,Souček,19,West Ham,3,MID,6.0,126,38,2025
+10614,614,James,Ward-Prowse,Ward-Prowse,19,West Ham,3,MID,6.0,51,38,2025
+10615,615,Crysencio,Summerville,Summerville,19,West Ham,3,MID,5.5,33,38,2025
+10616,616,Edson,Álvarez Velázquez,Álvarez,19,West Ham,3,MID,5.0,40,38,2025
+10617,617,Maxwel,Cornet,Cornet,19,West Ham,3,MID,5.0,1,38,2025
+10618,618,Guido,Rodríguez,G.Rodriguez,19,West Ham,3,MID,5.0,36,38,2025
+10619,619,Luis Guilherme,Lira dos Santos,L.Guilherme,19,West Ham,3,MID,5.0,12,38,2025
+10620,620,George,Earthy,Earthy,19,West Ham,3,MID,4.5,0,38,2025
+10621,621,Andy,Irving,Irving,19,West Ham,3,MID,4.5,9,38,2025
+10622,622,Lewis,Orford,Orford,19,West Ham,3,MID,4.5,2,23,2025
+10623,623,Freddie,Potts,Potts,19,West Ham,3,MID,4.5,126,38,2025
+10624,624,Jarrod,Bowen,Bowen,19,West Ham,4,FWD,8.0,193,38,2025
+10625,625,Niclas,Füllkrug,Füllkrug,19,West Ham,4,FWD,6.0,42,38,2025
+10626,626,Callum,Marshall,Marshall,19,West Ham,4,FWD,4.5,32,38,2025
+10659,659,Kyle,Walker-Peters,Walker-Peters,19,West Ham,2,DEF,4.5,54,38,2025
+10627,627,Sam,Johnstone,Johnstone,20,Wolves,1,GK,4.5,12,38,2025
+10628,628,José,Malheiro de Sá,José Sá,20,Wolves,1,GK,4.5,93,38,2025
+10629,629,Daniel,Bentley,Bentley,20,Wolves,1,GK,4.0,9,38,2025
+10630,630,Tom,King,King,20,Wolves,1,GK,4.0,1,38,2025
+10631,631,Emmanuel,Agbadou,Agbadou,20,Wolves,2,DEF,4.5,45,18,2025
+10632,632,Matt,Doherty,Doherty,20,Wolves,2,DEF,4.5,75,38,2025
+10633,633,Hugo,Bueno López,H.Bueno,20,Wolves,2,DEF,4.5,0,38,2025
+10634,634,Yerson,Mosquera Valdelamar,Mosquera,20,Wolves,2,DEF,4.5,3,38,2025
+10635,635,Rodrigo,Martins Gomes,R.Gomes,20,Wolves,2,DEF,4.5,42,38,2025
+10636,636,Santiago,Ignacio Bueno,S.Bueno,20,Wolves,2,DEF,4.5,52,38,2025
+10637,637,Toti,Gomes,Toti,20,Wolves,2,DEF,4.5,79,38,2025
+10638,638,Ki-Jana,Hoever,Hoever,20,Wolves,2,DEF,4.0,0,38,2025
+10639,639,Bastien,Meupiyou Menadjou,Meupiyou,20,Wolves,2,DEF,4.0,0,36,2025
+10640,640,Pedro,Cardoso de Lima,Pedro Lima,20,Wolves,2,DEF,4.0,2,38,2025
+10641,641,Alfie,Pond,Pond,20,Wolves,2,DEF,4.0,1,33,2025
+10642,642,Hwang,Hee-chan,Hee Chan,20,Wolves,3,MID,6.0,37,38,2025
+10643,643,André,Trindade da Costa Neto,André,20,Wolves,3,MID,5.5,61,36,2025
+10644,644,Jean-Ricner,Bellegarde,Bellegarde,20,Wolves,3,MID,5.5,90,38,2025
+10645,645,Fer,López González,Fer López,20,Wolves,3,MID,5.5,62,38,2025
+10646,646,João Victor,Gomes da Silva,Gomes,20,Wolves,3,MID,5.5,87,38,2025
+10647,647,Gonçalo Manuel,Ganchinho Guedes,Guedes,20,Wolves,3,MID,5.5,62,38,2025
+10648,648,Marshall,Munetsi,Munetsi,20,Wolves,3,MID,5.5,50,14,2025
+10649,649,Boubacar,Traoré,B.Traore,20,Wolves,3,MID,5.0,1,38,2025
+10650,650,Tawanda,Chirewa,Chirewa,20,Wolves,3,MID,4.5,0,38,2025
+10651,651,Tom,Edozie,Edozie,20,Wolves,3,MID,4.5,0,27,2025
+10652,652,Enso,González Medina,Gonzalez,20,Wolves,3,MID,4.5,0,38,2025
+10653,653,Joe,Hodge,Hodge,20,Wolves,3,MID,4.5,0,38,2025
+10654,654,Jørgen,Strand Larsen,Strand Larsen,20,Wolves,4,FWD,6.5,145,38,2025
+10655,655,Fábio,Soares Silva,Fábio Silva,20,Wolves,4,FWD,5.0,0,38,2025
+10656,656,Saša,Kalajdžić,Kalajdžić,20,Wolves,4,FWD,5.0,0,38,2025
+10657,657,Leon,Chiwome,Chiwome,20,Wolves,4,FWD,4.5,0,38,2025
+10658,658,Nathan,Fraser,Fraser,20,Wolves,4,FWD,4.5,0,38,2025
+10663,663,Jhon,Arias,J.Arias,20,Wolves,3,MID,5.5,62,38,2025

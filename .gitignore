@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archive directory (large historical data)
+archive/
+
+# Temporary files
+*.tmp
+*.bak
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files that might be too large
+*.npy

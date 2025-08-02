@@ -1,0 +1,805 @@
+element,total_points,avg_points,std_points,total_minutes,games_played,start_price,end_price,position,team,name
+1,0,0.0,0.0,0,38,5.5,5.4,MID,Arsenal,Fábio Ferreira Vieira
+2,42,1.11,3.17,600,38,7.0,6.5,FWD,Arsenal,Gabriel Fernando de Jesus
+3,117,3.08,3.44,2363,38,6.0,6.1,DEF,Arsenal,Gabriel dos Santos Magalhães
+4,97,2.55,3.43,1872,38,8.0,7.7,FWD,Arsenal,Kai Havertz
+5,0,0.0,0.0,0,38,4.0,4.0,GK,Arsenal,Karl Hein
+6,114,3.0,3.23,2415,38,5.5,5.5,DEF,Arsenal,Jurriën Timber
+7,20,0.53,0.86,701,38,5.0,4.6,MID,Arsenal,Jorge Luiz Frello Filho
+8,43,1.13,2.0,1117,38,5.0,4.9,DEF,Arsenal,Jakub Kiwior
+9,125,3.29,3.01,2284,38,7.0,6.5,MID,Arsenal,Gabriel Martinelli Silva
+10,27,0.71,1.47,483,38,5.0,5.0,MID,Arsenal,Reiss Nelson
+11,53,1.39,2.38,1018,38,6.0,5.9,FWD,Arsenal,Eddie Nketiah
+12,66,1.74,2.27,882,38,4.5,4.3,MID,Arsenal,Ethan Nwaneri
+13,116,3.05,2.61,2321,38,8.5,8.2,MID,Arsenal,Martin Ødegaard
+14,97,2.55,3.35,2700,38,4.5,4.4,GK,Arsenal,Aaron Ramsdale
+15,142,3.74,2.67,3420,38,5.5,5.6,GK,Arsenal,David Raya Martin
+16,127,3.34,3.22,2823,38,6.5,6.3,MID,Arsenal,Declan Rice
+17,127,3.34,4.69,1724,38,10.0,10.4,MID,Arsenal,Bukayo Saka
+18,130,3.42,3.53,3039,38,6.0,6.4,DEF,Arsenal,William Saliba
+19,114,3.0,3.26,2036,38,5.5,5.0,MID,Fulham,Emile Smith Rowe
+20,108,2.84,2.58,2793,38,5.0,4.9,MID,Arsenal,Thomas Partey
+21,27,0.71,1.86,250,38,4.5,4.3,DEF,Arsenal,Kieran Tierney
+22,1,0.03,0.16,6,38,5.0,4.8,DEF,Arsenal,Tomiyasu Takehiro
+23,152,4.0,3.9,2546,38,7.0,6.7,MID,Arsenal,Leandro Trossard
+24,50,1.32,2.14,1195,38,6.5,6.2,DEF,Arsenal,Benjamin White
+25,40,1.05,2.27,518,38,5.0,4.8,DEF,Arsenal,Oleksandr Zinchenko
+26,34,0.89,1.96,952,38,4.5,4.2,DEF,Aston Villa,Álex Moreno Lopera
+27,57,1.5,1.67,1421,38,5.0,4.8,FWD,Southampton,Cameron Archer
+28,47,1.24,1.76,1132,38,6.5,6.2,MID,Aston Villa,Leon Bailey
+29,44,1.16,2.26,567,38,5.5,5.2,MID,Aston Villa,Ross Barkley
+30,0,0.0,0.0,0,38,5.0,4.9,MID,Aston Villa,Enzo Barrenechea
+31,11,0.29,0.46,89,38,5.5,5.1,MID,Aston Villa,Emiliano Buendía Stati
+32,76,2.0,2.37,2069,38,4.5,4.4,DEF,Aston Villa,Matty Cash
+33,0,0.0,0.0,0,38,4.5,4.5,MID,Aston Villa,Leander Dendoncker
+34,0,0.0,0.0,0,38,6.5,6.5,MID,Aston Villa,Moussa Diaby
+35,21,0.55,1.52,828,38,4.5,4.5,DEF,Aston Villa,Diego Carlos Santos Silva
+36,89,2.34,2.42,2348,38,4.5,4.4,DEF,Aston Villa,Lucas Digne
+37,0,0.0,0.0,0,38,5.0,5.0,MID,Aston Villa,Lewis Dobbin
+38,53,1.39,2.47,622,38,6.0,5.7,FWD,Aston Villa,Jhon Durán
+39,0,0.0,0.0,0,38,4.0,4.0,GK,Aston Villa,Joe Gauci
+40,0,0.0,0.0,0,38,4.0,3.9,DEF,Aston Villa,Kortney Hause
+41,0,0.0,0.0,0,38,5.5,5.4,MID,Aston Villa,Samuel Iling-Junior
+42,57,1.5,1.8,1720,38,5.0,5.0,MID,Aston Villa,Boubacar Kamara
+43,0,0.0,0.0,0,38,4.0,4.0,DEF,Aston Villa,Kaine Kesler-Hayden
+44,103,2.71,3.29,2936,38,4.5,4.5,DEF,Aston Villa,Ezri Konsa Ngoyo
+45,57,1.5,2.02,1125,38,5.0,4.5,DEF,Aston Villa,Ian Maatsen
+46,0,0.0,0.0,0,38,4.0,4.0,GK,Aston Villa,Filip Marschall
+47,111,2.92,2.62,3195,38,5.0,5.0,GK,Aston Villa,Emiliano Martínez Romero
+48,78,2.05,1.52,2217,38,5.5,5.2,MID,Aston Villa,John McGinn
+49,47,1.24,2.32,1119,38,4.5,4.4,DEF,Aston Villa,Tyrone Mings
+50,5,0.13,0.34,121,38,4.0,3.9,DEF,Aston Villa,Kosta Nedeljković
+51,9,0.24,1.15,225,38,4.5,4.5,GK,Aston Villa,Robin Olsen
+52,55,1.45,2.16,2019,38,4.5,4.2,DEF,Aston Villa,Pau Torres
+53,66,1.74,2.06,1616,38,5.5,5.4,MID,Aston Villa,Jacob Ramsey
+54,161,4.24,3.51,3115,38,5.0,5.8,MID,Aston Villa,Morgan Rogers
+55,0,0.0,0.0,0,38,4.0,4.0,GK,Aston Villa,Viljami Sinisalo
+56,0,0.0,0.0,0,38,4.0,4.0,DEF,Aston Villa,Lino da Cruz Sousa
+57,121,3.18,2.73,3025,38,5.5,5.5,MID,Aston Villa,Youri Tielemans
+58,186,4.89,3.91,2593,38,9.0,9.2,FWD,Aston Villa,Ollie Watkins
+59,8,0.21,0.99,84,38,4.5,4.3,DEF,Bournemouth,Max Aarons
+60,58,1.53,1.69,1959,38,5.0,4.9,MID,Bournemouth,Tyler Adams
+61,0,0.0,0.0,0,38,4.5,4.5,MID,Bournemouth,Jaidon Anthony
+62,52,1.37,1.46,941,38,5.0,4.9,MID,Bournemouth,David Brooks
+63,76,2.0,2.42,2114,38,5.0,4.8,MID,Bournemouth,Ryan Christie
+64,82,2.16,1.97,2976,38,5.0,5.0,MID,Bournemouth,Lewis Cook
+65,32,0.84,1.69,330,38,5.5,5.4,FWD,Bournemouth,Enes Ünal
+66,0,0.0,0.0,0,38,5.0,5.0,MID,Bournemouth,Romain Faivre
+67,0,0.0,0.0,0,38,4.5,4.5,MID,Bournemouth,Hamed Traorè
+68,17,0.45,1.18,443,38,4.0,3.9,DEF,Bournemouth,James Hill
+69,20,0.53,1.03,105,38,4.5,4.5,FWD,Bournemouth,Daniel Jebbison
+70,134,3.53,2.98,3336,38,4.5,5.3,DEF,Bournemouth,Milos Kerkez
+71,158,4.16,5.12,2339,38,5.5,5.9,MID,Bournemouth,Justin Kluivert
+72,0,0.0,0.0,0,38,4.5,4.4,DEF,Bournemouth,Chris Mepham
+73,7,0.18,0.8,180,38,4.5,4.1,GK,Bournemouth,Norberto Murara Neto
+74,111,2.92,3.91,1998,38,5.0,4.5,MID,Bournemouth,Dango Ouattara
+75,0,0.0,0.0,0,38,4.0,4.0,GK,Bournemouth,Alex Paulsen
+76,10,0.26,0.45,176,38,5.0,4.8,MID,Bournemouth,Philip Billing
+77,26,0.68,0.93,745,38,5.0,4.7,MID,Bournemouth,Alex Scott
+78,165,4.34,3.65,3202,38,5.5,5.7,MID,Bournemouth,Antoine Semenyo
+79,31,0.82,1.75,1103,38,5.0,4.6,DEF,Bournemouth,Marcos Senesi
+80,23,0.61,1.81,229,38,5.0,4.8,MID,Bournemouth,Luis Sinisterra
+81,57,1.5,2.02,1586,38,4.5,4.4,DEF,Bournemouth,Adam Smith
+82,108,2.84,3.42,2199,38,7.5,7.3,FWD,Spurs,Dominic Solanke-Mitchell
+83,87,2.29,2.29,1932,38,5.5,5.4,MID,Bournemouth,Marcus Tavernier
+84,19,0.5,1.41,450,38,4.5,4.4,GK,Bournemouth,Mark Travers
+85,94,2.47,2.69,3109,38,4.5,4.4,DEF,Bournemouth,Illia Zabarnyi
+86,39,1.03,1.65,1433,38,4.5,4.4,DEF,Brentford,Kristoffer Ajer
+87,0,0.0,0.0,0,38,4.5,4.4,MID,Brentford,Ethan Brierley
+88,127,3.34,3.15,3420,38,4.5,4.6,DEF,Brentford,Nathan Collins
+89,131,3.45,2.47,2911,38,5.0,4.9,MID,Brentford,Mikkel Damsgaard
+90,0,0.0,0.0,0,38,5.0,4.8,MID,Brentford,Josh Dasilva
+91,138,3.63,2.95,3275,38,4.5,4.5,GK,Brentford,Mark Flekken
+92,4,0.11,0.31,94,38,4.5,4.3,DEF,Brentford,Rico Henry
+93,0,0.0,0.0,0,38,4.5,4.3,DEF,Brentford,Aaron Hickey
+94,73,1.92,1.79,2251,38,5.0,4.8,MID,Brentford,Vitaly Janelt
+95,38,1.0,1.21,846,38,5.5,5.3,MID,Brentford,Mathias Jensen
+96,3,0.08,0.27,28,38,4.0,3.9,DEF,Brentford,Kim Ji-soo
+97,10,0.26,0.45,53,38,4.5,4.4,MID,Brentford,Yunus Emre Konak
+98,94,2.47,1.57,3092,38,5.0,5.0,MID,Brentford,Keane Lewis-Potter
+99,236,6.21,4.83,3415,38,7.0,8.3,MID,Brentford,Bryan Mbeumo
+100,9,0.24,0.85,180,38,4.5,4.2,DEF,Brentford,Ben Mee
+101,107,2.82,2.6,2820,38,5.0,4.8,MID,Brentford,Christian Nørgaard
+102,2,0.05,0.23,23,38,5.0,4.9,MID,Brentford,Frank Onyeka
+103,0,0.0,0.0,0,38,4.5,4.5,MID,Brentford,Myles Peart-Harris
+104,47,1.24,1.97,1912,38,4.5,4.4,DEF,Brentford,Ethan Pinnock
+105,36,0.95,1.58,1100,38,4.5,4.3,DEF,Brentford,Mads Roerslev Rasmussen
+106,149,3.92,4.62,2281,38,5.5,5.3,MID,Brentford,Kevin Schade
+107,9,0.24,0.49,167,38,6.0,5.9,FWD,Brentford,Igor Thiago Nascimento Rodrigues
+108,0,0.0,0.0,0,38,7.5,7.3,FWD,Brentford,Ivan Toney
+109,2,0.05,0.23,144,38,4.0,3.9,GK,Brentford,Hákon Valdimarsson
+110,185,4.87,3.9,2921,38,6.0,6.9,FWD,Brentford,Yoane Wissa
+111,43,1.13,0.84,1435,38,4.5,4.3,MID,Brentford,Yehor Yarmoliuk
+112,0,0.0,0.0,0,38,4.5,4.5,DEF,Brentford,Mathias Jorgensen
+113,60,1.58,1.6,1081,38,5.5,5.1,MID,Brighton,Simon Adingra
+114,0,0.0,0.0,0,38,4.5,4.5,MID,Brighton,Benicio Baker-Boaitey
+115,87,2.29,2.66,2660,38,5.0,5.0,MID,Brighton,Carlos Baleba
+116,0,0.0,0.0,0,38,4.0,4.0,DEF,Brighton,Valentín Barco
+117,75,1.97,2.56,1508,38,5.0,4.5,MID,Leicester,Facundo Buonanotte
+118,0,0.0,0.0,0,38,4.5,4.5,MID,Brighton,Amario Cozier-Duberry
+119,0,0.0,0.0,0,38,5.0,4.9,MID,Brighton,Mahmoud Dahoud
+120,44,1.16,2.07,2081,38,4.5,4.2,DEF,Brighton,Lewis Dunk
+121,59,1.55,2.54,1155,38,5.5,5.4,MID,Brighton,Julio Enciso
+122,63,1.66,2.29,2399,38,5.0,4.9,DEF,Brighton,Pervis Estupiñán
+123,27,0.71,1.18,368,38,5.5,5.5,FWD,Brighton,Evan Ferguson
+124,3,0.08,0.36,97,38,5.0,5.0,MID,Brighton,Billy Gilmour
+125,0,0.0,0.0,0,38,6.5,6.5,MID,Brighton,Pascal Groß
+126,89,2.34,3.25,1839,38,5.0,4.9,MID,Brighton,Jack Hinshelwood
+127,0,0.0,0.0,0,38,5.0,5.0,MID,Brighton,Ibrahim Osman
+128,18,0.47,1.11,959,38,4.5,4.3,DEF,Brighton,Igor Julio dos Santos de Paulo
+129,126,3.32,4.22,1946,38,5.5,5.5,FWD,Brighton,João Pedro Junqueira de Jesus
+130,0,0.0,0.0,0,38,4.5,4.5,MID,Brighton,Kacper Kozłowski
+131,42,1.11,2.24,856,38,4.5,4.4,DEF,Brighton,Tariq Lamptey
+132,7,0.18,0.46,161,38,6.5,6.5,MID,Brighton,Solly March
+133,0,0.0,0.0,0,38,4.5,4.5,MID,Brighton,Adrian Mazilu
+134,6,0.16,0.49,170,38,5.0,5.0,MID,Brighton,James Milner
+135,102,2.68,3.35,1831,38,5.5,4.8,MID,Brighton,Yankuba Minteh
+136,145,3.82,3.25,2597,38,6.5,6.3,MID,Brighton,Mitoma Kaoru
+137,4,0.11,0.31,9,38,4.5,4.4,MID,Brighton,Jakub Moder
+138,0,0.0,0.0,0,38,4.5,4.5,FWD,Brighton,Mark O’Mahony
+139,0,0.0,0.0,0,38,4.0,4.0,DEF,Brighton,Odeluga Offiah
+140,0,0.0,0.0,0,38,4.5,4.4,MID,Brighton,Cameron Peupion
+141,1,0.03,0.16,8,38,5.0,4.9,MID,Brighton,Jeremy Sarmiento Morante
+142,9,0.24,1.17,180,38,4.5,4.0,GK,Brighton,Jason Steele
+143,0,0.0,0.0,0,38,5.5,5.5,FWD,Brighton,Deniz Undav
+144,87,2.29,2.78,2960,38,4.5,4.5,DEF,Brighton,Jan Paul van Hecke
+145,59,1.55,2.48,1694,38,4.5,4.3,DEF,Brighton,Joël Veltman
+146,103,2.71,2.81,3240,38,4.5,4.5,GK,Brighton,Bart Verbruggen
+147,39,1.03,2.15,885,38,4.5,4.3,DEF,Brighton,Adam Webster
+148,125,3.29,3.45,2109,38,5.5,5.5,FWD,Brighton,Danny Welbeck
+149,52,1.37,2.03,1003,38,5.0,4.7,MID,Brighton,Mats Wieffer
+150,0,0.0,0.0,0,38,4.5,4.5,MID,Chelsea,Andrey Nascimento dos Santos
+151,0,0.0,0.0,0,38,4.5,4.5,MID,Chelsea,Ângelo Gabriel Borges Damaceno
+152,106,2.79,2.78,2790,38,4.5,4.6,GK,Chelsea,Kepa Arrizabalaga
+153,7,0.18,0.51,332,38,4.5,4.2,DEF,Chelsea,Benoît Badiashile
+154,0,0.0,0.0,0,38,4.0,3.9,GK,Chelsea,Lucas Bergström
+155,0,0.0,0.0,0,38,4.0,3.9,GK,Chelsea,Marcus Bettinelli
+156,12,0.32,0.62,327,38,5.5,5.3,FWD,Chelsea,Armando Broja
+157,98,2.58,1.69,3351,38,5.0,4.9,MID,Chelsea,Moisés Caicedo Corozo
+158,0,0.0,0.0,0,38,4.5,4.4,MID,Chelsea,Cesare Casadei
+159,93,2.45,3.18,1969,38,4.5,4.4,DEF,Chelsea,Trevoh Chalobah
+160,13,0.34,1.17,254,38,5.0,4.6,DEF,Chelsea,Ben Chilwell
+161,0,0.0,0.0,0,38,5.0,4.7,MID,Chelsea,Carney Chukwuemeka
+162,109,2.87,3.51,3150,38,4.5,4.4,DEF,Chelsea,Levi Colwill
+163,133,3.5,4.27,2988,38,5.0,5.4,DEF,Chelsea,Marc Cucurella Saseta
+164,0,0.0,0.0,0,38,5.5,5.4,FWD,Chelsea,David Datro Fofana
+165,0,0.0,0.0,0,38,5.0,4.9,FWD,Chelsea,Deivid Washington de Souza Eugênio
+166,18,0.47,1.03,257,38,6.0,5.5,MID,Chelsea,Kiernan Dewsbury-Hall
+167,33,0.87,1.98,851,38,4.5,4.2,DEF,Chelsea,Axel Disasi
+168,135,3.55,3.07,2943,38,5.0,4.7,MID,Chelsea,Enzo Fernández
+169,0,0.0,0.0,0,38,6.0,5.9,MID,Chelsea,Conor Gallagher
+170,0,0.0,0.0,0,38,4.0,4.0,DEF,Chelsea,Alfie Gilchrist
+171,60,1.58,1.9,1853,38,5.0,4.9,DEF,Chelsea,Malo Gusto
+172,54,1.42,2.59,1057,38,5.0,4.8,DEF,Chelsea,Reece James
+173,0,0.0,0.0,0,38,4.5,4.3,MID,Chelsea,Omari Kellyman
+174,26,0.68,1.12,792,38,4.5,4.5,MID,Chelsea,Roméo Lavia
+175,0,0.0,0.0,0,38,6.5,6.3,FWD,Chelsea,Romelu Lukaku Bolingoli
+176,0,0.0,0.0,0,38,4.5,4.5,DEF,Chelsea,Malang Sarr
+177,120,3.16,4.05,2028,38,6.5,6.0,MID,Chelsea,Noni Madueke
+178,3,0.08,0.27,71,38,5.0,4.7,FWD,Chelsea,Marc Guiu Paz
+179,7,0.18,0.39,145,38,6.5,6.1,MID,Chelsea,Mykhailo Mudryk
+180,121,3.18,3.91,2220,38,7.5,7.7,FWD,Chelsea,Nicolas Jackson
+181,60,1.58,2.88,904,38,6.5,5.7,MID,Chelsea,Christopher Nkunku
+182,214,5.63,5.49,3193,38,10.5,10.5,MID,Chelsea,Cole Palmer
+183,0,0.0,0.0,0,38,4.5,4.4,GK,Chelsea,Đorđe Petrović
+184,7,0.18,0.46,176,38,4.5,4.4,MID,Chelsea,Renato Palma Veiga
+185,126,3.32,3.46,2880,38,4.5,4.5,GK,Chelsea,Robert Sánchez
+186,26,0.68,1.07,490,38,7.0,6.7,MID,Chelsea,Raheem Sterling
+187,71,1.87,2.9,1403,38,4.5,4.2,DEF,Chelsea,Tosin Adarabioyo
+188,47,1.24,1.75,1652,38,4.5,4.4,MID,Chelsea,Lesley Ugochukwu
+189,26,0.68,1.53,1172,38,4.5,4.3,DEF,Chelsea,Wesley Fofana
+190,0,0.0,0.0,0,38,4.5,4.5,MID,Crystal Palace,Naouirou Ahamada
+191,51,1.34,2.12,2673,38,4.5,4.2,DEF,Crystal Palace,Joachim Andersen
+192,75,1.97,2.16,1649,38,5.5,5.1,MID,Crystal Palace,Jordan Ayew
+193,19,0.5,0.92,443,38,5.0,4.8,MID,Crystal Palace,Cheick Doucouré
+194,68,1.79,2.52,1921,38,4.5,4.4,DEF,Crystal Palace,Chris Richards
+195,1,0.03,0.16,90,38,4.5,4.3,DEF,Crystal Palace,Chadi Riad Dnanou
+196,18,0.47,1.11,477,38,4.5,4.3,DEF,Crystal Palace,Nathaniel Clyne
+197,0,0.0,0.0,0,38,4.5,4.5,MID,Crystal Palace,Malcolm Ebiowei
+198,7,0.18,0.46,141,38,5.5,5.1,FWD,Crystal Palace,Odsonne Edouard
+199,148,3.89,3.7,2588,38,7.0,7.0,MID,Crystal Palace,Eberechi Eze
+200,116,3.05,3.53,3059,38,4.5,4.7,DEF,Crystal Palace,Marc Guéhi
+201,135,3.55,2.81,3420,38,4.5,4.6,GK,Crystal Palace,Dean Henderson
+202,0,0.0,0.0,0,38,4.5,4.2,DEF,Crystal Palace,Rob Holding
+203,67,1.76,1.99,2100,38,5.0,4.9,MID,Crystal Palace,Will Hughes
+204,12,0.32,0.74,630,38,4.5,4.1,GK,Crystal Palace,Sam Johnstone
+205,45,1.18,0.83,1545,38,5.5,5.1,MID,Crystal Palace,Daichi Kamada
+206,58,1.53,1.29,2270,38,5.0,4.8,MID,Crystal Palace,Jefferson Lerma Solís
+207,150,3.95,3.78,2642,38,7.5,7.5,FWD,Crystal Palace,Jean-Philippe Mateta
+208,9,0.24,1.0,52,38,4.5,4.4,MID,Crystal Palace,Matheus França de Oliveira
+209,0,0.0,0.0,0,38,4.0,3.9,GK,Crystal Palace,Remi Matthews
+210,123,3.24,2.74,3090,38,5.0,4.8,DEF,Crystal Palace,Tyrick Mitchell
+211,142,3.74,3.55,3229,38,5.0,5.2,DEF,Crystal Palace,Daniel Muñoz
+212,0,0.0,0.0,0,38,4.5,4.5,MID,Crystal Palace,David Ozoh
+213,0,0.0,0.0,0,38,4.5,4.5,MID,Crystal Palace,Jesurun Rak-Sakyi
+214,12,0.32,0.47,95,38,5.0,4.6,MID,Crystal Palace,Jeffrey Schlupp
+215,1,0.03,0.16,71,38,4.5,4.3,DEF,Crystal Palace,Joel Ward
+216,42,1.11,1.37,1314,38,5.0,4.7,MID,Crystal Palace,Adam Wharton
+217,94,2.47,2.57,2563,38,5.5,5.1,MID,Everton,Abdoulaye Doucouré
+218,87,2.29,2.99,1521,38,5.0,4.8,FWD,Everton,Norberto Bercique Gomes Betuncal
+219,88,2.32,2.41,2509,38,5.0,4.9,DEF,Everton,Jarrad Branthwaite
+220,63,1.66,2.25,1602,38,6.0,5.4,FWD,Everton,Dominic Calvert-Lewin
+221,5,0.13,0.34,214,38,4.5,4.3,DEF,Everton,Séamus Coleman
+222,89,2.34,1.74,3063,38,5.0,4.8,MID,Everton,Idrissa Gueye
+223,42,1.11,1.29,1590,38,5.0,4.9,MID,Everton,James Garner
+224,81,2.13,1.85,2068,38,5.5,5.2,MID,Everton,Jack Harrison
+225,1,0.03,0.16,5,38,4.0,4.0,DEF,Everton,Mason Holgate
+226,22,0.58,0.86,562,38,4.5,4.3,MID,Everton,Tim Iroegbunam
+227,0,0.0,0.0,0,38,4.0,3.8,GK,Everton,João Neves Virgínia
+228,48,1.26,3.01,1046,38,4.0,3.8,DEF,Everton,Michael Keane
+229,0,0.0,0.0,0,38,5.0,4.9,FWD,Everton,Neal Maupay
+230,93,2.45,3.69,1366,38,5.5,5.1,MID,Everton,Dwight McNeil
+231,121,3.18,3.11,3082,38,4.5,4.4,DEF,Everton,Vitalii Mykolenko
+232,114,3.0,3.25,2426,38,5.5,5.2,FWD,Everton,Iliman Ndiaye
+233,65,1.71,2.26,1613,38,5.0,4.8,MID,Aston Villa,Amadou Onana
+234,14,0.37,0.71,342,38,4.5,4.4,DEF,Everton,Nathan Patterson
+235,158,4.16,3.52,3420,38,5.0,5.2,GK,Everton,Jordan Pickford
+236,105,2.76,2.95,2922,38,5.0,4.7,DEF,Everton,James Tarkowski
+237,3,0.08,0.27,42,38,5.0,4.9,FWD,Everton,Youssef Ramalho Chermiti
+238,98,2.58,3.37,1864,38,4.5,4.2,DEF,Everton,Ashley Young
+239,95,2.5,2.33,1756,38,5.0,4.5,MID,Fulham,Adama Traoré
+240,81,2.13,2.06,2004,38,5.5,4.9,MID,Fulham,Andreas Hoelgebaum Pereira
+241,75,1.97,2.09,3074,38,4.5,4.5,DEF,Fulham,Calvin Bassey
+242,0,0.0,0.0,0,38,4.0,3.9,GK,Fulham,Steven Benda
+243,33,0.87,1.17,610,38,5.0,4.8,MID,Fulham,Tom Cairney
+244,46,1.21,1.74,1642,38,4.5,4.2,DEF,Fulham,Timothy Castagne
+245,31,0.82,1.27,1334,38,4.5,4.3,DEF,Fulham,Issa Diop
+246,0,0.0,0.0,0,38,4.5,4.5,MID,Fulham,Luke Harris
+247,156,4.11,3.81,2981,38,5.5,5.4,MID,Fulham,Alex Iwobi
+248,115,3.03,2.47,3420,38,5.0,5.0,GK,Fulham,Bernd Leno
+249,56,1.47,1.2,2348,38,5.0,4.8,MID,Fulham,Saša Lukić
+250,0,0.0,0.0,0,38,4.0,4.0,DEF,Fulham,Kevin Mbabu
+251,86,2.26,2.65,943,38,6.0,5.5,FWD,Fulham,Rodrigo Muniz Carvalho
+252,147,3.87,3.38,2486,38,5.5,5.3,FWD,Fulham,Raúl Jiménez
+253,0,0.0,0.0,0,38,4.5,4.5,DEF,Fulham,Tim Ream
+254,10,0.26,0.45,100,38,5.0,4.7,MID,Fulham,Harrison Reed
+255,106,2.79,2.53,3166,38,4.5,4.7,DEF,Fulham,Antonee Robinson
+256,1,0.03,0.16,1,38,5.0,5.0,FWD,Fulham,Jay Stansfield
+257,49,1.29,1.71,1773,38,4.5,4.4,DEF,Fulham,Kenny Tete
+258,3,0.08,0.27,13,38,5.0,5.0,FWD,Fulham,Carlos Vinícius Alves Morais
+259,78,2.05,2.9,1148,38,5.5,5.2,MID,Fulham,Harry Wilson
+260,8,0.21,0.41,125,38,5.0,4.7,FWD,Ipswich,Ali Al-Hamadi
+261,0,0.0,0.0,0,38,4.0,4.0,DEF,Ipswich,Elkan Baggott
+262,37,0.97,1.76,690,38,5.0,4.9,MID,Ipswich,Nathan Broadhead
+263,26,0.68,1.14,1540,38,4.0,3.8,DEF,Ipswich,Cameron Burgess
+264,30,0.79,1.12,922,38,5.0,4.7,MID,Ipswich,Wes Burns
+265,41,1.08,1.55,845,38,5.5,5.1,MID,Ipswich,Conor Chaplin
+266,1,0.03,0.94,377,38,4.0,4.0,DEF,Ipswich,Harry Clarke
+267,52,1.37,2.34,2742,38,4.5,4.2,DEF,Ipswich,Leif Davis
+268,132,3.47,3.51,2587,38,5.5,5.6,FWD,Ipswich,Liam Delap
+269,1,0.03,0.16,1,38,4.0,4.0,DEF,Ipswich,George Edmundson
+270,37,0.97,1.64,2205,38,4.0,3.8,DEF,Ipswich,Jacob Greaves
+271,2,0.05,0.23,43,38,5.0,4.9,MID,Ipswich,Marcus Myers-Harness
+272,46,1.21,2.0,645,38,5.5,5.4,FWD,Ipswich,George Hirst
+273,0,0.0,0.0,0,38,4.5,4.5,MID,Ipswich,Cameron Humphreys
+274,88,2.32,2.36,2585,38,5.5,5.2,MID,Ipswich,Omari Giraud-Hutchinson
+275,30,0.79,2.12,1346,38,4.0,3.8,DEF,Ipswich,Ben Johnson
+276,0,0.0,0.0,0,38,4.5,4.5,FWD,Ipswich,Freddie Ladapo
+277,13,0.34,0.58,195,38,4.5,4.3,MID,Ipswich,Massimo Luongo
+278,67,1.76,1.81,2749,38,5.0,4.8,MID,Ipswich,Sam Morsy
+279,0,0.0,0.0,0,38,4.0,4.0,DEF,Ipswich,Corrie Ndaba
+280,0,0.0,0.0,0,38,4.0,3.9,GK,Ipswich,Cieran Slicker
+281,38,1.0,0.99,837,38,5.0,4.8,MID,Ipswich,Jack Taylor
+282,27,0.71,1.37,1710,38,4.0,3.9,DEF,Ipswich,Axel Tuanzebe
+283,16,0.42,1.54,630,38,4.5,4.3,GK,Ipswich,Christian Walton
+284,18,0.47,1.11,1187,38,4.0,3.9,DEF,Ipswich,Luke Woolfenden
+285,48,1.26,0.86,2165,38,4.5,4.4,MID,Leicester,Boubakary Soumaré
+286,0,0.0,0.0,0,38,4.5,4.5,FWD,Leicester,Tom Cannon
+287,4,0.11,0.31,129,38,4.5,4.4,MID,Leicester,Hamza Choudhury
+288,39,1.03,1.98,1712,38,4.0,4.0,DEF,Leicester,Conor Coady
+289,34,0.89,1.23,717,38,5.0,4.8,FWD,Leicester,Patson Daka
+290,48,1.26,2.13,734,38,5.5,5.2,MID,Leicester,Bobby De Cordova-Reid
+291,55,1.45,1.95,2812,38,4.0,3.8,DEF,Leicester,Wout Faes
+292,1,0.03,0.16,1,38,4.5,4.4,MID,Leicester,Michael Golding
+293,63,1.66,2.0,2385,38,4.5,4.4,GK,Leicester,Mads Hermansen
+294,0,0.0,0.0,0,38,4.0,3.9,GK,Leicester,Daniel Iversen
+295,70,1.84,3.07,2912,38,4.5,4.1,DEF,Leicester,James Justin
+296,34,0.89,1.33,2481,38,4.5,4.4,DEF,Leicester,Victor Kristiansen
+297,0,0.0,0.0,0,38,4.5,4.5,MID,Leicester,Wanya Marçal-Madivádua
+298,72,1.89,2.45,1606,38,5.5,5.0,MID,Leicester,Stephy Mavididi
+299,35,0.92,1.58,846,38,5.0,4.7,MID,Leicester,Kasey McAteer
+300,64,1.68,1.68,2325,38,5.0,4.9,MID,Leicester,Wilfred Ndidi
+301,27,0.71,1.49,1122,38,4.0,4.0,DEF,Leicester,Caleb Okoli
+302,10,0.26,0.55,382,38,4.5,4.1,DEF,Leicester,Ricardo Barbosa Pereira
+303,0,0.0,0.0,0,38,4.0,4.0,DEF,Leicester,Harry Souttar
+304,25,0.66,1.46,900,38,4.0,4.0,GK,Leicester,Jakub Stolarczyk
+305,27,0.71,1.58,1109,38,4.0,3.9,DEF,Leicester,Luke Thomas
+306,128,3.37,3.08,2825,38,5.5,5.4,FWD,Leicester,Jamie Vardy
+307,11,0.29,0.77,1390,38,4.0,3.9,DEF,Leicester,Jannik Vestergaard
+308,2,0.05,0.23,135,38,4.0,3.9,GK,Leicester,Danny Ward
+309,40,1.05,1.06,1536,38,4.5,4.3,MID,Leicester,Harry Winks
+310,112,2.95,3.04,2508,38,5.5,5.5,GK,Liverpool,Alisson Ramses Becker
+311,148,3.89,3.73,2362,38,7.0,7.2,DEF,Liverpool,Trent Alexander-Arnold
+312,0,0.0,0.0,0,38,4.5,4.5,MID,Liverpool,Stefan Bajčetić Maquieira
+313,41,1.08,1.96,744,38,5.0,4.7,DEF,Liverpool,Conor Bradley
+314,35,0.92,1.62,443,38,5.0,4.5,MID,Brentford,Fábio Freitas Gouveia Carvalho
+315,0,0.0,0.0,0,38,4.5,4.5,MID,Liverpool,Bobby Clark
+316,66,1.74,2.59,1113,38,7.5,7.0,FWD,Liverpool,Darwin Núñez Ribeiro
+317,87,2.29,2.83,1182,38,7.5,7.2,MID,Liverpool,Diogo Teixeira da Silva
+318,0,0.0,0.0,0,38,4.5,4.5,MID,Liverpool,Ben Doak
+319,33,0.87,2.17,359,38,5.5,5.2,MID,Liverpool,Harvey Elliott
+320,21,0.55,0.55,259,38,5.0,4.6,MID,Liverpool,Endo Wataru
+321,127,3.34,3.83,1921,38,7.5,7.2,FWD,Liverpool,Cody Gakpo
+322,14,0.37,1.02,517,38,5.0,4.7,DEF,Liverpool,Joe Gomez
+323,92,2.42,1.18,3160,38,5.0,5.0,MID,Liverpool,Ryan Gravenberch
+324,87,2.29,2.56,1702,38,5.5,5.3,MID,Liverpool,Curtis Jones
+325,45,1.18,2.44,900,38,4.5,3.9,GK,Liverpool,Caoimhin Kelleher
+326,106,2.79,2.82,2561,38,5.0,5.3,DEF,Liverpool,Ibrahima Konaté
+327,183,4.82,4.52,2393,38,7.5,7.5,MID,Liverpool,Luis Díaz
+328,344,9.05,5.34,3374,38,12.5,13.6,MID,Liverpool,Mohamed Salah
+329,122,3.21,2.88,2597,38,6.5,6.2,MID,Liverpool,Alexis Mac Allister
+330,0,0.0,0.0,0,38,4.5,4.3,MID,Liverpool,James McConnell
+331,0,0.0,0.0,0,38,4.5,4.4,MID,Liverpool,Tyler Morton
+332,0,0.0,0.0,0,38,4.0,4.0,DEF,Liverpool,Nathaniel Phillips
+333,9,0.24,0.59,488,38,4.5,3.9,DEF,Liverpool,Jarell Quansah
+334,0,0.0,0.0,0,38,4.0,4.0,DEF,Liverpool,Rhys Williams
+335,91,2.39,2.67,2479,38,6.0,5.8,DEF,Liverpool,Andrew Robertson
+336,143,3.76,4.17,2485,38,6.5,6.1,MID,Liverpool,Dominik Szoboszlai
+337,43,1.13,2.0,829,38,5.0,4.6,DEF,Liverpool,Konstantinos Tsimikas
+338,62,1.63,2.15,2584,38,4.0,4.1,DEF,Liverpool,Sepp van den Berg
+339,143,3.76,2.72,3330,38,6.0,6.7,DEF,Liverpool,Virgil van Dijk
+340,61,1.61,2.16,2012,38,5.5,5.3,DEF,Man City,Manuel Akanji
+341,25,0.66,1.65,677,38,5.5,5.3,DEF,Man City,Nathan Aké
+342,110,2.89,2.77,2667,38,6.5,6.1,MID,Man City,Bernardo Veiga de Carvalho e Silva
+343,3,0.08,0.27,14,38,5.0,4.7,MID,Man City,Oscar Bobb
+344,0,0.0,0.0,0,38,4.0,3.9,GK,Man City,Scott Carson
+345,114,3.0,4.01,1694,38,9.5,9.5,MID,Man City,Kevin De Bruyne
+346,88,2.32,2.96,1506,38,6.5,6.2,MID,Man City,Jérémy Doku
+347,111,2.92,3.38,2320,38,5.5,5.3,GK,Man City,Ederson Santana de Moraes
+348,105,2.76,4.09,1771,38,9.5,9.1,MID,Man City,Phil Foden
+349,38,1.0,1.85,710,38,6.5,6.4,MID,Man City,Jack Grealish
+350,153,4.03,3.29,3278,38,6.0,6.5,DEF,Man City,Joško Gvardiol
+351,181,4.76,4.71,2736,38,15.0,14.9,FWD,Man City,Erling Haaland
+352,0,0.0,0.0,0,38,7.0,7.0,FWD,Man City,Julián Álvarez
+353,0,0.0,0.0,0,38,5.5,5.3,DEF,Man City,João Cavaco Cancelo
+354,109,2.87,3.62,2194,38,5.5,5.4,MID,Man City,Mateo Kovačić
+355,66,1.74,2.11,1888,38,4.5,4.3,DEF,Man City,Rico Lewis
+356,81,2.13,2.4,1670,38,5.0,4.9,MID,Man City,Matheus Luiz Nunes
+357,31,0.82,1.63,340,38,5.0,4.6,MID,Man City,James McAtee
+358,35,0.92,1.81,1099,38,5.5,5.2,GK,Man City,Stefan Ortega Moreno
+359,27,0.71,0.9,1231,38,5.0,4.8,MID,Ipswich,Kalvin Phillips
+360,3,0.08,0.27,72,38,6.5,6.2,MID,Man City,Rodrigo 'Rodri' Hernandez
+361,90,2.37,2.82,2269,38,5.5,5.5,DEF,Man City,Rúben Gato Alves Dias
+362,29,0.76,2.1,544,38,5.5,5.3,DEF,Man City,John Stones
+363,13,0.34,0.58,966,38,5.5,5.1,DEF,Man City,Kyle Walker
+364,129,3.39,4.62,1898,38,5.0,5.3,MID,Man Utd,Amad Diallo
+365,8,0.21,0.41,135,38,6.0,5.7,MID,Man Utd,Antony Matheus dos Santos
+366,174,4.58,4.49,3017,38,8.5,8.4,MID,Man Utd,Bruno Borges Fernandes
+367,8,0.21,0.99,360,38,4.5,4.3,GK,Man Utd,Altay Bayindir
+368,48,1.26,1.78,1489,38,5.0,4.6,MID,Man Utd,Carlos Henrique Casimiro
+369,95,2.5,3.04,2812,38,5.0,5.0,DEF,Man Utd,Diogo Dalot Teixeira
+370,45,1.18,1.41,1052,38,5.5,5.2,MID,Man Utd,Christian Eriksen
+371,15,0.39,1.48,312,38,4.5,4.4,DEF,Man Utd,Jonny Evans
+372,106,2.79,2.68,2188,38,6.5,5.9,MID,Man Utd,Alejandro Garnacho
+373,0,0.0,0.0,0,38,4.5,4.5,MID,Man Utd,Hannibal Mejbri
+374,0,0.0,0.0,0,38,4.0,3.9,GK,Man Utd,Tom Heaton
+375,78,2.05,2.28,1998,38,7.0,6.9,FWD,Man Utd,Rasmus Højlund
+376,27,0.71,1.41,695,38,4.5,4.3,DEF,Man Utd,Victor Lindelöf
+377,48,1.26,2.08,1751,38,5.0,4.9,DEF,Man Utd,Harry Maguire
+378,42,1.11,0.95,1646,38,5.5,5.2,MID,Man Utd,Kobbie Mainoo
+379,2,0.05,0.23,99,38,4.5,4.4,DEF,Man Utd,Tyrell Malacia
+380,68,1.79,3.18,1751,38,4.5,4.3,DEF,Man Utd,Lisandro Martínez
+381,2,0.05,0.23,17,38,5.0,4.9,MID,Man Utd,Scott McTominay
+382,25,0.66,1.19,613,38,6.5,6.3,MID,Man Utd,Mason Mount
+383,120,3.16,3.18,3060,38,5.0,4.9,GK,Man Utd,André Onana
+384,0,0.0,0.0,0,38,5.0,5.0,MID,Man Utd,Facundo Pellistri Rebollo
+385,95,2.5,3.41,1414,38,7.0,6.6,MID,Man Utd,Marcus Rashford
+386,86,2.26,2.23,1754,38,6.5,6.2,MID,Man Utd,Jadon Sancho
+387,5,0.13,0.58,346,38,5.0,4.9,DEF,Man Utd,Luke Shaw
+388,118,3.11,3.72,3154,38,4.5,4.5,DEF,West Ham,Aaron Wan-Bissaka
+389,64,1.68,2.39,1385,38,7.0,6.5,FWD,Man Utd,Joshua Zirkzee
+390,0,0.0,0.0,0,38,4.0,4.0,DEF,Newcastle,Alex Murphy
+391,10,0.26,0.5,150,38,6.0,5.4,MID,Newcastle,Miguel Almirón Rejala
+392,130,3.42,3.7,1746,38,6.5,5.9,MID,Newcastle,Harvey Barnes
+393,18,0.47,1.39,412,38,4.5,4.4,DEF,Newcastle,Sven Botman
+394,135,3.55,2.62,3273,38,6.5,6.2,MID,Newcastle,Bruno Guimarães Rodriguez Moura
+395,115,3.03,3.29,3330,38,4.5,4.6,DEF,Newcastle,Dan Burn
+396,44,1.16,2.42,900,38,4.5,4.0,GK,Newcastle,Martin Dúbravka
+397,7,0.18,0.65,303,38,5.0,4.8,MID,Newcastle,Ryan Fraser
+398,124,3.26,3.01,2428,38,7.5,7.4,MID,Newcastle,Anthony Gordon
+399,102,2.68,3.59,2188,38,4.5,4.7,DEF,Newcastle,Lewis Hall
+400,0,0.0,0.0,0,38,4.5,4.4,MID,Newcastle,Isaac Hayden
+401,211,5.55,4.69,2758,38,8.5,9.4,FWD,Newcastle,Alexander Isak
+402,159,4.18,4.03,2356,38,5.5,5.2,MID,Newcastle,Jacob Murphy
+403,99,2.61,3.33,2394,38,6.0,6.0,MID,Newcastle,Joelinton Cássio Apolinário de Lira
+404,12,0.32,0.77,299,38,4.5,4.2,DEF,Newcastle,Lloyd Kelly
+405,17,0.45,1.08,334,38,4.5,4.3,DEF,Newcastle,Emil Krafth
+406,0,0.0,0.0,0,38,4.5,4.4,MID,Newcastle,Garang Kuol
+407,0,0.0,0.0,0,38,4.5,4.5,DEF,Newcastle,Jamaal Lascelles
+408,0,0.0,0.0,0,38,4.0,4.0,DEF,Newcastle,Jamal Lewis
+409,105,2.76,2.7,2835,38,4.5,4.6,DEF,Newcastle,Tino Livramento
+410,34,0.89,1.03,783,38,5.0,4.4,MID,Newcastle,Sean Longstaff
+411,21,0.55,1.33,304,38,5.0,5.0,MID,Newcastle,Lewis Miley
+412,0,0.0,0.0,0,38,4.5,4.2,GK,Newcastle,Odysseas Vlachodimos
+413,102,2.68,2.79,2520,38,5.0,5.0,GK,Newcastle,Nick Pope
+414,0,0.0,0.0,0,38,4.0,3.9,GK,Newcastle,John Ruddy
+415,118,3.11,3.37,2935,38,5.5,5.5,DEF,Newcastle,Fabian Schär
+416,2,0.05,0.23,20,38,4.0,3.9,DEF,Newcastle,Matt Targett
+417,106,2.79,2.7,2625,38,5.5,5.5,MID,Newcastle,Sandro Tonali
+418,72,1.89,3.31,1299,38,6.0,5.6,DEF,Newcastle,Kieran Trippier
+419,0,0.0,0.0,0,38,4.5,4.5,MID,Newcastle,Joe White
+420,46,1.21,1.07,1065,38,5.0,4.7,MID,Newcastle,Joe Willock
+421,19,0.5,0.6,355,38,7.0,6.9,FWD,Newcastle,Callum Wilson
+422,128,3.37,3.9,2996,38,4.5,5.3,DEF,Nott'm Forest,Ola Aina
+423,107,2.82,2.12,2726,38,5.0,5.0,MID,Nott'm Forest,Elliot Anderson
+424,32,0.84,0.89,398,38,6.0,5.5,FWD,Nott'm Forest,Taiwo Awoniyi
+425,6,0.16,0.44,146,38,4.5,4.2,DEF,Nott'm Forest,Willy Boly
+426,0,0.0,0.0,0,38,4.5,4.5,MID,Nott'm Forest,Josh Bowler
+427,0,0.0,0.0,0,38,4.5,4.1,GK,Nott'm Forest,Carlos Miguel dos Santos Pereira
+428,2,0.05,0.23,28,38,4.5,4.3,MID,Nott'm Forest,Eric da Silva Moreira
+429,11,0.29,0.65,270,38,5.0,4.7,MID,Nott'm Forest,Danilo dos Santos de Oliveira
+430,0,0.0,0.0,0,38,5.0,4.9,FWD,Nott'm Forest,Emmanuel Dennis
+431,54,1.42,1.03,1954,38,5.0,4.8,MID,Nott'm Forest,Nicolás Domínguez
+432,153,4.03,3.7,2496,38,5.5,5.5,MID,Nott'm Forest,Anthony Elanga
+433,154,4.05,4.21,2806,38,6.5,6.5,MID,Nott'm Forest,Morgan Gibbs-White
+434,103,2.71,2.64,2190,38,5.5,5.1,MID,Nott'm Forest,Callum Hudson-Odoi
+435,0,0.0,0.0,0,38,4.5,4.5,MID,Nott'm Forest,Alex Mighten
+436,130,3.42,3.14,3188,38,4.5,4.7,DEF,Nott'm Forest,Murillo Santiago Costa dos Santos
+437,109,2.87,3.15,2588,38,4.5,4.5,DEF,Nott'm Forest,Neco Williams
+438,0,0.0,0.0,0,38,4.5,4.5,DEF,Nott'm Forest,Omar Richards
+439,0,0.0,0.0,0,38,5.0,5.0,MID,Nott'm Forest,Lewis O'Brien
+440,0,0.0,0.0,0,38,4.5,4.2,DEF,Nott'm Forest,Andrew Omobamidele
+441,0,0.0,0.0,0,38,4.0,4.0,DEF,Nott'm Forest,Jonathan Panzo
+442,20,0.53,0.95,584,38,4.5,4.3,MID,Nott'm Forest,Ibrahim Sangaré
+443,150,3.95,2.89,3420,38,4.5,5.2,GK,Nott'm Forest,Matz Sels
+444,4,0.11,0.31,135,38,4.5,4.2,DEF,Nott'm Forest,Harry Toffolo
+445,0,0.0,0.0,0,38,4.0,3.9,GK,Nott'm Forest,Matt Turner
+446,0,0.0,0.0,0,38,4.5,4.5,FWD,Nott'm Forest,Hwang Ui-jo
+447,200,5.26,4.26,2958,38,6.0,7.2,FWD,Nott'm Forest,Chris Wood
+448,0,0.0,0.0,0,38,4.5,4.5,DEF,Nott'm Forest,Joe Worrall
+449,67,1.76,1.87,1901,38,5.0,4.8,MID,Nott'm Forest,Ryan Yates
+450,44,1.13,2.7,766,39,5.0,4.7,MID,Southampton,Carlos Alcaraz Durán
+451,1,0.03,0.16,26,38,4.5,4.4,MID,Southampton,Samuel Amo-Ameyaw
+452,72,1.89,2.26,2007,38,5.0,4.9,MID,Southampton,Joe Aribo
+453,45,1.18,1.86,1246,38,5.5,5.1,FWD,Southampton,Adam Armstrong
+454,0,0.0,0.0,0,38,4.5,4.3,GK,Southampton,Gavin Bazunu
+455,60,1.58,2.2,2531,38,4.0,4.0,DEF,Southampton,Jan Bednarek
+456,2,0.05,0.23,329,38,4.0,3.9,DEF,Southampton,Armel Bella-Kotchap
+457,23,0.61,1.2,1070,38,4.0,3.9,DEF,Southampton,James Bree
+458,0,0.0,0.0,0,38,4.5,4.5,MID,Southampton,Shea Charles
+459,1,0.03,0.16,64,38,5.0,4.9,MID,Southampton,Samuel Edozie
+460,1,0.03,0.16,12,38,4.0,3.9,DEF,Southampton,Ronnie Edwards
+461,55,1.45,2.01,2824,38,4.0,3.9,DEF,Southampton,Taylor Harwood-Bellis
+462,53,1.39,1.76,1394,38,5.0,5.0,MID,Southampton,Kamaldeen Sulemana
+463,17,0.45,0.95,352,38,5.0,5.0,MID,Southampton,Adam Lallana
+464,0,0.0,0.0,0,38,4.0,3.9,DEF,Southampton,Juan Larios López
+465,0,0.0,0.0,0,38,4.0,4.0,GK,Southampton,Mateusz Lis
+466,8,0.21,0.74,270,38,4.0,4.0,GK,Southampton,Joe Lumley
+467,34,0.89,1.27,1458,38,4.5,4.3,DEF,Southampton,Ryan Manning
+468,0,0.0,0.0,0,38,5.0,5.0,FWD,Southampton,Sékou Mara
+469,12,0.32,0.9,450,38,4.5,4.2,GK,Southampton,Alex McCarthy
+470,51,1.34,2.04,1038,38,5.0,4.9,FWD,Southampton,Paul Onuachu
+471,26,0.68,1.23,679,38,5.0,5.0,MID,Southampton,Will Smallbone
+472,31,0.82,2.04,1389,38,4.0,4.0,DEF,Southampton,Jack Stephens
+473,20,0.53,1.5,382,38,4.5,4.4,FWD,Southampton,Ross Stewart
+474,43,1.13,1.63,1548,38,4.5,4.2,DEF,Southampton,Sugawara Yukinari
+475,6,0.16,0.44,353,38,4.0,3.9,DEF,Southampton,Charlie Taylor
+476,54,1.42,1.9,2918,38,4.5,4.2,DEF,Southampton,Kyle Walker-Peters
+477,14,0.37,1.32,771,38,4.0,3.9,DEF,Southampton,Nathan Wood-Gordon
+478,0,0.0,0.0,0,38,4.0,4.0,DEF,Spurs,Ashley Phillips
+479,1,0.03,0.16,90,38,4.0,4.0,GK,Spurs,Brandon Austin
+480,49,1.29,1.58,1640,38,5.0,4.9,MID,Spurs,Rodrigo Bentancur
+481,44,1.16,1.24,1200,38,4.5,4.4,MID,Spurs,Lucas Bergvall
+482,50,1.32,2.11,1396,38,5.0,4.8,MID,Spurs,Yves Bissouma
+483,0,0.0,0.0,0,38,5.0,5.0,MID,Spurs,Bryan Gil Salvatierra
+484,28,0.74,1.61,1329,38,4.5,4.3,DEF,Spurs,Ben Davies
+485,0,0.0,0.0,0,38,4.5,4.5,MID,Spurs,Alfie Devine
+486,24,0.63,1.44,1250,38,4.5,4.3,DEF,Spurs,Radu Drăgușin
+487,0,0.0,0.0,0,38,4.5,4.5,DEF,Spurs,Emerson Leite de Souza Junior
+488,19,0.5,1.39,630,38,4.5,4.3,GK,Spurs,Fraser Forster
+489,45,1.18,0.93,1750,38,5.0,4.6,MID,Spurs,Archie Gray
+490,0,0.0,0.0,0,38,5.0,5.0,MID,Spurs,Pierre-Emile Højbjerg
+491,137,3.61,4.21,2171,38,6.5,6.2,MID,Spurs,Brennan Johnson
+492,117,3.08,3.1,2386,38,6.5,6.2,MID,Spurs,Dejan Kulusevski
+493,0,0.0,0.0,0,38,5.0,4.9,MID,Spurs,Giovani Lo Celso
+494,133,3.5,4.19,1799,38,7.5,7.4,MID,Spurs,James Maddison
+495,98,2.58,3.06,2606,38,5.5,5.2,DEF,Spurs,Pedro Porro
+496,2,0.05,0.23,194,38,4.5,4.1,DEF,Spurs,Sergio Reguilón
+497,35,0.92,1.71,497,38,7.0,6.8,FWD,Spurs,Richarlison de Andrade
+498,49,1.29,2.66,1416,38,5.0,4.9,DEF,Spurs,Cristian Romero
+499,71,1.87,2.18,1901,38,5.0,4.7,MID,Spurs,Pape Matar Sarr
+500,6,0.16,0.68,31,38,4.5,4.4,FWD,Spurs,Dane Scarlett
+501,27,0.71,0.8,1118,38,5.0,4.7,MID,Spurs,Oliver Skipp
+502,0,0.0,0.0,0,38,5.5,5.4,MID,Spurs,Manor Solomon
+503,129,3.39,4.05,2106,38,10.0,9.7,MID,Spurs,Son Heung-min
+504,51,1.34,2.78,1790,38,4.5,4.4,DEF,Spurs,Djed Spence
+505,43,1.13,1.65,1923,38,5.0,4.8,DEF,Spurs,Destiny Udogie
+506,32,0.84,2.27,1014,38,4.5,4.5,DEF,Spurs,Micky van de Ven
+507,0,0.0,0.0,0,38,5.0,5.0,FWD,Spurs,Alejo Véliz
+508,66,1.74,2.27,2160,38,5.0,4.8,GK,Spurs,Guglielmo Vicario
+509,34,0.89,1.52,504,38,6.5,6.2,MID,Spurs,Timo Werner
+510,0,0.0,0.0,0,38,4.0,3.9,GK,Spurs,Alfie Whiteman
+511,40,1.05,1.14,1769,38,5.0,5.0,MID,West Ham,Edson Álvarez Velázquez
+512,42,1.11,3.02,834,38,5.5,5.2,FWD,West Ham,Michail Antonio
+513,69,1.82,2.02,2259,38,4.5,4.2,GK,West Ham,Alphonse Areola
+514,193,5.08,3.84,2974,38,7.5,7.9,MID,West Ham,Jarrod Bowen
+515,1,0.03,0.16,71,38,5.0,4.7,MID,West Ham,Maxwel Cornet
+516,27,0.71,1.51,1056,38,4.5,4.1,DEF,West Ham,Vladimír Coufal
+517,36,0.95,1.86,818,38,4.0,3.9,DEF,West Ham,Aaron Cresswell
+518,48,1.26,1.22,2149,38,5.0,4.7,MID,Southampton,Flynn Downes
+519,0,0.0,0.0,0,38,4.5,4.5,MID,West Ham,George Earthy
+520,76,2.0,2.67,2108,38,4.5,4.4,DEF,West Ham,Emerson Palmieri dos Santos
+521,39,1.03,1.97,1160,38,4.0,3.9,GK,West Ham,Łukasz Fabiański
+522,0,0.0,0.0,0,38,4.5,4.2,GK,West Ham,Wes Foderingham
+523,32,0.84,1.87,270,38,5.0,4.8,FWD,West Ham,Danny Ings
+524,82,2.16,2.53,3348,38,4.5,4.3,DEF,West Ham,Max Kilman
+525,106,2.79,2.3,2589,38,6.5,6.2,MID,West Ham,Mohammed Kudus
+526,12,0.32,0.47,139,38,5.0,4.6,MID,West Ham,Luis Guilherme Lira dos Santos
+527,80,2.11,2.28,2374,38,6.0,5.7,MID,West Ham,Lucas Tolentino Coelho de Lima
+528,45,1.18,1.81,2035,38,4.5,4.3,DEF,West Ham,Konstantinos Mavropanos
+529,0,0.0,0.0,0,38,4.5,4.4,DEF,West Ham,Nayef Aguerd
+530,126,3.32,3.41,2563,38,5.0,4.8,MID,West Ham,Tomáš Souček
+531,51,1.34,1.79,1433,38,6.5,6.1,MID,West Ham,James Ward-Prowse
+532,0,0.0,0.0,0,38,4.5,4.4,DEF,West Ham,Kurt Zouma
+533,125,3.29,3.72,3112,38,4.5,5.1,DEF,Wolves,Rayan Aït-Nouri
+534,1,0.03,0.16,1,38,5.0,4.8,MID,Wolves,Boubacar Traoré
+535,90,2.37,2.58,1666,38,5.0,4.9,MID,Wolves,Jean-Ricner Bellegarde
+536,9,0.24,1.17,180,38,4.0,3.9,GK,Wolves,Daniel Bentley
+537,1,0.03,0.16,6,38,4.5,4.5,MID,Wolves,Francisco Jorge Tomás Oliveira
+538,0,0.0,0.0,0,38,4.5,4.5,MID,Wolves,Tawanda Chirewa
+539,0,0.0,0.0,0,38,4.5,4.4,FWD,Wolves,Leon Chiwome
+540,0,0.0,0.0,0,38,4.5,4.5,MID,Wolves,Luke Cundle
+541,178,4.68,4.56,2596,38,6.5,7.0,FWD,Wolves,Matheus Santos Carneiro Da Cunha
+542,17,0.45,1.54,969,38,4.5,4.2,DEF,Wolves,Craig Dawson
+543,75,1.97,2.63,2105,38,4.5,4.3,DEF,Wolves,Matt Doherty
+544,28,0.74,0.89,474,38,5.0,4.7,MID,Wolves,Tommy Doyle
+545,0,0.0,0.0,0,38,5.0,5.0,FWD,Wolves,Fábio Silva
+546,0,0.0,0.0,0,38,4.5,4.5,FWD,Wolves,Nathan Fraser
+547,0,0.0,0.0,0,38,4.5,4.4,MID,Wolves,Enso González
+548,62,1.63,2.31,979,38,5.5,5.3,MID,Wolves,Gonçalo Manuel Ganchinho Guedes
+549,0,0.0,0.0,0,38,4.5,4.5,DEF,Wolves,Hugo Bueno López
+550,37,0.97,1.55,646,38,6.5,6.1,MID,Wolves,Hwang Hee-chan
+551,0,0.0,0.0,0,38,4.5,4.5,MID,Wolves,Joe Hodge
+552,0,0.0,0.0,0,38,4.0,4.0,DEF,Wolves,Ki-Jana Hoever
+553,87,2.29,2.47,2975,38,5.0,4.9,MID,Wolves,João Victor Gomes da Silva
+554,93,2.45,2.99,2610,38,4.5,4.4,GK,Wolves,José Malheiro de Sá
+555,0,0.0,0.0,0,38,5.0,4.8,FWD,Wolves,Saša Kalajdžić
+556,1,0.03,0.16,1,38,4.0,3.9,GK,Wolves,Tom King
+557,47,1.24,2.16,1363,38,5.0,4.8,MID,Wolves,Mario Lemina
+558,3,0.08,0.54,441,38,4.0,3.8,DEF,Wolves,Yerson Mosquera
+559,84,2.21,2.42,2889,38,4.5,4.5,DEF,Wolves,Nélson Cabral Semedo
+560,104,2.74,2.77,2262,38,6.5,6.1,MID,Chelsea,Pedro Lomba Neto
+561,2,0.05,0.23,69,38,4.0,3.9,DEF,Wolves,Pedro Cardoso de Lima
+562,2,0.05,0.23,46,38,5.5,5.5,MID,Wolves,Daniel Castelo Podence
+563,42,1.11,1.57,794,38,5.5,5.1,MID,Wolves,Rodrigo Martins Gomes
+564,52,1.37,1.98,1678,38,4.5,4.3,DEF,Wolves,Santiago Bueno
+565,50,1.32,2.3,800,38,5.5,5.0,MID,Wolves,Pablo Sarabia
+566,145,3.82,3.4,2587,38,5.5,5.2,FWD,Wolves,Jørgen Strand Larsen
+567,79,2.08,2.7,2613,38,4.5,4.3,DEF,Wolves,Toti António Gomes
+568,49,1.29,2.1,1620,38,4.5,4.4,GK,Ipswich,Arijanet Muric
+569,37,0.97,2.52,796,38,5.5,5.3,MID,Aston Villa,Jaden Philogene
+570,26,0.68,1.53,576,38,5.5,5.1,MID,Leicester,Abdul Fatawu
+571,106,2.79,3.57,1760,38,6.5,6.0,MID,Man City,Sávio 'Savinho' Moreira de Oliveira
+572,22,0.58,1.0,1160,38,4.5,4.3,DEF,Man Utd,Leny Yoro
+573,145,3.82,2.87,3330,38,4.5,5.2,DEF,Nott'm Forest,Nikola Milenković
+574,0,0.0,0.0,0,38,4.0,4.0,DEF,Newcastle,Miodrag Pivaš
+575,0,0.0,0.0,0,38,4.0,4.0,DEF,Chelsea,Caleb Wiley
+576,9,0.24,0.43,161,38,5.0,4.7,MID,West Ham,Andy Irving
+577,44,1.16,1.2,1229,38,5.5,5.0,MID,Everton,Jesper Lindstrøm
+578,39,1.03,2.06,978,38,6.0,5.8,DEF,Arsenal,Riccardo Calafiori
+579,57,1.5,3.05,574,38,4.5,4.2,DEF,Fulham,Ryan Sessegnon
+580,104,2.74,3.83,2422,38,4.5,4.5,DEF,Bournemouth,Dean Huijsen
+581,18,0.47,1.25,540,38,4.5,4.2,GK,Chelsea,Filip Jørgensen
+582,65,1.71,2.83,1568,38,5.0,4.5,DEF,Everton,Jake O'Brien
+583,11,0.29,0.8,334,38,4.0,3.9,DEF,Ipswich,Conor Townsend
+584,13,0.34,0.63,446,38,5.5,4.8,MID,Southampton,Ben Brereton Díaz
+585,149,3.92,4.02,2708,38,6.0,5.5,MID,Crystal Palace,Ismaïla Sarr
+586,9,0.24,0.49,349,38,4.5,4.4,DEF,Fulham,Jorge Cuenca Barreno
+587,33,0.87,1.42,776,38,6.0,5.5,MID,West Ham,Crysencio Summerville
+588,36,0.95,1.11,1147,38,5.0,4.8,MID,West Ham,Guido Rodríguez
+589,42,1.11,1.89,783,38,7.0,6.7,FWD,West Ham,Niclas Füllkrug
+590,19,0.5,1.03,124,38,5.0,4.9,FWD,Newcastle,William Osula
+591,54,1.42,1.97,1824,38,4.5,4.2,DEF,West Ham,Jean-Clair Todibo
+592,12,0.32,0.57,492,38,4.5,4.3,DEF,Bournemouth,Julián Araujo Zúñiga
+593,68,1.79,2.87,2119,38,5.0,4.8,DEF,Man Utd,Matthijs de Ligt
+594,88,2.32,2.28,2836,38,4.5,4.2,DEF,Man Utd,Noussair Mazraoui
+595,45,1.18,1.78,676,38,5.5,5.4,MID,Brighton,Brajan Gruda
+596,52,1.37,1.63,835,38,6.0,5.9,MID,Nott'm Forest,João Pedro Ferreira Silva
+597,37,0.97,1.6,1362,38,4.5,4.5,MID,Arsenal,Myles Lewis-Skelly
+598,6,0.16,0.37,473,38,4.0,3.9,DEF,Aston Villa,Lamare Bogarde
+599,0,0.0,0.0,0,38,4.0,3.9,GK,Bournemouth,Will Dennis
+600,74,1.95,1.82,1958,38,5.0,5.0,MID,Brighton,Yasin Ayari
+601,0,0.0,0.0,0,38,5.0,5.0,MID,Brighton,Andrew Moran
+602,1,0.03,0.16,3,38,4.5,4.4,MID,Brentford,Ryan Trevitt
+603,2,0.05,0.23,47,38,4.5,4.4,MID,Everton,Harrison Armstrong
+604,10,0.26,0.6,126,38,4.5,4.4,MID,Fulham,Josh King
+605,2,0.05,0.23,21,38,4.5,4.4,MID,Fulham,Martial Godo
+606,1,0.03,0.16,1,38,4.5,4.4,MID,Leicester,Will Alves
+607,31,0.82,2.24,525,38,5.0,4.9,MID,Man City,Nico O'Reilly
+608,68,1.79,2.18,1863,38,4.5,4.3,MID,Southampton,Tyler Dibling
+609,3,0.08,0.27,10,38,4.5,4.5,FWD,Spurs,Will Lankshear
+610,19,0.5,1.25,359,38,4.5,4.5,MID,Spurs,Mikey Moore
+611,54,1.42,2.23,988,38,6.0,5.7,MID,Ipswich,Sam Szmodics
+612,34,0.89,1.75,843,38,5.5,5.3,MID,Spurs,Wilson Odobert
+613,6,0.16,0.37,174,38,4.5,4.5,MID,Man Utd,Toby Collyer
+614,0,0.0,0.0,0,38,4.5,4.5,MID,Everton,Jenson Metcalfe
+615,0,0.0,0.0,0,38,4.0,3.9,GK,Brighton,Carl Rushworth
+616,0,0.0,0.0,0,38,4.0,4.0,DEF,Leicester,Ben Nelson
+617,128,3.46,3.54,2317,37,6.0,5.9,FWD,Bournemouth,Francisco Evanilson de Lima Barbosa
+618,95,2.57,2.68,1651,37,5.5,5.0,MID,Brighton,Georginio Rutter
+619,63,1.7,1.61,1960,37,4.5,4.5,MID,Ipswich,Jens Cajuste
+620,25,0.68,1.11,280,37,5.5,5.5,MID,Nott'm Forest,Ramón Sosa
+621,24,0.65,1.46,362,37,6.5,5.9,MID,Chelsea,João Félix Sequeira
+622,53,1.43,1.01,2221,37,5.0,5.0,MID,Fulham,Sander Berge
+623,95,2.57,2.14,2911,37,5.0,5.0,MID,Southampton,Mateus Gonçalo Espanha Fernandes
+624,0,0.0,0.0,0,37,4.0,4.0,GK,Everton,Asmir Begovic
+625,97,2.62,2.64,2218,37,6.5,6.3,MID,Man City,Ilkay Gündogan
+626,0,0.0,0.0,0,37,4.5,4.5,DEF,Man City,Issa Kaboré
+627,0,0.0,0.0,90,37,4.0,3.9,DEF,Everton,Roman Dixon
+628,19,0.53,1.68,385,36,4.5,4.4,DEF,Brighton,Ferdi Kadioglu
+629,50,1.39,2.02,929,36,5.5,5.5,MID,Brighton,Matt O'Riley
+630,49,1.36,1.53,3122,36,4.0,3.8,DEF,Ipswich,Dara O'Shea
+631,53,1.47,1.18,1161,36,5.5,5.4,MID,Ipswich,Jack Clarke
+632,7,0.19,0.52,237,36,5.0,4.8,MID,Ipswich,Chiedozie Ogbene
+633,92,2.56,3.18,1575,36,6.0,6.0,MID,Arsenal,Mikel Merino
+634,3,0.08,0.28,11,36,5.0,4.9,MID,Brentford,Gustavo Nunes Fernandes Gomes
+635,83,2.31,2.68,2179,36,5.0,4.8,MID,Leicester,Bilal El Khannouss
+636,7,0.19,0.47,103,36,7.0,6.8,MID,Liverpool,Federico Chiesa
+637,0,0.0,0.0,0,36,4.0,3.9,DEF,Wolves,Bastien Meupiyou
+638,0,0.0,0.0,0,36,4.5,4.5,MID,Arsenal,Salah-Eddine Oulad M'hand
+639,0,0.0,0.0,0,36,4.5,4.5,GK,Arsenal,Tommy Setford
+640,0,0.0,0.0,0,36,4.0,4.0,DEF,Aston Villa,Sil Swinkels
+641,0,0.0,0.0,0,36,4.0,4.0,GK,Aston Villa,Oliwier Zych
+642,61,1.69,0.82,2472,36,5.0,5.0,MID,Wolves,André Trindade da Costa Neto
+643,1,0.03,0.17,1,36,4.0,4.0,DEF,West Ham,Kaelan Casey
+644,0,0.0,0.0,0,36,4.5,4.4,MID,Crystal Palace,Franco Umeh-Chibueze
+645,34,0.94,1.43,494,36,4.5,4.5,MID,Crystal Palace,Justin Devenny
+646,2,0.06,0.23,4,36,4.5,4.5,MID,Crystal Palace,Asher Agbinone
+647,0,0.0,0.0,0,36,4.5,4.5,MID,Crystal Palace,Kaden Rodney
+648,0,0.0,0.0,0,36,4.5,4.5,FWD,Man Utd,Ethan Wheatley
+649,1,0.03,0.17,4,35,4.0,4.0,DEF,Brentford,Jayden Meghoma
+650,114,3.26,2.95,3116,35,4.5,4.5,DEF,Crystal Palace,Maxence Lacroix
+651,39,1.11,1.47,1257,35,5.0,5.0,MID,Everton,Orel Mangala
+652,49,1.4,1.63,1777,35,5.0,4.9,MID,Man Utd,Manuel Ugarte
+653,36,1.03,1.85,891,35,4.5,4.5,DEF,Nott'm Forest,Felipe Rodrigues da Silva
+654,47,1.34,1.68,1394,35,5.0,5.0,MID,West Ham,Carlos Soler
+655,9,0.26,0.44,236,35,5.5,5.4,MID,Wolves,Carlos Roberto Forbs Borges
+656,0,0.0,0.0,0,35,4.5,4.4,MID,Aston Villa,Kadan Young
+657,0,0.0,0.0,0,35,4.0,4.0,DEF,Arsenal,Maldini Kacurri
+658,10,0.29,1.36,169,35,4.0,4.0,DEF,Arsenal,Ayden Heaven
+659,0,0.0,0.0,0,35,4.5,4.5,MID,Arsenal,Ismeal Kabia
+660,1,0.03,0.17,11,34,4.0,4.0,GK,Liverpool,Vítezslav Jaros
+661,0,0.0,0.0,0,34,4.5,4.5,MID,Brentford,Tony Yogane
+662,0,0.0,0.0,0,33,4.0,4.0,DEF,Arsenal,Josh Nichols
+663,0,0.0,0.0,0,33,4.0,4.0,DEF,Brighton,Imari Samuels
+664,1,0.03,0.17,1,33,4.0,3.9,DEF,Wolves,Alfie Pond
+665,1,0.03,0.18,6,32,4.5,4.5,FWD,Arsenal,Nathan Butler-Oyedeji
+666,2,0.06,0.25,11,32,4.0,4.0,DEF,Crystal Palace,Caleb Kporha
+667,0,0.0,0.0,0,31,4.5,4.5,MID,Man Utd,Jack Fletcher
+668,0,0.0,0.0,0,30,4.0,3.9,GK,Brighton,Killian Cahill
+669,0,0.0,0.0,0,30,4.0,4.0,GK,Liverpool,Harvey Davies
+670,4,0.13,0.43,345,30,4.0,4.0,DEF,Man Utd,Harry Amass
+671,0,0.0,0.0,0,29,4.5,4.5,MID,Man City,Jacob Wright
+672,1,0.03,0.19,95,29,4.0,4.0,DEF,Man City,Jahmai Simpson-Pusey
+673,0,0.0,0.0,0,29,4.5,4.5,MID,Man Utd,Jayce Fitzgerald
+674,8,0.28,0.45,112,29,4.5,4.5,MID,Brentford,Paris Maghoma
+675,0,0.0,0.0,0,28,4.0,4.0,DEF,Man City,Josh Wilson-Esbrand
+676,0,0.0,0.0,0,28,4.5,4.5,FWD,Crystal Palace,Zach Marsh
+677,29,1.04,1.69,659,28,4.0,4.0,DEF,West Ham,Ollie Scarles
+678,0,0.0,0.0,0,28,4.5,4.5,MID,Everton,Callum Bates
+679,0,0.0,0.0,0,27,4.5,4.5,MID,Aston Villa,Ben Broggio
+680,0,0.0,0.0,0,27,4.0,4.0,DEF,Bournemouth,Max Kinsey
+681,0,0.0,0.0,0,27,4.0,4.0,DEF,Brighton,Ruairi McConville
+682,0,0.0,0.0,0,27,4.5,4.5,MID,Wolves,Tom Edozie
+683,0,0.0,0.0,0,27,4.5,4.5,MID,Spurs,Callum Olusesi
+684,0,0.0,0.0,0,27,4.0,4.0,DEF,Spurs,Malachi Hardy
+685,0,0.0,0.0,0,26,4.0,4.0,DEF,Brighton,Jacob Slater
+686,0,0.0,0.0,0,26,4.0,4.0,DEF,West Ham,Ezra Mayers
+687,4,0.15,0.37,22,26,4.5,4.5,MID,Bournemouth,Ben Winterburn
+688,0,0.0,0.0,0,26,4.5,4.5,MID,Liverpool,Treymaurice Nyoni
+689,0,0.0,0.0,0,26,4.5,4.5,MID,Spurs,Luca Williams-Barnett
+690,0,0.0,0.0,0,26,4.0,4.0,DEF,Fulham,Samuel Amissah
+691,0,0.0,0.0,0,25,4.0,4.0,DEF,Man Utd,Godwill Kukonki
+692,0,0.0,0.0,0,25,4.0,4.0,DEF,Liverpool,Amara Nallo
+693,0,0.0,0.0,0,25,4.5,4.5,MID,Southampton,Joseph O'Brien-Whitmarsh
+694,0,0.0,0.0,0,23,4.5,4.5,MID,Leicester,Henry Cartwright
+695,0,0.0,0.0,0,23,4.5,4.5,MID,Chelsea,Samuel Rak-Sakyi
+696,17,0.74,1.54,177,23,4.5,4.5,MID,Chelsea,Tyrique George
+697,4,0.17,0.49,168,23,4.0,4.0,DEF,Chelsea,Josh Acheampong
+698,1,0.04,0.21,27,23,4.5,4.5,FWD,Man City,Divin Mubama
+699,1,0.04,0.21,13,23,4.0,4.0,DEF,Spurs,Alfie Dorrington
+700,0,0.0,0.0,0,23,4.0,4.0,DEF,Spurs,Maeson King
+701,2,0.09,0.29,47,23,4.5,4.5,MID,West Ham,Lewis Orford
+702,0,0.0,0.0,0,21,4.0,4.0,DEF,Bournemouth,Archie Harris
+703,0,0.0,0.0,0,21,4.0,4.0,DEF,Man City,Max Alleyne
+704,0,0.0,0.0,0,21,4.0,4.0,GK,Man City,Spike Brits
+705,0,0.0,0.0,0,21,4.0,4.0,DEF,Brentford,Benjamin Arthur
+706,0,0.0,0.0,0,20,4.0,4.0,DEF,Nott'm Forest,Zach Abbott
+707,1,0.05,0.22,1,20,4.5,4.5,FWD,Bournemouth,Remy Rees-Dottin
+708,0,0.0,0.0,0,20,4.0,4.0,DEF,Leicester,Thomas Wilson-Brown
+709,1,0.05,0.22,10,21,4.5,4.5,FWD,Liverpool,Jayden Danns
+710,0,0.0,0.0,0,19,4.5,4.5,MID,Aston Villa,Jamaldeen Jimoh
+711,0,0.0,0.0,0,19,4.0,4.0,DEF,Wolves,Wes Okoduwa
+712,0,0.0,0.0,0,18,4.0,4.0,DEF,Bournemouth,Matai Akinmboni
+713,3,0.17,0.38,9,18,4.0,3.9,DEF,Bournemouth,Julio Soler
+714,30,1.67,2.4,507,18,5.5,5.5,MID,Brighton,Diego Gómez
+715,-1,-0.06,0.24,158,18,4.0,4.0,DEF,Ipswich,Ben Godfrey
+716,17,0.94,1.8,540,18,4.5,4.1,GK,Spurs,Antonín Kinsky
+717,0,0.0,0.0,0,18,4.5,4.5,MID,Spurs,Min-Hyeok Yang
+718,14,0.78,1.4,478,18,4.0,4.0,DEF,Southampton,Welington Damascena Santos
+719,2,0.11,0.32,12,18,4.0,4.0,DEF,Southampton,Joachim Kayi-Sanda
+720,45,2.5,2.38,1410,18,4.0,4.0,DEF,Wolves,Emmanuel Agbadou
+721,0,0.0,0.0,0,18,4.0,4.0,GK,Nott'm Forest,Wayne Hennessey
+722,0,0.0,0.0,0,18,4.5,4.5,FWD,Bournemouth,Daniel Adu-Adjei
+723,0,0.0,0.0,0,18,4.5,4.5,MID,Bournemouth,Dominic Sadi
+724,0,0.0,0.0,0,19,4.5,4.5,FWD,Everton,Martin Sherif
+725,34,2.0,2.72,296,17,5.5,5.3,MID,Aston Villa,Donyell Malen
+726,1,0.06,0.43,107,17,4.0,4.0,DEF,Leicester,Woyo Coulibaly
+727,0,0.0,0.0,0,17,4.0,4.0,GK,Bournemouth,Callan McKenna
+728,1,0.06,0.24,1,17,4.5,4.5,MID,Bournemouth,Zain Silcott-Duberry
+729,0,0.0,0.0,0,17,4.5,4.5,MID,Spurs,Damola Ajayi
+730,22,1.38,2.83,138,16,5.0,4.7,MID,Crystal Palace,Romain Esse
+731,8,0.5,0.63,316,16,4.5,4.5,DEF,Aston Villa,Andrés García
+732,14,0.88,2.09,503,16,5.0,5.0,DEF,Man City,Abdukodir Khusanov
+733,1,0.06,0.25,1,16,4.5,4.5,DEF,Man City,Vitor de Oliveira Nunes dos Reis
+734,6,0.38,0.72,141,16,5.0,4.9,MID,Southampton,Albert Grønbæk
+735,104,6.5,3.5,0,16,1.5,1.5,AM,Arsenal,Mikel Arteta
+736,113,7.06,3.92,0,16,1.5,1.5,AM,Man City,Pep Guardiola
+737,105,6.56,4.15,0,16,0.8,0.8,AM,Aston Villa,Unai Emery
+738,82,5.12,5.35,0,16,1.1,1.1,AM,Bournemouth,Andoni Iraola
+739,119,7.44,6.36,0,16,1.1,1.1,AM,Brighton,Fabian Hürzeler
+740,94,5.88,4.15,0,16,1.5,1.5,AM,Chelsea,Enzo Maresca
+741,128,8.0,5.94,0,16,0.8,0.8,AM,Crystal Palace,Oliver Glasner
+742,137,8.06,6.36,0,17,0.5,0.5,AM,Everton,David Moyes
+743,51,3.19,5.04,0,16,0.5,0.5,AM,Ipswich,Kieran McKenna
+744,118,6.94,3.29,0,17,1.5,1.5,AM,Liverpool,Arne Slot
+745,86,5.38,5.88,0,16,0.8,0.8,AM,Man Utd,Ruben Filipe Marques Diogo Amorim
+746,97,6.06,4.95,0,16,1.5,1.5,AM,Newcastle,Eddie Howe
+747,78,4.88,4.56,0,16,1.1,1.1,AM,Nott'm Forest,Nuno Herlander Simões Espírito Santo
+748,38,2.38,3.44,0,16,0.5,0.5,AM,Southampton,Ivan Juric
+749,58,3.62,4.29,0,16,1.1,1.1,AM,Spurs,Ange Postecoglou
+750,84,5.25,5.4,0,16,0.5,0.5,AM,West Ham,Graham Potter
+751,111,6.94,6.35,0,16,0.8,0.8,AM,Wolves,Vítor Manuel de Oliveira Lopes Pereira
+752,116,7.25,5.23,0,16,0.8,0.8,AM,Brentford,Thomas Frank
+753,94,5.88,7.16,0,16,1.1,1.1,AM,Fulham,Marco Alexandre Saraiva da Silva
+754,48,3.0,4.62,0,16,0.5,0.5,AM,Leicester,Ruud van Nistelrooij
+755,73,4.56,4.7,1174,16,7.0,7.4,FWD,Man City,Omar Marmoush
+756,0,0.0,0.0,0,16,4.0,4.0,GK,Arsenal,Jack Porter
+757,27,1.8,1.93,523,15,4.5,4.5,DEF,Brentford,Michael Kayode
+758,0,0.0,0.0,0,15,4.5,4.5,MID,Brighton,Joe Knight
+759,0,0.0,0.0,0,15,4.0,4.0,GK,Brentford,Julian Eyestone
+760,0,0.0,0.0,0,15,4.0,4.0,DEF,Spurs,Dante Cassanova
+761,0,0.0,0.0,0,15,4.0,4.0,GK,Man Utd,Elyh Harrison
+762,44,3.14,4.49,740,14,6.0,6.0,MID,Aston Villa,Marco Asensio
+763,1,0.07,0.27,19,14,4.5,4.5,DEF,Brighton,Eiran Cashin
+764,22,1.57,1.28,1170,14,4.5,4.5,GK,Ipswich,Alex Palmer
+765,31,2.21,1.67,760,14,6.0,6.0,MID,Man City,Nico González
+766,18,1.29,2.52,840,14,4.5,4.5,DEF,Man Utd,Patrick Dorgu
+767,16,1.14,1.61,842,14,4.5,4.4,DEF,Spurs,Kevin Danso
+768,42,3.0,2.35,908,14,6.0,5.8,MID,Spurs,Mathys Tel
+769,4,0.29,0.47,65,14,4.5,4.5,DEF,Wolves,Nasser Djiga
+770,50,3.57,2.5,1077,14,5.0,5.0,MID,Wolves,Marshall Munetsi
+771,1,0.07,0.27,7,14,4.5,4.5,MID,Chelsea,Mathis Amougou
+772,13,0.93,0.83,251,14,5.0,5.0,MID,Fulham,Willian Borges da Silva
+773,0,0.0,0.0,0,16,4.5,4.5,MID,Everton,Isaac Heath
+774,0,0.0,0.0,0,14,4.0,4.0,DEF,Chelsea,Aaron Anselmino
+775,0,0.0,0.0,0,14,4.5,4.5,MID,Everton,Coby Ebere
+776,7,0.5,0.65,160,14,4.5,4.5,FWD,Man Utd,Chido Obi-Martin
+777,2,0.14,0.53,166,14,4.0,4.0,DEF,Man Utd,Tyler Fredricson
+778,0,0.0,0.0,0,14,4.5,4.5,MID,Man Utd,Jack Moorhouse
+779,0,0.0,0.0,0,14,4.5,4.5,MID,Man Utd,Sékou Koné
+780,0,0.0,0.0,0,13,4.5,4.5,FWD,Brentford,Iwan Morgan
+781,1,0.08,0.28,1,13,4.5,4.5,FWD,Chelsea,Shumaira Mheuka
+782,0,0.0,0.0,0,13,4.0,4.0,DEF,Chelsea,Ishé Samuels-Smith
+783,0,0.0,0.0,0,13,4.0,4.0,GK,Man Utd,Hubert Graczyk
+784,1,0.08,0.29,1,12,4.5,4.5,FWD,Wolves,Mateus Mané
+785,1,0.09,0.3,5,11,6.0,5.8,MID,Man City,Claudio Echeverri
+786,0,0.0,0.0,0,11,4.0,4.0,DEF,Brentford,Benjamin Fredrick
+787,0,0.0,0.0,0,11,4.0,4.0,DEF,Chelsea,Genesis Antwi
+788,0,0.0,0.0,0,11,4.0,4.0,GK,Man Utd,Dermot Mee
+789,0,0.0,0.0,0,11,4.5,4.5,FWD,Newcastle,Sean Neave
+790,0,0.0,0.0,0,9,4.5,4.5,MID,Arsenal,Jimi Gower
+791,0,0.0,0.0,0,9,4.0,4.0,DEF,Brighton,Charlie Tasker
+792,7,0.88,0.35,105,8,4.5,4.5,MID,Leicester,Jeremy Monga
+793,0,0.0,0.0,0,7,4.5,4.5,MID,Arsenal,Jack Henry-Francis
+794,0,0.0,0.0,0,7,4.0,4.0,DEF,Brighton,Freddie Simmonds
+795,1,0.14,0.38,6,7,4.5,4.5,MID,Brighton,Harry Howell
+796,1,0.14,0.38,1,7,4.0,4.0,DEF,Leicester,Olabade Aluko
+797,4,0.57,0.53,21,7,4.5,4.5,MID,Leicester,Jake Evans
+798,5,0.71,0.76,134,7,4.5,4.4,FWD,Southampton,Jay Robinson
+799,0,0.0,0.0,0,6,4.0,4.0,DEF,Ipswich,Somto Boniface
+800,0,0.0,0.0,0,5,4.5,4.5,MID,Ipswich,Tom Taylor
+801,0,0.0,0.0,0,4,4.0,4.0,DEF,Arsenal,Brayden Clarke
+802,0,0.0,,0,1,4.5,4.5,MID,Leicester,Sammy Braybrooke
+803,0,0.0,,0,1,4.0,4.0,DEF,Everton,Reece Welch
+804,0,0.0,,0,1,4.0,4.0,DEF,Southampton,Jayden Moore

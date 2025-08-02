@@ -1,0 +1,668 @@
+player_2025,team_2025,price_2025,player_2024,team_2024,total_points_2024,games_played_2024,mapping_type,position
+David Raya Martín,Arsenal,5.5,David Raya Martin,Arsenal,142,38,direct_match,GK
+Kepa Arrizabalaga Revuelta,Arsenal,4.5,Kepa Arrizabalaga,Bournemouth,106,38,direct_match,GK
+Karl Hein,Arsenal,4.0,Karl Hein,Arsenal,0,38,direct_match,GK
+Tommy Setford,Arsenal,4.0,Tommy Setford,Arsenal,0,36,direct_match,GK
+Gabriel dos Santos Magalhães,Arsenal,6.0,Gabriel dos Santos Magalhães,Arsenal,117,38,direct_match,DEF
+William Saliba,Arsenal,6.0,William Saliba,Arsenal,130,38,direct_match,DEF
+Riccardo Calafiori,Arsenal,5.5,Riccardo Calafiori,Arsenal,39,38,direct_match,DEF
+Jurriën Timber,Arsenal,5.5,Jurriën Timber,Arsenal,114,38,direct_match,DEF
+Jakub Kiwior,Arsenal,5.5,Jakub Kiwior,Arsenal,43,38,direct_match,DEF
+Myles Lewis-Skelly,Arsenal,5.5,Myles Lewis-Skelly,Arsenal,37,38,direct_match,DEF
+Benjamin White,Arsenal,5.5,Benjamin White,Arsenal,50,38,direct_match,DEF
+Oleksandr Zinchenko,Arsenal,5.0,Oleksandr Zinchenko,Arsenal,40,38,direct_match,DEF
+Brayden Clarke,Arsenal,4.0,Brayden Clarke,Arsenal,0,4,direct_match,DEF
+Maldini Kacurri,Arsenal,4.0,Maldini Kacurri,Arsenal,0,35,direct_match,DEF
+Josh Nichols,Arsenal,4.0,Josh Nichols,Arsenal,0,33,direct_match,DEF
+Bukayo Saka,Arsenal,10.0,Bukayo Saka,Arsenal,127,38,direct_match,MID
+Martin Ødegaard,Arsenal,8.0,Martin Ødegaard,Arsenal,116,38,direct_match,MID
+Noni Madueke,Arsenal,7.0,Noni Madueke,Chelsea,120,38,direct_match,MID
+Gabriel Martinelli Silva,Arsenal,7.0,Gabriel Martinelli Silva,Arsenal,125,38,direct_match,MID
+Leandro Trossard,Arsenal,7.0,Leandro Trossard,Arsenal,152,38,direct_match,MID
+Declan Rice,Arsenal,6.5,Declan Rice,Arsenal,127,38,direct_match,MID
+Mikel Merino Zazón,Arsenal,6.0,Mikel Merino,Arsenal,92,36,direct_match,MID
+Fábio Ferreira Vieira,Arsenal,5.5,Fábio Ferreira Vieira,Arsenal,0,38,direct_match,MID
+Christian Nørgaard,Arsenal,5.5,Christian Nørgaard,Brentford,107,38,direct_match,MID
+Ethan Nwaneri,Arsenal,5.5,Ethan Nwaneri,Arsenal,66,38,direct_match,MID
+Martín Zubimendi Ibáñez,Arsenal,5.5,Fábio Ferreira Vieira,Arsenal,0,38,similar_teammate_threshold_0.3,MID
+Reiss Nelson,Arsenal,5.0,Reiss Nelson,Fulham,27,38,direct_match,MID
+Ismeal Kabia,Arsenal,4.5,Ismeal Kabia,Arsenal,0,35,direct_match,MID
+Albert Sambi Lokonga,Arsenal,4.5,Ethan Nwaneri,Arsenal,66,38,similar_teammate_threshold_0.3,MID
+Kai Havertz,Arsenal,7.5,Kai Havertz,Arsenal,97,38,direct_match,FWD
+Gabriel Fernando de Jesus,Arsenal,6.5,Gabriel Fernando de Jesus,Arsenal,42,38,direct_match,FWD
+Cristhian Mosquera,Arsenal,5.5,Yerson Mosquera,Wolves,3,38,direct_match,DEF
+Emiliano Martínez Romero,Aston Villa,5.0,Emiliano Martínez Romero,Aston Villa,111,38,direct_match,GK
+Marco Bizot,Aston Villa,4.5,Robin Olsen,Aston Villa,9,38,similar_teammate_threshold_0.3,GK
+Joe Gauci,Aston Villa,4.0,Joe Gauci,Aston Villa,0,38,direct_match,GK
+Filip Marschall,Aston Villa,4.0,Filip Marschall,Aston Villa,0,38,direct_match,GK
+Matty Cash,Aston Villa,4.5,Matty Cash,Aston Villa,76,38,direct_match,DEF
+Lucas Digne,Aston Villa,4.5,Lucas Digne,Aston Villa,89,38,direct_match,DEF
+Ezri Konsa Ngoyo,Aston Villa,4.5,Ezri Konsa Ngoyo,Aston Villa,103,38,direct_match,DEF
+Ian Maatsen,Aston Villa,4.5,Ian Maatsen,Aston Villa,57,38,direct_match,DEF
+Tyrone Mings,Aston Villa,4.5,Tyrone Mings,Aston Villa,47,38,direct_match,DEF
+Pau Torres,Aston Villa,4.5,Pau Torres,Aston Villa,55,38,direct_match,DEF
+Andrés García,Aston Villa,4.0,Andrés García,Aston Villa,8,16,direct_match,DEF
+Álex Moreno Lopera,Aston Villa,4.0,Álex Moreno Lopera,Nott'm Forest,34,38,direct_match,DEF
+Lamare Bogarde,Aston Villa,4.0,Lamare Bogarde,Aston Villa,6,38,direct_match,DEF
+Lino da Cruz Sousa,Aston Villa,4.0,Lino da Cruz Sousa,Aston Villa,0,38,direct_match,DEF
+Yasin Özcan,Aston Villa,4.0,Pau Torres,Aston Villa,55,38,similar_teammate_threshold_0.3,DEF
+Morgan Rogers,Aston Villa,7.0,Morgan Rogers,Aston Villa,161,38,direct_match,MID
+Youri Tielemans,Aston Villa,6.0,Youri Tielemans,Aston Villa,121,38,direct_match,MID
+Leon Bailey,Aston Villa,5.5,Leon Bailey,Aston Villa,47,38,direct_match,MID
+Emiliano Buendía Stati,Aston Villa,5.5,Emiliano Buendía Stati,Aston Villa,11,38,direct_match,MID
+Samuel Iling-Junior,Aston Villa,5.5,Samuel Iling-Junior,Aston Villa,0,38,direct_match,MID
+Jacob Ramsey,Aston Villa,5.5,Jacob Ramsey,Aston Villa,66,38,direct_match,MID
+Donyell Malen,Aston Villa,5.5,Donyell Malen,Aston Villa,34,17,direct_match,MID
+John McGinn,Aston Villa,5.5,John McGinn,Aston Villa,78,38,direct_match,MID
+Ross Barkley,Aston Villa,5.0,Ross Barkley,Aston Villa,44,38,direct_match,MID
+Enzo Barrenechea,Aston Villa,5.0,Enzo Barrenechea,Aston Villa,0,38,direct_match,MID
+Lewis Dobbin,Aston Villa,5.0,Lewis Dobbin,Aston Villa,0,38,direct_match,MID
+Boubacar Kamara,Aston Villa,5.0,Boubacar Kamara,Aston Villa,57,38,direct_match,MID
+Amadou Onana,Aston Villa,5.0,Amadou Onana,Aston Villa,65,38,direct_match,MID
+Ben Broggio,Aston Villa,4.5,Ben Broggio,Aston Villa,0,27,direct_match,MID
+Leander Dendoncker,Aston Villa,4.5,Leander Dendoncker,Aston Villa,0,38,direct_match,MID
+Jamaldeen Jimoh-Aloba,Aston Villa,4.5,Amadou Onana,Aston Villa,65,38,similar_teammate_threshold_0.3,MID
+Kadan Young,Aston Villa,4.5,Kadan Young,Aston Villa,0,35,direct_match,MID
+Ollie Watkins,Aston Villa,9.0,Ollie Watkins,Aston Villa,186,38,direct_match,FWD
+Max Weiß,Burnley,4.5,Mads Hermansen,Leicester,63,38,similar_teammate_threshold_0.3,GK
+Etienne Green,Burnley,4.0,Jakub Stolarczyk,Leicester,25,38,similar_teammate_threshold_0.3,GK
+Václav Hladký,Burnley,4.0,Jakub Stolarczyk,Leicester,25,38,similar_teammate_threshold_0.3,GK
+Connor Roberts,Burnley,4.5,Victor Kristiansen,Leicester,34,38,similar_teammate_threshold_0.3,DEF
+Kyle Walker,Burnley,4.5,Kyle Walker,Man City,13,38,direct_match,DEF
+Hannes Delcroix,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Owen Dodgson,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Hjalmar Ekdal,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Maxime Estève,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Quilindschy Hartman,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Bashir Humphreys,Burnley,4.0,Cameron Humphreys,Ipswich,0,38,direct_match,DEF
+Jordan Beyer,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Lucas Pires Silva,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Shurandy Sambo,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Oliver Sonne,Burnley,4.0,James Justin,Leicester,70,38,similar_teammate_threshold_0.3,DEF
+Axel Tuanzebe,Burnley,4.0,Axel Tuanzebe,Ipswich,27,38,direct_match,DEF
+Joe Worrall,Burnley,4.0,Joe Worrall,Nott'm Forest,0,38,direct_match,DEF
+Jaidon Anthony,Burnley,5.5,Jaidon Anthony,Bournemouth,0,38,direct_match,MID
+Manuel Benson Hedilazio,Burnley,5.5,Bobby De Cordova-Reid,Leicester,48,38,similar_teammate_threshold_0.3,MID
+Jacob Bruun Larsen,Burnley,5.5,Bobby De Cordova-Reid,Leicester,48,38,similar_teammate_threshold_0.3,MID
+Enock Agyei,Burnley,5.0,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Darko Churlinov,Burnley,5.0,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Josh Cullen,Burnley,5.0,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Marcus Edwards,Burnley,5.0,Ronnie Edwards,Southampton,1,38,direct_match,MID
+Hannibal Mejbri,Burnley,5.0,Hannibal Mejbri,Man Utd,0,38,direct_match,MID
+Luca Koleosho,Burnley,5.0,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Josh Laurent,Burnley,5.0,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Loum Tchaouna,Burnley,5.0,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Aaron Ramsey,Burnley,4.5,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Oluwaseun Adewumi,Burnley,4.5,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Jaydon Banel,Burnley,4.5,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Mike Trésor Ndayishimiye,Burnley,4.5,Bilal El Khannouss,Leicester,83,36,similar_teammate_threshold_0.3,MID
+Zian Flemming,Burnley,5.5,Jamie Vardy,Leicester,128,38,similar_teammate_threshold_0.3,FWD
+Zeki Amdouni,Burnley,5.0,Patson Daka,Leicester,34,38,similar_teammate_threshold_0.3,FWD
+Lyle Foster,Burnley,5.0,Patson Daka,Leicester,34,38,similar_teammate_threshold_0.3,FWD
+Ashley Barnes,Burnley,4.5,Harvey Barnes,Newcastle,130,38,direct_match,FWD
+Michael Obafemi,Burnley,4.5,Patson Daka,Leicester,34,38,similar_teammate_threshold_0.3,FWD
+Norberto Murara Neto,Bournemouth,4.5,Norberto Murara Neto,Arsenal,7,38,direct_match,GK
+Đorđe Petrović,Bournemouth,4.5,Đorđe Petrović,Chelsea,0,38,direct_match,GK
+Will Dennis,Bournemouth,4.0,Will Dennis,Bournemouth,0,38,direct_match,GK
+Callan McKenna,Bournemouth,4.0,Callan McKenna,Bournemouth,0,17,direct_match,GK
+Alex Paulsen,Bournemouth,4.0,Alex Paulsen,Bournemouth,0,38,direct_match,GK
+Illia Zabarnyi,Bournemouth,5.0,Illia Zabarnyi,Bournemouth,94,38,direct_match,DEF
+Marcos Senesi Barón,Bournemouth,4.5,Marcos Senesi,Bournemouth,31,38,direct_match,DEF
+Adam Smith,Bournemouth,4.5,Adam Smith,Bournemouth,57,38,direct_match,DEF
+Adrien Truffert,Bournemouth,4.5,Dean Huijsen,Bournemouth,104,38,similar_teammate_threshold_0.3,DEF
+Matai Akinmboni,Bournemouth,4.0,Matai Akinmboni,Bournemouth,0,18,direct_match,DEF
+Owen Bevan,Bournemouth,4.0,James Hill,Bournemouth,17,38,similar_teammate_threshold_0.3,DEF
+James Hill,Bournemouth,4.0,James Hill,Bournemouth,17,38,direct_match,DEF
+Julián Araujo Zúñiga,Bournemouth,4.0,Julián Araujo Zúñiga,Bournemouth,12,38,direct_match,DEF
+Chris Mepham,Bournemouth,4.0,Chris Mepham,Bournemouth,0,38,direct_match,DEF
+Julio Soler Barreto,Bournemouth,4.0,Julio Soler,Bournemouth,3,18,direct_match,DEF
+Justin Kluivert,Bournemouth,7.0,Justin Kluivert,Bournemouth,158,38,direct_match,MID
+Antoine Semenyo,Bournemouth,7.0,Antoine Semenyo,Bournemouth,165,38,direct_match,MID
+Dango Ouattara,Bournemouth,6.0,Dango Ouattara,Bournemouth,111,38,direct_match,MID
+Marcus Tavernier,Bournemouth,5.5,Marcus Tavernier,Bournemouth,87,38,direct_match,MID
+Tyler Adams,Bournemouth,5.0,Tyler Adams,Bournemouth,58,38,direct_match,MID
+David Brooks,Bournemouth,5.0,David Brooks,Bournemouth,52,38,direct_match,MID
+Ryan Christie,Bournemouth,5.0,Ryan Christie,Bournemouth,76,38,direct_match,MID
+Lewis Cook,Bournemouth,5.0,Lewis Cook,Bournemouth,82,38,direct_match,MID
+Philip Billing,Bournemouth,5.0,Philip Billing,Bournemouth,10,38,direct_match,MID
+Alex Scott,Bournemouth,5.0,Alex Scott,Bournemouth,26,38,direct_match,MID
+Luis Sinisterra Lucumí,Bournemouth,5.0,Luis Sinisterra,Bournemouth,23,38,direct_match,MID
+Romain Faivre,Bournemouth,4.5,Romain Faivre,Bournemouth,0,38,direct_match,MID
+Hamed Traorè,Bournemouth,4.5,Hamed Traorè,Bournemouth,0,38,direct_match,MID
+Dominic Sadi,Bournemouth,4.5,Dominic Sadi,Bournemouth,0,18,direct_match,MID
+Zain Silcott-Duberry,Bournemouth,4.5,Zain Silcott-Duberry,Bournemouth,1,17,direct_match,MID
+Ben Winterburn,Bournemouth,4.5,Ben Winterburn,Bournemouth,4,26,direct_match,MID
+Francisco Evanilson de Lima Barbosa,Bournemouth,7.0,Francisco Evanilson de Lima Barbosa,Bournemouth,128,37,direct_match,FWD
+Enes Ünal,Bournemouth,5.5,Enes Ünal,Bournemouth,32,38,direct_match,FWD
+Daniel Adu-Adjei,Bournemouth,4.5,Daniel Adu-Adjei,Bournemouth,0,18,direct_match,FWD
+Eli Junior Kroupi,Bournemouth,4.5,Daniel Jebbison,Bournemouth,20,38,similar_teammate_threshold_0.3,FWD
+Caoimhín Kelleher,Brentford,4.5,Caoimhin Kelleher,Liverpool,45,38,direct_match,GK
+Ellery Balcombe,Brentford,4.0,Hákon Valdimarsson,Brentford,2,38,similar_teammate_threshold_0.3,GK
+Matthew Cox,Brentford,4.0,Hákon Valdimarsson,Brentford,2,38,similar_teammate_threshold_0.3,GK
+Julian Eyestone,Brentford,4.0,Julian Eyestone,Brentford,0,15,direct_match,GK
+Hákon Rafn Valdimarsson,Brentford,4.0,Hákon Valdimarsson,Brentford,2,38,direct_match,GK
+Nathan Collins,Brentford,5.0,Nathan Collins,Brentford,127,38,direct_match,DEF
+Keane Lewis-Potter,Brentford,5.0,Keane Lewis-Potter,Brentford,94,38,direct_match,DEF
+Kristoffer Ajer,Brentford,4.5,Kristoffer Ajer,Brentford,39,38,direct_match,DEF
+Rico Henry,Brentford,4.5,Rico Henry,Brentford,4,38,direct_match,DEF
+Michael Kayode,Brentford,4.5,Michael Kayode,Brentford,27,15,direct_match,DEF
+Ethan Pinnock,Brentford,4.5,Ethan Pinnock,Brentford,47,38,direct_match,DEF
+Mads Roerslev Rasmussen,Brentford,4.5,Mads Roerslev Rasmussen,Brentford,36,38,direct_match,DEF
+Sepp van den Berg,Brentford,4.5,Sepp van den Berg,Brentford,62,38,direct_match,DEF
+Benjamin Arthur,Brentford,4.0,Benjamin Arthur,Brentford,0,21,direct_match,DEF
+Benjamin Fredrick,Brentford,4.0,Benjamin Fredrick,Brentford,0,11,direct_match,DEF
+Aaron Hickey,Brentford,4.0,Aaron Hickey,Brentford,0,38,direct_match,DEF
+Kim Ji-soo,Brentford,4.0,Kim Ji-soo,Brentford,3,38,direct_match,DEF
+Jayden Meghoma,Brentford,4.0,Jayden Meghoma,Brentford,1,35,direct_match,DEF
+Kevin Schade,Brentford,7.0,Kevin Schade,Brentford,149,38,direct_match,MID
+Mikkel Damsgaard,Brentford,6.0,Mikkel Damsgaard,Brentford,131,38,direct_match,MID
+Antoni Milambo,Brentford,5.5,Kevin Schade,Brentford,149,38,similar_teammate_threshold_0.3,MID
+Fábio Freitas Gouveia Carvalho,Brentford,5.0,Fábio Freitas Gouveia Carvalho,Brentford,35,38,direct_match,MID
+Jordan Henderson,Brentford,5.0,Dean Henderson,Crystal Palace,135,38,direct_match,MID
+Vitaly Janelt,Brentford,5.0,Vitaly Janelt,Brentford,73,38,direct_match,MID
+Mathias Jensen,Brentford,5.0,Mathias Jensen,Brentford,38,38,direct_match,MID
+Gustavo Nunes Fernandes Gomes,Brentford,5.0,Gustavo Nunes Fernandes Gomes,Brentford,3,36,direct_match,MID
+Frank Onyeka,Brentford,5.0,Frank Onyeka,Brentford,2,38,direct_match,MID
+Yehor Yarmoliuk,Brentford,5.0,Yehor Yarmoliuk,Brentford,43,38,direct_match,MID
+Romelle Donovan,Brentford,4.5,Christian Nørgaard,Brentford,107,38,similar_teammate_threshold_0.3,MID
+Yunus Emre Konak,Brentford,4.5,Yunus Emre Konak,Brentford,10,38,direct_match,MID
+Paris Maghoma,Brentford,4.5,Paris Maghoma,Brentford,8,29,direct_match,MID
+Myles Peart-Harris,Brentford,4.5,Myles Peart-Harris,Brentford,0,38,direct_match,MID
+Ryan Trevitt,Brentford,4.5,Ryan Trevitt,Brentford,1,38,direct_match,MID
+Yoane Wissa,Brentford,7.5,Yoane Wissa,Brentford,185,38,direct_match,FWD
+Igor Thiago Nascimento Rodrigues,Brentford,6.0,Igor Thiago Nascimento Rodrigues,Brentford,9,38,direct_match,FWD
+Iwan Morgan,Brentford,4.5,Iwan Morgan,Brentford,0,13,direct_match,FWD
+Jason Steele,Brighton,4.5,Jason Steele,Brighton,9,38,direct_match,GK
+Bart Verbruggen,Brighton,4.5,Bart Verbruggen,Brighton,103,38,direct_match,GK
+Tom McGill,Brighton,4.0,Jason Steele,Brighton,9,38,similar_teammate_threshold_0.3,GK
+Carl Rushworth,Brighton,4.0,Carl Rushworth,Brighton,0,38,direct_match,GK
+Kjell Scherpen,Brighton,4.0,Jason Steele,Brighton,9,38,similar_teammate_threshold_0.3,GK
+Olivier Boscagli,Brighton,4.5,Jan Paul van Hecke,Brighton,87,38,similar_teammate_threshold_0.3,DEF
+Diego Coppola,Brighton,4.5,Jan Paul van Hecke,Brighton,87,38,similar_teammate_threshold_0.3,DEF
+Maxim De Cuyper,Brighton,4.5,Jan Paul van Hecke,Brighton,87,38,similar_teammate_threshold_0.3,DEF
+Lewis Dunk,Brighton,4.5,Lewis Dunk,Brighton,44,38,direct_match,DEF
+Pervis Estupiñán Tenorio,Brighton,4.5,Pervis Estupiñán,Brighton,63,38,direct_match,DEF
+Ferdi Kadıoğlu,Brighton,4.5,Ferdi Kadioglu,Brighton,19,36,direct_match,DEF
+Igor Julio dos Santos de Paulo,Brighton,4.5,Igor Julio dos Santos de Paulo,Brighton,18,38,direct_match,DEF
+Tariq Lamptey,Brighton,4.5,Tariq Lamptey,Brighton,42,38,direct_match,DEF
+Jan Paul van Hecke,Brighton,4.5,Jan Paul van Hecke,Brighton,87,38,direct_match,DEF
+Joël Veltman,Brighton,4.5,Joël Veltman,Brighton,59,38,direct_match,DEF
+Adam Webster,Brighton,4.5,Adam Webster,Brighton,39,38,direct_match,DEF
+Eiran Cashin,Brighton,4.0,Eiran Cashin,Brighton,1,14,direct_match,DEF
+Jacob Slater,Brighton,4.0,Jacob Slater,Brighton,0,26,direct_match,DEF
+Charlie Tasker,Brighton,4.0,Charlie Tasker,Brighton,0,9,direct_match,DEF
+Mitoma Kaoru,Brighton,6.5,Mitoma Kaoru,Brighton,145,38,direct_match,MID
+Georginio Rutter,Brighton,6.0,Georginio Rutter,Brighton,95,37,direct_match,MID
+Solly March,Brighton,6.0,Solly March,Brighton,7,38,direct_match,MID
+Yankuba Minteh,Brighton,6.0,Yankuba Minteh,Brighton,102,38,direct_match,MID
+Julio Enciso Espínola,Brighton,5.5,Julio Enciso,Ipswich,59,38,direct_match,MID
+Brajan Gruda,Brighton,5.5,Brajan Gruda,Brighton,45,38,direct_match,MID
+Jack Hinshelwood,Brighton,5.5,Jack Hinshelwood,Brighton,89,38,direct_match,MID
+Matt O'Riley,Brighton,5.5,Matt O'Riley,Brighton,50,36,direct_match,MID
+Abdallah Sima,Brighton,5.5,Matt O'Riley,Brighton,50,36,similar_teammate_threshold_0.3,MID
+Yasin Ayari,Brighton,5.0,Yasin Ayari,Brighton,74,38,direct_match,MID
+Carlos Baleba,Brighton,5.0,Carlos Baleba,Brighton,87,38,direct_match,MID
+Facundo Buonanotte,Brighton,5.0,Facundo Buonanotte,Leicester,75,38,direct_match,MID
+Diego Gómez Amarilla,Brighton,5.0,Joe Gomez,Liverpool,14,38,direct_match,MID
+James Milner,Brighton,5.0,James Milner,Brighton,6,38,direct_match,MID
+Jeremy Sarmiento Morante,Brighton,5.0,Jeremy Sarmiento Morante,Brighton,1,38,direct_match,MID
+Tom Watson,Brighton,5.0,Yankuba Minteh,Brighton,102,38,similar_teammate_threshold_0.3,MID
+Mats Wieffer,Brighton,5.0,Mats Wieffer,Brighton,52,38,direct_match,MID
+Malick Yalcouyé,Brighton,5.0,Yankuba Minteh,Brighton,102,38,similar_teammate_threshold_0.3,MID
+Joe Knight,Brighton,4.5,Joe Knight,Brighton,0,15,direct_match,MID
+Adrian Mazilu,Brighton,4.5,Adrian Mazilu,Brighton,0,38,direct_match,MID
+Andrew Moran,Brighton,4.5,Andrew Moran,Brighton,0,38,direct_match,MID
+Danny Welbeck,Brighton,6.5,Danny Welbeck,Brighton,125,38,direct_match,FWD
+Evan Ferguson,Brighton,5.5,Evan Ferguson,West Ham,27,38,direct_match,FWD
+Stefanos Tzimas,Brighton,5.5,João Pedro Junqueira de Jesus,Brighton,126,38,similar_teammate_threshold_0.3,FWD
+Charalampos Kostoulas,Brighton,5.0,João Pedro Junqueira de Jesus,Brighton,126,38,similar_teammate_threshold_0.5,FWD
+Robert Lynch Sánchez,Chelsea,5.0,Robert Sánchez,Chelsea,126,38,direct_match,GK
+Filip Jörgensen,Chelsea,4.5,Robert Sánchez,Chelsea,126,38,similar_teammate_threshold_0.3,GK
+Mike Penders,Chelsea,4.0,Filip Jørgensen,Chelsea,18,38,similar_teammate_threshold_0.3,GK
+Gabriel Słonina,Chelsea,4.0,Filip Jørgensen,Chelsea,18,38,similar_teammate_threshold_0.3,GK
+Marc Cucurella Saseta,Chelsea,6.0,Marc Cucurella Saseta,Chelsea,133,38,direct_match,DEF
+Reece James,Chelsea,5.5,Reece James,Chelsea,54,38,direct_match,DEF
+Trevoh Chalobah,Chelsea,5.0,Trevoh Chalobah,Chelsea,93,38,direct_match,DEF
+Levi Samuels Colwill,Chelsea,5.0,Levi Colwill,Chelsea,109,38,direct_match,DEF
+Malo Gusto,Chelsea,5.0,Malo Gusto,Chelsea,60,38,direct_match,DEF
+Benoît Badiashile Mukinayi,Chelsea,4.5,Benoît Badiashile,Chelsea,7,38,direct_match,DEF
+Wesley Fofana,Chelsea,4.5,Wesley Fofana,Chelsea,26,38,direct_match,DEF
+Mamadou Sarr,Chelsea,4.5,Malang Sarr,Chelsea,0,38,direct_match,DEF
+Tosin Adarabioyo,Chelsea,4.5,Tosin Adarabioyo,Chelsea,71,38,direct_match,DEF
+Josh Acheampong,Chelsea,4.0,Josh Acheampong,Chelsea,4,23,direct_match,DEF
+Aarón Anselmino,Chelsea,4.0,Aaron Anselmino,Chelsea,0,14,direct_match,DEF
+Cole Palmer,Chelsea,10.5,Cole Palmer,Chelsea,214,38,direct_match,MID
+Pedro Lomba Neto,Chelsea,7.0,Pedro Lomba Neto,Chelsea,104,38,direct_match,MID
+Enzo Fernández,Chelsea,6.5,Enzo Fernández,Chelsea,135,38,direct_match,MID
+Estêvão Almeida de Oliveira Gonçalves,Chelsea,6.5,Jadon Sancho,Chelsea,86,38,similar_teammate_threshold_0.3,MID
+Jamie Bynoe-Gittens,Chelsea,6.5,Jadon Sancho,Chelsea,86,38,similar_teammate_threshold_0.3,MID
+Christopher Nkunku,Chelsea,6.0,Christopher Nkunku,Chelsea,60,38,direct_match,MID
+Moisés Caicedo Corozo,Chelsea,5.5,Moisés Caicedo Corozo,Chelsea,98,38,direct_match,MID
+Kiernan Dewsbury-Hall,Chelsea,5.0,Kiernan Dewsbury-Hall,Chelsea,18,38,direct_match,MID
+Tyrique George,Chelsea,5.0,Tyrique George,Chelsea,17,23,direct_match,MID
+Roméo Lavia,Chelsea,5.0,Roméo Lavia,Chelsea,26,38,direct_match,MID
+Mykhailo Mudryk,Chelsea,5.0,Mykhailo Mudryk,Chelsea,7,38,direct_match,MID
+Andrey Nascimento dos Santos,Chelsea,4.5,Andrey Nascimento dos Santos,Chelsea,0,38,direct_match,MID
+Dário Luís Essugo,Chelsea,4.5,Enzo Fernández,Chelsea,135,38,similar_teammate_threshold_0.3,MID
+Kendry Páez Andrade,Chelsea,4.5,Enzo Fernández,Chelsea,135,38,similar_teammate_threshold_0.3,MID
+João Pedro Junqueira de Jesus,Chelsea,7.5,João Pedro Junqueira de Jesus,Brighton,126,38,direct_match,FWD
+Liam Delap,Chelsea,6.5,Liam Delap,Ipswich,132,38,direct_match,FWD
+Nicolas Jackson,Chelsea,6.5,Nicolas Jackson,Chelsea,121,38,direct_match,FWD
+Marc Guiu Paz,Chelsea,4.5,Marc Guiu Paz,Chelsea,3,38,direct_match,FWD
+Dean Henderson,Crystal Palace,5.0,Dean Henderson,Crystal Palace,135,38,direct_match,GK
+Walter Benítez,Crystal Palace,4.0,Remi Matthews,Crystal Palace,0,38,similar_teammate_threshold_0.3,GK
+Remi Matthews,Crystal Palace,4.0,Remi Matthews,Crystal Palace,0,38,direct_match,GK
+Daniel Muñoz Mejía,Crystal Palace,5.5,Daniel Muñoz,Crystal Palace,142,38,direct_match,DEF
+Maxence Lacroix,Crystal Palace,5.0,Maxence Lacroix,Crystal Palace,114,35,direct_match,DEF
+Tyrick Mitchell,Crystal Palace,5.0,Tyrick Mitchell,Crystal Palace,123,38,direct_match,DEF
+Borna Sosa,Crystal Palace,5.0,Ramón Sosa,Nott'm Forest,25,37,direct_match,DEF
+Marc Guéhi,Crystal Palace,4.5,Marc Guéhi,Crystal Palace,116,38,direct_match,DEF
+Chris Richards,Crystal Palace,4.5,Chris Richards,Crystal Palace,68,38,direct_match,DEF
+Chadi Riad Dnanou,Crystal Palace,4.0,Chadi Riad Dnanou,Crystal Palace,1,38,direct_match,DEF
+Nathaniel Clyne,Crystal Palace,4.0,Nathaniel Clyne,Crystal Palace,18,38,direct_match,DEF
+Rob Holding,Crystal Palace,4.0,Rob Holding,Crystal Palace,0,38,direct_match,DEF
+Caleb Kporha,Crystal Palace,4.0,Caleb Kporha,Crystal Palace,2,32,direct_match,DEF
+Eberechi Eze,Crystal Palace,7.5,Eberechi Eze,Crystal Palace,148,38,direct_match,MID
+Ismaïla Sarr,Crystal Palace,6.5,Ismaïla Sarr,Crystal Palace,149,38,direct_match,MID
+Cheick Doucouré,Crystal Palace,5.0,Cheick Doucouré,Crystal Palace,19,38,direct_match,MID
+Romain Esse,Crystal Palace,5.0,Romain Esse,Crystal Palace,22,16,direct_match,MID
+Will Hughes,Crystal Palace,5.0,Will Hughes,Crystal Palace,67,38,direct_match,MID
+Daichi Kamada,Crystal Palace,5.0,Daichi Kamada,Crystal Palace,45,38,direct_match,MID
+Jefferson Lerma Solís,Crystal Palace,5.0,Jefferson Lerma Solís,Crystal Palace,58,38,direct_match,MID
+Adam Wharton,Crystal Palace,5.0,Adam Wharton,Crystal Palace,42,38,direct_match,MID
+Asher Agbinone,Crystal Palace,4.5,Asher Agbinone,Crystal Palace,2,36,direct_match,MID
+Naouirou Ahamada,Crystal Palace,4.5,Naouirou Ahamada,Crystal Palace,0,38,direct_match,MID
+Justin Devenny,Crystal Palace,4.5,Justin Devenny,Crystal Palace,34,36,direct_match,MID
+Malcolm Ebiowei,Crystal Palace,4.5,Malcolm Ebiowei,Crystal Palace,0,38,direct_match,MID
+Jesurun Rak-Sakyi,Crystal Palace,4.5,Jesurun Rak-Sakyi,Crystal Palace,0,38,direct_match,MID
+Matheus França de Oliveira,Crystal Palace,4.5,Matheus França de Oliveira,Crystal Palace,9,38,direct_match,MID
+David Ozoh,Crystal Palace,4.5,David Ozoh,Crystal Palace,0,38,direct_match,MID
+Kaden Rodney,Crystal Palace,4.5,Kaden Rodney,Crystal Palace,0,36,direct_match,MID
+Franco Umeh-Chibueze,Crystal Palace,4.5,Franco Umeh-Chibueze,Crystal Palace,0,36,direct_match,MID
+Jean-Philippe Mateta,Crystal Palace,7.5,Jean-Philippe Mateta,Crystal Palace,150,38,direct_match,FWD
+Eddie Nketiah,Crystal Palace,5.5,Eddie Nketiah,Crystal Palace,53,38,direct_match,FWD
+Odsonne Édouard,Crystal Palace,5.0,Zach Marsh,Crystal Palace,0,28,similar_teammate_threshold_0.5,FWD
+Zach Marsh,Crystal Palace,4.5,Zach Marsh,Crystal Palace,0,28,direct_match,FWD
+Jordan Pickford,Everton,5.5,Jordan Pickford,Everton,158,38,direct_match,GK
+Mark Travers,Everton,4.5,Mark Travers,Bournemouth,19,38,direct_match,GK
+Harry Tyrer,Everton,4.0,João Neves Virgínia,Everton,0,38,similar_teammate_threshold_0.3,GK
+Jarrad Branthwaite,Everton,5.5,Jarrad Branthwaite,Everton,88,38,direct_match,DEF
+James Tarkowski,Everton,5.5,James Tarkowski,Everton,105,38,direct_match,DEF
+Vitalii Mykolenko,Everton,5.0,Vitalii Mykolenko,Everton,121,38,direct_match,DEF
+Jake O'Brien,Everton,5.0,Jake O'Brien,Everton,65,38,direct_match,DEF
+Séamus Coleman,Everton,4.5,Séamus Coleman,Everton,5,38,direct_match,DEF
+Michael Keane,Everton,4.5,Michael Keane,Everton,48,38,direct_match,DEF
+Nathan Patterson,Everton,4.5,Nathan Patterson,Everton,14,38,direct_match,DEF
+Roman Dixon,Everton,4.0,Roman Dixon,Everton,0,37,direct_match,DEF
+Reece Welch,Everton,4.0,Reece Welch,Everton,0,1,direct_match,DEF
+Iliman Ndiaye,Everton,6.5,Iliman Ndiaye,Everton,114,38,direct_match,MID
+Dwight McNeil,Everton,6.0,Dwight McNeil,Everton,93,38,direct_match,MID
+Carlos Alcaraz Durán,Everton,5.5,Carlos Alcaraz Durán,Everton,44,39,direct_match,MID
+Idrissa Gana Gueye,Everton,5.5,Idrissa Gueye,Everton,89,38,direct_match,MID
+James Garner,Everton,5.0,James Garner,Everton,42,38,direct_match,MID
+Tim Iroegbunam,Everton,5.0,Tim Iroegbunam,Everton,22,38,direct_match,MID
+Harrison Armstrong,Everton,4.5,Harrison Armstrong,Everton,2,38,direct_match,MID
+Callum Bates,Everton,4.5,Callum Bates,Everton,0,28,direct_match,MID
+Coby Ebere,Everton,4.5,Coby Ebere,Everton,0,14,direct_match,MID
+Isaac Heath,Everton,4.5,Isaac Heath,Everton,0,16,direct_match,MID
+Jenson Metcalfe,Everton,4.5,Jenson Metcalfe,Everton,0,38,direct_match,MID
+Thierno Barry,Everton,6.0,Dominic Calvert-Lewin,Everton,63,38,similar_teammate_threshold_0.7,FWD
+Norberto Bercique Gomes Betuncal,Everton,5.5,Norberto Bercique Gomes Betuncal,Everton,87,38,direct_match,FWD
+Youssef Ramalho Chermiti,Everton,5.0,Youssef Ramalho Chermiti,Everton,3,38,direct_match,FWD
+Martin Sherif,Everton,4.5,Martin Sherif,Everton,0,19,direct_match,FWD
+Adam Aznou,Everton,4.5,Vitalii Mykolenko,Everton,121,38,similar_teammate_threshold_0.3,DEF
+Bernd Leno,Fulham,5.0,Bernd Leno,Fulham,115,38,direct_match,GK
+Steven Benda,Fulham,4.0,Steven Benda,Fulham,0,38,direct_match,GK
+Antonee Robinson,Fulham,5.0,Antonee Robinson,Fulham,106,38,direct_match,DEF
+Joachim Andersen,Fulham,4.5,Joachim Andersen,Fulham,51,38,direct_match,DEF
+Calvin Bassey,Fulham,4.5,Calvin Bassey,Fulham,75,38,direct_match,DEF
+Timothy Castagne,Fulham,4.5,Timothy Castagne,Fulham,46,38,direct_match,DEF
+Issa Diop,Fulham,4.5,Issa Diop,Fulham,31,38,direct_match,DEF
+Jorge Cuenca Barreno,Fulham,4.5,Jorge Cuenca Barreno,Fulham,9,38,direct_match,DEF
+Kenny Tete,Fulham,4.5,Kenny Tete,Fulham,49,38,direct_match,DEF
+Samuel Amissah,Fulham,4.0,Samuel Amissah,Fulham,0,26,direct_match,DEF
+Alex Iwobi,Fulham,6.5,Alex Iwobi,Fulham,156,38,direct_match,MID
+Emile Smith Rowe,Fulham,6.0,Emile Smith Rowe,Fulham,114,38,direct_match,MID
+Adama Traoré Diarra,Fulham,5.5,Adama Traoré,Fulham,95,38,direct_match,MID
+Andreas Hoelgebaum Pereira,Fulham,5.5,Andreas Hoelgebaum Pereira,Fulham,81,38,direct_match,MID
+Ryan Sessegnon,Fulham,5.5,Ryan Sessegnon,Fulham,57,38,direct_match,MID
+Harry Wilson,Fulham,5.5,Harry Wilson,Fulham,78,38,direct_match,MID
+Sander Berge,Fulham,5.0,Sander Berge,Fulham,53,37,direct_match,MID
+Tom Cairney,Fulham,5.0,Tom Cairney,Fulham,33,38,direct_match,MID
+Saša Lukić,Fulham,5.0,Saša Lukić,Fulham,56,38,direct_match,MID
+Martial Godo,Fulham,4.5,Martial Godo,Fulham,2,38,direct_match,MID
+Luke Harris,Fulham,4.5,Luke Harris,Fulham,0,38,direct_match,MID
+Josh King,Fulham,4.5,Josh King,Fulham,10,38,direct_match,MID
+Harrison Reed,Fulham,4.5,Harrison Reed,Fulham,10,38,direct_match,MID
+Raúl Jiménez Rodríguez,Fulham,6.5,Raúl Jiménez,Fulham,147,38,direct_match,FWD
+Rodrigo Muniz Carvalho,Fulham,5.5,Rodrigo Muniz Carvalho,Fulham,86,38,direct_match,FWD
+Benjamin Lecomte,Fulham,4.0,Steven Benda,Fulham,0,38,similar_teammate_threshold_0.3,GK
+Illan Meslier,Leeds,4.5,Arijanet Muric,Ipswich,49,38,similar_teammate_threshold_0.3,GK
+Alex Cairns,Leeds,4.0,Christian Walton,Ipswich,16,38,similar_teammate_threshold_0.3,GK
+Karl Darlow,Leeds,4.0,Christian Walton,Ipswich,16,38,similar_teammate_threshold_0.3,GK
+Jayden Bogle,Leeds,4.5,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Pascal Struijk,Leeds,4.5,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Jaka Bijol,Leeds,4.0,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Sebastiaan Bornauw,Leeds,4.0,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Sam Byram,Leeds,4.0,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Gabriel Gudmundsson,Leeds,4.0,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Joe Rodon,Leeds,4.0,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Isaac Schmidt,Leeds,4.0,Leif Davis,Ipswich,52,38,similar_teammate_threshold_0.3,DEF
+Brenden Aaronson,Leeds,5.5,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Wilfried Gnonto,Leeds,5.5,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Jack Harrison,Leeds,5.5,Jack Harrison,Everton,81,38,direct_match,MID
+Daniel James,Leeds,5.5,Reece James,Chelsea,54,38,direct_match,MID
+Ethan Ampadu,Leeds,5.0,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Sam Greenwood,Leeds,5.0,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Ilia Gruev,Leeds,5.0,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Largie Ramazani,Leeds,5.0,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Tanaka Ao,Leeds,5.0,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Charlie Crew,Leeds,4.5,Sam Morsy,Ipswich,67,38,similar_teammate_threshold_0.3,MID
+Joe Gelhardt,Leeds,4.5,Sam Morsy,Ipswich,67,38,similar_teammate_threshold_0.3,MID
+Darko Gyabi,Leeds,4.5,Sam Morsy,Ipswich,67,38,similar_teammate_threshold_0.3,MID
+Joël Piroe,Leeds,5.5,Liam Delap,Ipswich,132,38,similar_teammate_threshold_0.3,FWD
+Patrick Bamford,Leeds,5.0,Ali Al-Hamadi,Ipswich,8,38,similar_teammate_threshold_0.3,FWD
+Mateo Joseph Fernández-Regatillo,Leeds,5.0,Ali Al-Hamadi,Ipswich,8,38,similar_teammate_threshold_0.3,FWD
+Lukas Nmecha,Leeds,5.0,Ali Al-Hamadi,Ipswich,8,38,similar_teammate_threshold_0.3,FWD
+Sean Longstaff,Leeds,5.0,Sean Longstaff,Newcastle,34,38,direct_match,MID
+Anton Stach,Leeds,5.0,Omari Giraud-Hutchinson,Ipswich,88,38,similar_teammate_threshold_0.3,MID
+Lucas Estella Perri,Leeds,4.5,Arijanet Muric,Ipswich,49,38,similar_teammate_threshold_0.3,GK
+Alisson Becker,Liverpool,5.5,Alisson Ramses Becker,Liverpool,112,38,direct_match,GK
+Giorgi Mamardashvili,Liverpool,4.5,Vítezslav Jaros,Liverpool,1,34,similar_teammate_threshold_0.5,GK
+Ármin Pécsi,Liverpool,4.0,Caoimhin Kelleher,Liverpool,45,38,similar_teammate_threshold_0.3,GK
+Freddie Woodman,Liverpool,4.0,Caoimhin Kelleher,Liverpool,45,38,similar_teammate_threshold_0.3,GK
+Jeremie Frimpong,Liverpool,6.0,Andrew Robertson,Liverpool,91,38,similar_teammate_threshold_0.3,DEF
+Milos Kerkez,Liverpool,6.0,Milos Kerkez,Bournemouth,134,38,direct_match,DEF
+Andrew Robertson,Liverpool,6.0,Andrew Robertson,Liverpool,91,38,direct_match,DEF
+Virgil van Dijk,Liverpool,6.0,Virgil van Dijk,Liverpool,143,38,direct_match,DEF
+Ibrahima Konaté,Liverpool,5.5,Ibrahima Konaté,Liverpool,106,38,direct_match,DEF
+Conor Bradley,Liverpool,5.0,Conor Bradley,Liverpool,41,38,direct_match,DEF
+Joe Gomez,Liverpool,5.0,Joe Gomez,Liverpool,14,38,direct_match,DEF
+Konstantinos Tsimikas,Liverpool,5.0,Konstantinos Tsimikas,Liverpool,43,38,direct_match,DEF
+Amara Nallo,Liverpool,4.0,Amara Nallo,Liverpool,0,25,direct_match,DEF
+Rhys Williams,Liverpool,4.0,Rhys Williams,Liverpool,0,38,direct_match,DEF
+Calvin Ramsay,Liverpool,4.0,Jarell Quansah,Liverpool,9,38,similar_teammate_threshold_0.3,DEF
+Mohamed Salah,Liverpool,14.5,Mohamed Salah,Liverpool,344,38,direct_match,MID
+Florian Wirtz,Liverpool,8.5,Luis Díaz,Liverpool,183,38,similar_teammate_threshold_1.1,MID
+Luis Díaz Marulanda,Liverpool,8.0,Luis Díaz,Liverpool,183,38,direct_match,MID
+Cody Gakpo,Liverpool,7.5,Cody Gakpo,Liverpool,127,38,direct_match,MID
+Federico Chiesa,Liverpool,6.5,Federico Chiesa,Liverpool,7,36,direct_match,MID
+Alexis Mac Allister,Liverpool,6.5,Alexis Mac Allister,Liverpool,122,38,direct_match,MID
+Dominik Szoboszlai,Liverpool,6.5,Dominik Szoboszlai,Liverpool,143,38,direct_match,MID
+Curtis Jones,Liverpool,5.5,Curtis Jones,Liverpool,87,38,direct_match,MID
+Harvey Elliott,Liverpool,5.5,Harvey Elliott,Liverpool,33,38,direct_match,MID
+Ryan Gravenberch,Liverpool,5.5,Ryan Gravenberch,Liverpool,92,38,direct_match,MID
+Ben Doak,Liverpool,5.0,Ben Doak,Liverpool,0,38,direct_match,MID
+Endo Wataru,Liverpool,5.0,Endo Wataru,Liverpool,21,38,direct_match,MID
+Stefan Bajčetić Maquieira,Liverpool,4.5,Stefan Bajčetić Maquieira,Liverpool,0,38,direct_match,MID
+James McConnell,Liverpool,4.5,James McConnell,Liverpool,0,38,direct_match,MID
+Tyler Morton,Liverpool,4.5,Tyler Morton,Liverpool,0,38,direct_match,MID
+Trey Nyoni,Liverpool,4.5,Treymaurice Nyoni,Liverpool,0,26,direct_match,MID
+Darwin Núñez Ribeiro,Liverpool,6.5,Darwin Núñez Ribeiro,Liverpool,66,38,direct_match,FWD
+Jayden Danns,Liverpool,4.5,Jayden Danns,Liverpool,1,21,direct_match,FWD
+James Trafford,Man City,5.0,Ederson Santana de Moraes,Man City,111,38,similar_teammate_threshold_0.3,GK
+Ederson Santana de Moraes,Man City,5.5,Ederson Santana de Moraes,Man City,111,38,direct_match,GK
+Stefan Ortega Moreno,Man City,5.0,Stefan Ortega Moreno,Man City,35,38,direct_match,GK
+Marcus Bettinelli,Man City,4.0,Marcus Bettinelli,Chelsea,0,38,direct_match,GK
+Rayan Aït-Nouri,Man City,6.0,Rayan Aït-Nouri,Wolves,125,38,direct_match,DEF
+Joško Gvardiol,Man City,6.0,Joško Gvardiol,Man City,153,38,direct_match,DEF
+Manuel Akanji,Man City,5.5,Manuel Akanji,Man City,61,38,direct_match,DEF
+Nathan Aké,Man City,5.5,Nathan Aké,Man City,25,38,direct_match,DEF
+Abdukodir Khusanov,Man City,5.5,Abdukodir Khusanov,Man City,14,16,direct_match,DEF
+Matheus Nunes,Man City,5.5,Matheus Luiz Nunes,Man City,81,38,direct_match,DEF
+Rúben dos Santos Gato Alves Dias,Man City,5.5,Rúben Gato Alves Dias,Man City,90,38,direct_match,DEF
+John Stones,Man City,5.5,John Stones,Man City,29,38,direct_match,DEF
+Rico Lewis,Man City,5.0,Rico Lewis,Man City,66,38,direct_match,DEF
+Nico O'Reilly,Man City,5.0,Nico O'Reilly,Man City,31,38,direct_match,DEF
+Vitor de Oliveira Nunes dos Reis,Man City,5.0,Vitor de Oliveira Nunes dos Reis,Man City,1,16,direct_match,DEF
+Omar Marmoush,Man City,8.5,Omar Marmoush,Man City,73,16,direct_match,MID
+Phil Foden,Man City,8.0,Phil Foden,Man City,105,38,direct_match,MID
+Sávio Moreira de Oliveira,Man City,7.0,Sávio 'Savinho' Moreira de Oliveira,Man City,106,38,direct_match,MID
+Bernardo Mota Veiga de Carvalho e Silva,Man City,6.5,Bernardo Veiga de Carvalho e Silva,Man City,110,38,direct_match,MID
+Rayan Cherki,Man City,6.5,Ilkay Gündogan,Man City,97,37,similar_teammate_threshold_0.3,MID
+Jérémy Doku,Man City,6.5,Jérémy Doku,Man City,88,38,direct_match,MID
+Jack Grealish,Man City,6.5,Jack Grealish,Man City,38,38,direct_match,MID
+İlkay Gündoğan,Man City,6.5,Ilkay Gündogan,Man City,97,37,similar_teammate_threshold_0.3,MID
+Rodrigo 'Rodri' Hernandez Cascante,Man City,6.5,Rodrigo 'Rodri' Hernandez,Man City,3,38,direct_match,MID
+Mateo Kovačić,Man City,6.0,Mateo Kovačić,Man City,109,38,direct_match,MID
+Nico González Iglesias,Man City,6.0,Nico González,Man City,31,14,direct_match,MID
+Oscar Bobb,Man City,5.5,Oscar Bobb,Man City,3,38,direct_match,MID
+Claudio Echeverri,Man City,5.5,Claudio Echeverri,Man City,1,11,direct_match,MID
+James McAtee,Man City,5.5,James McAtee,Man City,31,38,direct_match,MID
+Tijjani Reijnders,Man City,5.5,Mateo Kovačić,Man City,109,38,similar_teammate_threshold_0.3,MID
+Sverre Nypan,Man City,5.0,Matheus Luiz Nunes,Man City,81,38,similar_teammate_threshold_0.3,MID
+Kalvin Phillips,Man City,5.0,Kalvin Phillips,Ipswich,27,38,direct_match,MID
+Erling Haaland,Man City,14.0,Erling Haaland,Man City,181,38,direct_match,FWD
+Bryan Mbeumo,Man Utd,8.0,Bryan Mbeumo,Brentford,236,38,direct_match,MID
+Altay Bayındır,Man Utd,5.0,Altay Bayindir,Man Utd,8,38,direct_match,GK
+André Onana,Man Utd,5.0,André Onana,Man Utd,120,38,direct_match,GK
+Elyh Harrison,Man Utd,4.0,Elyh Harrison,Man Utd,0,15,direct_match,GK
+Tom Heaton,Man Utd,4.0,Tom Heaton,Man Utd,0,38,direct_match,GK
+Dermot Mee,Man Utd,4.0,Dermot Mee,Man Utd,0,11,direct_match,GK
+Matthijs de Ligt,Man Utd,5.0,Matthijs de Ligt,Man Utd,68,38,direct_match,DEF
+Lisandro Martínez,Man Utd,5.0,Lisandro Martínez,Man Utd,68,38,direct_match,DEF
+Noussair Mazraoui,Man Utd,5.0,Noussair Mazraoui,Man Utd,88,38,direct_match,DEF
+Diego León Blanco,Man Utd,4.5,Noussair Mazraoui,Man Utd,88,38,similar_teammate_threshold_0.3,DEF
+Diogo Dalot Teixeira,Man Utd,4.5,Diogo Dalot Teixeira,Man Utd,95,38,direct_match,DEF
+Patrick Dorgu,Man Utd,4.5,Patrick Dorgu,Man Utd,18,14,direct_match,DEF
+Harry Maguire,Man Utd,4.5,Harry Maguire,Man Utd,48,38,direct_match,DEF
+Luke Shaw,Man Utd,4.5,Luke Shaw,Man Utd,5,38,direct_match,DEF
+Leny Yoro,Man Utd,4.5,Leny Yoro,Man Utd,22,38,direct_match,DEF
+Harry Amass,Man Utd,4.0,Harry Amass,Man Utd,4,30,direct_match,DEF
+Tyler Fredricson,Man Utd,4.0,Tyler Fredricson,Man Utd,2,14,direct_match,DEF
+Ayden Heaven,Man Utd,4.0,Ayden Heaven,Man Utd,10,35,direct_match,DEF
+Tyrell Malacia,Man Utd,4.0,Tyrell Malacia,Man Utd,2,38,direct_match,DEF
+Bruno Borges Fernandes,Man Utd,9.0,Bruno Borges Fernandes,Man Utd,174,38,direct_match,MID
+Matheus Santos Carneiro da Cunha,Man Utd,8.0,Matheus Santos Carneiro Da Cunha,Wolves,178,38,direct_match,MID
+Marcus Rashford,Man Utd,7.0,Marcus Rashford,Aston Villa,95,38,direct_match,MID
+Amad Diallo,Man Utd,6.5,Amad Diallo,Man Utd,129,38,direct_match,MID
+Alejandro Garnacho Ferreyra,Man Utd,6.5,Alejandro Garnacho,Man Utd,106,38,direct_match,MID
+Antony dos Santos,Man Utd,6.0,Antony Matheus dos Santos,Man Utd,8,38,direct_match,MID
+Mason Mount,Man Utd,6.0,Mason Mount,Man Utd,25,38,direct_match,MID
+Jadon Sancho,Man Utd,6.0,Jadon Sancho,Chelsea,86,38,direct_match,MID
+Carlos Henrique Casimiro,Man Utd,5.5,Carlos Henrique Casimiro,Man Utd,48,38,direct_match,MID
+Kobbie Mainoo,Man Utd,5.0,Kobbie Mainoo,Man Utd,42,38,direct_match,MID
+Manuel Ugarte Ribeiro,Man Utd,5.0,Manuel Ugarte,Man Utd,49,35,direct_match,MID
+Toby Collyer,Man Utd,4.5,Toby Collyer,Man Utd,6,38,direct_match,MID
+Jayce Fitzgerald,Man Utd,4.5,Jayce Fitzgerald,Man Utd,0,29,direct_match,MID
+Jack Fletcher,Man Utd,4.5,Jack Fletcher,Man Utd,0,31,direct_match,MID
+Sékou Koné,Man Utd,4.5,Sékou Koné,Man Utd,0,14,direct_match,MID
+Jack Moorhouse,Man Utd,4.5,Jack Moorhouse,Man Utd,0,14,direct_match,MID
+Rasmus Højlund,Man Utd,6.5,Rasmus Højlund,Man Utd,78,38,direct_match,FWD
+Joshua Zirkzee,Man Utd,6.0,Joshua Zirkzee,Man Utd,64,38,direct_match,FWD
+Chido Obi,Man Utd,4.5,Chido Obi-Martin,Man Utd,7,14,direct_match,FWD
+Ethan Wheatley,Man Utd,4.5,Ethan Wheatley,Man Utd,0,36,direct_match,FWD
+Nick Pope,Newcastle,5.0,Nick Pope,Newcastle,102,38,direct_match,GK
+Martin Dúbravka,Newcastle,4.0,Martin Dúbravka,Newcastle,44,38,direct_match,GK
+Mark Gillespie,Newcastle,4.0,Martin Dúbravka,Newcastle,44,38,similar_teammate_threshold_0.3,GK
+Odysseas Vlachodimos,Newcastle,4.0,Odysseas Vlachodimos,Newcastle,0,38,direct_match,GK
+Lewis Hall,Newcastle,5.5,Lewis Hall,Newcastle,102,38,direct_match,DEF
+Fabian Schär,Newcastle,5.5,Fabian Schär,Newcastle,118,38,direct_match,DEF
+Sven Botman,Newcastle,5.0,Sven Botman,Newcastle,18,38,direct_match,DEF
+Dan Burn,Newcastle,5.0,Dan Burn,Newcastle,115,38,direct_match,DEF
+Tino Livramento,Newcastle,5.0,Tino Livramento,Newcastle,105,38,direct_match,DEF
+Kieran Trippier,Newcastle,5.0,Kieran Trippier,Newcastle,72,38,direct_match,DEF
+Emil Krafth,Newcastle,4.5,Emil Krafth,Newcastle,17,38,direct_match,DEF
+Jamaal Lascelles,Newcastle,4.5,Jamaal Lascelles,Newcastle,0,38,direct_match,DEF
+Alex Murphy,Newcastle,4.0,Alex Murphy,Newcastle,0,38,direct_match,DEF
+Harrison Ashby,Newcastle,4.0,Emil Krafth,Newcastle,17,38,similar_teammate_threshold_0.3,DEF
+Miodrag Pivaš,Newcastle,4.0,Miodrag Pivaš,Newcastle,0,38,direct_match,DEF
+Matt Targett,Newcastle,4.0,Matt Targett,Newcastle,2,38,direct_match,DEF
+Anthony Gordon,Newcastle,7.5,Anthony Gordon,Newcastle,124,38,direct_match,MID
+Anthony Elanga,Newcastle,7.0,Anthony Elanga,Nott'm Forest,153,38,direct_match,MID
+Harvey Barnes,Newcastle,6.5,Harvey Barnes,Newcastle,130,38,direct_match,MID
+Bruno Guimarães Rodriguez Moura,Newcastle,6.5,Bruno Guimarães Rodriguez Moura,Newcastle,135,38,direct_match,MID
+Jacob Murphy,Newcastle,6.5,Jacob Murphy,Newcastle,159,38,direct_match,MID
+Joelinton Cássio Apolinário de Lira,Newcastle,6.0,Joelinton Cássio Apolinário de Lira,Newcastle,99,38,direct_match,MID
+Sandro Tonali,Newcastle,5.5,Sandro Tonali,Newcastle,106,38,direct_match,MID
+Antoñito Cordero Campillo,Newcastle,5.0,Jacob Murphy,Newcastle,159,38,similar_teammate_threshold_0.3,MID
+Joe Willock,Newcastle,5.0,Joe Willock,Newcastle,46,38,direct_match,MID
+Isaac Hayden,Newcastle,4.5,Isaac Hayden,Newcastle,0,38,direct_match,MID
+Garang Kuol,Newcastle,4.5,Garang Kuol,Newcastle,0,38,direct_match,MID
+Lewis Miley,Newcastle,4.5,Lewis Miley,Newcastle,21,38,direct_match,MID
+Joe White,Newcastle,4.5,Joe White,Newcastle,0,38,direct_match,MID
+Alexander Isak,Newcastle,10.5,Alexander Isak,Newcastle,211,38,direct_match,FWD
+William Osula,Newcastle,5.5,William Osula,Newcastle,19,38,direct_match,FWD
+Sean Neave,Newcastle,4.5,Sean Neave,Newcastle,0,11,direct_match,FWD
+Matz Sels,Nott'm Forest,5.0,Matz Sels,Nott'm Forest,150,38,direct_match,GK
+Carlos Miguel dos Santos Pereira,Nott'm Forest,4.0,Carlos Miguel dos Santos Pereira,Nott'm Forest,0,38,direct_match,GK
+Matt Turner,Nott'm Forest,4.0,Matt Turner,Crystal Palace,0,38,direct_match,GK
+Nikola Milenković,Nott'm Forest,5.5,Nikola Milenković,Nott'm Forest,145,38,direct_match,DEF
+Murillo Costa dos Santos,Nott'm Forest,5.5,Murillo Santiago Costa dos Santos,Nott'm Forest,130,38,direct_match,DEF
+Ola Aina,Nott'm Forest,5.0,Ola Aina,Nott'm Forest,128,38,direct_match,DEF
+Neco Williams,Nott'm Forest,5.0,Neco Williams,Nott'm Forest,109,38,direct_match,DEF
+David Mota Veiga Teixeira do Carmo,Nott'm Forest,4.5,Murillo Santiago Costa dos Santos,Nott'm Forest,130,38,similar_teammate_threshold_0.3,DEF
+Jair Paula da Cunha Filho,Nott'm Forest,4.5,Murillo Santiago Costa dos Santos,Nott'm Forest,130,38,similar_teammate_threshold_0.3,DEF
+Felipe Rodrigues da Silva,Nott'm Forest,4.5,Felipe Rodrigues da Silva,Nott'm Forest,36,35,direct_match,DEF
+Omar Richards,Nott'm Forest,4.5,Omar Richards,Nott'm Forest,0,38,direct_match,DEF
+Zach Abbott,Nott'm Forest,4.0,Zach Abbott,Nott'm Forest,0,20,direct_match,DEF
+Willy Boly,Nott'm Forest,4.0,Willy Boly,Nott'm Forest,6,38,direct_match,DEF
+Morgan Gibbs-White,Nott'm Forest,7.5,Morgan Gibbs-White,Nott'm Forest,154,38,direct_match,MID
+Callum Hudson-Odoi,Nott'm Forest,6.0,Callum Hudson-Odoi,Nott'm Forest,103,38,direct_match,MID
+Elliot Anderson,Nott'm Forest,5.5,Elliot Anderson,Nott'm Forest,107,38,direct_match,MID
+João Pedro Ferreira da Silva,Nott'm Forest,5.5,João Pedro Ferreira Silva,Nott'm Forest,52,38,direct_match,MID
+Nicolás Domínguez,Nott'm Forest,5.0,Nicolás Domínguez,Nott'm Forest,54,38,direct_match,MID
+Lewis O'Brien,Nott'm Forest,5.0,Lewis O'Brien,Nott'm Forest,0,38,direct_match,MID
+Ibrahim Sangaré,Nott'm Forest,5.0,Ibrahim Sangaré,Nott'm Forest,20,38,direct_match,MID
+Ryan Yates,Nott'm Forest,5.0,Ryan Yates,Nott'm Forest,67,38,direct_match,MID
+Eric da Silva Moreira,Nott'm Forest,4.5,Eric da Silva Moreira,Nott'm Forest,2,38,direct_match,MID
+Marko Stamenić,Nott'm Forest,4.5,Ryan Yates,Nott'm Forest,67,38,similar_teammate_threshold_0.3,MID
+Chris Wood,Nott'm Forest,7.5,Chris Wood,Nott'm Forest,200,38,direct_match,FWD
+Igor Jesus Maciel da Cruz,Nott'm Forest,6.0,Taiwo Awoniyi,Nott'm Forest,32,38,similar_teammate_threshold_0.5,FWD
+Taiwo Awoniyi,Nott'm Forest,5.5,Taiwo Awoniyi,Nott'm Forest,32,38,direct_match,FWD
+Dan Ndoye,Nott'm Forest,6.0,João Pedro Ferreira Silva,Nott'm Forest,52,38,similar_teammate_threshold_0.3,MID
+Anthony Patterson,Sunderland,4.5,Nathan Patterson,Everton,14,38,direct_match,GK
+Simon Moore,Sunderland,4.0,Jayden Moore,Southampton,0,1,direct_match,GK
+Blondy Nna Noukeu,Sunderland,4.0,Alex McCarthy,Southampton,12,38,similar_teammate_threshold_0.3,GK
+Daniel Ballard,Sunderland,4.5,Kyle Walker-Peters,Southampton,54,38,similar_teammate_threshold_0.3,DEF
+Trai Hume,Sunderland,4.5,Kyle Walker-Peters,Southampton,54,38,similar_teammate_threshold_0.3,DEF
+Aji Alese,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Joe Anderson,Sunderland,4.0,Elliot Anderson,Nott'm Forest,107,38,direct_match,DEF
+Dennis Cirkin,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Leo Fuhr Hjelde,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Niall Huggins,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Zak Johnson,Sunderland,4.0,Ben Johnson,Ipswich,30,38,direct_match,DEF
+Luke O'Nien,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Timothée Pembélé,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Reinildo Mandava,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Jenson Seelt,Sunderland,4.0,Jan Bednarek,Southampton,60,38,similar_teammate_threshold_0.3,DEF
+Simon Adingra,Sunderland,5.5,Simon Adingra,Brighton,60,38,direct_match,MID
+Habib Diarra,Sunderland,5.5,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.5,MID
+Patrick Roberts,Sunderland,5.5,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.5,MID
+Milan Aleksić,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Enzo Le Fée,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Romaine Mundle,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Dan Neil,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Ian Poveda-Ocampo,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Chris Rigg,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Noah Sadiki,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Chemsdine Talbi,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Abdoullah Ba,Sunderland,4.5,Tyler Dibling,Southampton,68,38,similar_teammate_threshold_0.3,MID
+Alan Browne,Sunderland,4.5,Tyler Dibling,Southampton,68,38,similar_teammate_threshold_0.3,MID
+Pierre Ekwah Elimby,Sunderland,4.5,Tyler Dibling,Southampton,68,38,similar_teammate_threshold_0.3,MID
+Harrison Jones,Sunderland,4.5,Tyler Dibling,Southampton,68,38,similar_teammate_threshold_0.3,MID
+Jay Matete,Sunderland,4.5,Tyler Dibling,Southampton,68,38,similar_teammate_threshold_0.3,MID
+Nectarios Triantis,Sunderland,4.5,Tyler Dibling,Southampton,68,38,similar_teammate_threshold_0.3,MID
+Wilson Isidor,Sunderland,5.5,Adam Armstrong,Southampton,45,38,similar_teammate_threshold_0.5,FWD
+Eliezer Mayenda Dossou,Sunderland,5.5,Adam Armstrong,Southampton,45,38,similar_teammate_threshold_0.5,FWD
+Ahmed Abdullahi,Sunderland,4.5,Cameron Archer,Southampton,57,38,similar_teammate_threshold_0.3,FWD
+Luís Hemir Silva Semedo,Sunderland,4.5,Cameron Archer,Southampton,57,38,similar_teammate_threshold_0.3,FWD
+Nazarii Rusyn,Sunderland,4.5,Cameron Archer,Southampton,57,38,similar_teammate_threshold_0.3,FWD
+Granit Xhaka,Sunderland,5.0,Mateus Gonçalo Espanha Fernandes,Southampton,95,37,similar_teammate_threshold_0.3,MID
+Robin Roefs,Sunderland,4.5,Aaron Ramsdale,Southampton,97,38,similar_teammate_threshold_0.3,GK
+Guglielmo Vicario,Spurs,5.0,Guglielmo Vicario,Spurs,66,38,direct_match,GK
+Brandon Austin,Spurs,4.0,Brandon Austin,Spurs,1,38,direct_match,GK
+Antonín Kinský,Spurs,4.0,Antonín Kinsky,Spurs,17,18,direct_match,GK
+Pedro Porro Sauceda,Spurs,5.5,Pedro Porro,Spurs,98,38,direct_match,DEF
+Cristian Romero,Spurs,5.0,Cristian Romero,Spurs,49,38,direct_match,DEF
+Kevin Danso,Spurs,4.5,Kevin Danso,Spurs,16,14,direct_match,DEF
+Ben Davies,Spurs,4.5,Ben Davies,Spurs,28,38,direct_match,DEF
+Radu Drăgușin,Spurs,4.5,Radu Drăgușin,Spurs,24,38,direct_match,DEF
+Djed Spence,Spurs,4.5,Djed Spence,Spurs,51,38,direct_match,DEF
+Destiny Udogie,Spurs,4.5,Destiny Udogie,Spurs,43,38,direct_match,DEF
+Micky van de Ven,Spurs,4.5,Micky van de Ven,Spurs,32,38,direct_match,DEF
+Ashley Phillips,Spurs,4.0,Ashley Phillips,Spurs,0,38,direct_match,DEF
+Takai Kōta,Spurs,4.0,Ben Davies,Spurs,28,38,similar_teammate_threshold_0.3,DEF
+Luka Vušković,Spurs,4.0,Ben Davies,Spurs,28,38,similar_teammate_threshold_0.3,DEF
+Son Heung-min,Spurs,8.5,Son Heung-min,Spurs,129,38,direct_match,MID
+Brennan Johnson,Spurs,7.0,Brennan Johnson,Spurs,137,38,direct_match,MID
+James Maddison,Spurs,7.0,James Maddison,Spurs,133,38,direct_match,MID
+Mohammed Kudus,Spurs,6.5,Mohammed Kudus,West Ham,106,38,direct_match,MID
+Dejan Kulusevski,Spurs,6.5,Dejan Kulusevski,Spurs,117,38,direct_match,MID
+Mathys Tel,Spurs,6.5,Mathys Tel,Spurs,42,14,direct_match,MID
+Rodrigo Bentancur,Spurs,5.5,Rodrigo Bentancur,Spurs,49,38,direct_match,MID
+Lucas Bergvall,Spurs,5.5,Lucas Bergvall,Spurs,44,38,direct_match,MID
+Yves Bissouma,Spurs,5.5,Yves Bissouma,Spurs,50,38,direct_match,MID
+Wilson Odobert,Spurs,5.5,Wilson Odobert,Spurs,34,38,direct_match,MID
+Manor Solomon,Spurs,5.5,Manor Solomon,Spurs,0,38,direct_match,MID
+Bryan Gil Salvatierra,Spurs,5.0,Bryan Gil Salvatierra,Spurs,0,38,direct_match,MID
+Archie Gray,Spurs,5.0,Archie Gray,Spurs,45,38,direct_match,MID
+Mikey Moore,Spurs,5.0,Mikey Moore,Spurs,19,38,direct_match,MID
+Pape Matar Sarr,Spurs,5.0,Pape Matar Sarr,Spurs,71,38,direct_match,MID
+Yang Min-hyeok,Spurs,4.5,Pape Matar Sarr,Spurs,71,38,similar_teammate_threshold_0.3,MID
+Callum Olusesi,Spurs,4.5,Callum Olusesi,Spurs,0,27,direct_match,MID
+Dominic Solanke-Mitchell,Spurs,7.5,Dominic Solanke-Mitchell,Spurs,108,38,direct_match,FWD
+Richarlison de Andrade,Spurs,6.5,Richarlison de Andrade,Spurs,35,38,direct_match,FWD
+Will Lankshear,Spurs,4.5,Will Lankshear,Spurs,3,38,direct_match,FWD
+Dane Scarlett,Spurs,4.5,Dane Scarlett,Spurs,6,38,direct_match,FWD
+Alphonse Areola,West Ham,4.5,Alphonse Areola,West Ham,69,38,direct_match,GK
+Wes Foderingham,West Ham,4.0,Wes Foderingham,West Ham,0,38,direct_match,GK
+Krisztián Hegyi,West Ham,4.0,Alphonse Areola,West Ham,69,38,similar_teammate_threshold_0.3,GK
+El Hadji Malick Diouf,West Ham,4.5,Aaron Wan-Bissaka,West Ham,118,38,similar_teammate_threshold_0.3,DEF
+Emerson Palmieri dos Santos,West Ham,4.5,Emerson Palmieri dos Santos,West Ham,76,38,direct_match,DEF
+Maximilian Kilman,West Ham,4.5,Max Kilman,West Ham,82,38,direct_match,DEF
+Konstantinos Mavropanos,West Ham,4.5,Konstantinos Mavropanos,West Ham,45,38,direct_match,DEF
+Nayef Aguerd,West Ham,4.5,Nayef Aguerd,West Ham,0,38,direct_match,DEF
+Ollie Scarles,West Ham,4.5,Ollie Scarles,West Ham,29,28,direct_match,DEF
+Jean-Clair Todibo,West Ham,4.5,Jean-Clair Todibo,West Ham,54,38,direct_match,DEF
+Aaron Wan-Bissaka,West Ham,4.5,Aaron Wan-Bissaka,West Ham,118,38,direct_match,DEF
+Kaelan Casey,West Ham,4.0,Kaelan Casey,West Ham,1,36,direct_match,DEF
+Lucas Tolentino Coelho de Lima,West Ham,6.0,Lucas Tolentino Coelho de Lima,West Ham,80,38,direct_match,MID
+Tomáš Souček,West Ham,6.0,Tomáš Souček,West Ham,126,38,direct_match,MID
+James Ward-Prowse,West Ham,6.0,James Ward-Prowse,West Ham,51,38,direct_match,MID
+Crysencio Summerville,West Ham,5.5,Crysencio Summerville,West Ham,33,38,direct_match,MID
+Edson Álvarez Velázquez,West Ham,5.0,Edson Álvarez Velázquez,West Ham,40,38,direct_match,MID
+Maxwel Cornet,West Ham,5.0,Maxwel Cornet,Southampton,1,38,direct_match,MID
+Guido Rodríguez,West Ham,5.0,Guido Rodríguez,West Ham,36,38,direct_match,MID
+Luis Guilherme Lira dos Santos,West Ham,5.0,Luis Guilherme Lira dos Santos,West Ham,12,38,direct_match,MID
+George Earthy,West Ham,4.5,George Earthy,West Ham,0,38,direct_match,MID
+Andy Irving,West Ham,4.5,Andy Irving,West Ham,9,38,direct_match,MID
+Lewis Orford,West Ham,4.5,Lewis Orford,West Ham,2,23,direct_match,MID
+Freddie Potts,West Ham,4.5,Tomáš Souček,West Ham,126,38,similar_teammate_threshold_0.3,MID
+Jarrod Bowen,West Ham,8.0,Jarrod Bowen,West Ham,193,38,direct_match,FWD
+Niclas Füllkrug,West Ham,6.0,Niclas Füllkrug,West Ham,42,38,direct_match,FWD
+Callum Marshall,West Ham,4.5,Danny Ings,West Ham,32,38,similar_teammate_threshold_0.3,FWD
+Kyle Walker-Peters,West Ham,4.5,Kyle Walker-Peters,Southampton,54,38,direct_match,DEF
+Sam Johnstone,Wolves,4.5,Sam Johnstone,Wolves,12,38,direct_match,GK
+José Malheiro de Sá,Wolves,4.5,José Malheiro de Sá,Wolves,93,38,direct_match,GK
+Daniel Bentley,Wolves,4.0,Daniel Bentley,Wolves,9,38,direct_match,GK
+Tom King,Wolves,4.0,Tom King,Wolves,1,38,direct_match,GK
+Emmanuel Agbadou,Wolves,4.5,Emmanuel Agbadou,Wolves,45,18,direct_match,DEF
+Matt Doherty,Wolves,4.5,Matt Doherty,Wolves,75,38,direct_match,DEF
+Hugo Bueno López,Wolves,4.5,Hugo Bueno López,Wolves,0,38,direct_match,DEF
+Yerson Mosquera Valdelamar,Wolves,4.5,Yerson Mosquera,Wolves,3,38,direct_match,DEF
+Rodrigo Martins Gomes,Wolves,4.5,Rodrigo Martins Gomes,Wolves,42,38,direct_match,DEF
+Santiago Ignacio Bueno,Wolves,4.5,Santiago Bueno,Wolves,52,38,direct_match,DEF
+Toti Gomes,Wolves,4.5,Toti António Gomes,Wolves,79,38,direct_match,DEF
+Ki-Jana Hoever,Wolves,4.0,Ki-Jana Hoever,Wolves,0,38,direct_match,DEF
+Bastien Meupiyou Menadjou,Wolves,4.0,Bastien Meupiyou,Wolves,0,36,direct_match,DEF
+Pedro Cardoso de Lima,Wolves,4.0,Pedro Cardoso de Lima,Wolves,2,38,direct_match,DEF
+Alfie Pond,Wolves,4.0,Alfie Pond,Wolves,1,33,direct_match,DEF
+Hwang Hee-chan,Wolves,6.0,Hwang Hee-chan,Wolves,37,38,direct_match,MID
+André Trindade da Costa Neto,Wolves,5.5,André Trindade da Costa Neto,Wolves,61,36,direct_match,MID
+Jean-Ricner Bellegarde,Wolves,5.5,Jean-Ricner Bellegarde,Wolves,90,38,direct_match,MID
+Fer López González,Wolves,5.5,Gonçalo Manuel Ganchinho Guedes,Wolves,62,38,similar_teammate_threshold_0.3,MID
+João Victor Gomes da Silva,Wolves,5.5,João Victor Gomes da Silva,Wolves,87,38,direct_match,MID
+Gonçalo Manuel Ganchinho Guedes,Wolves,5.5,Gonçalo Manuel Ganchinho Guedes,Wolves,62,38,direct_match,MID
+Marshall Munetsi,Wolves,5.5,Marshall Munetsi,Wolves,50,14,direct_match,MID
+Boubacar Traoré,Wolves,5.0,Boubacar Traoré,Wolves,1,38,direct_match,MID
+Tawanda Chirewa,Wolves,4.5,Tawanda Chirewa,Wolves,0,38,direct_match,MID
+Tom Edozie,Wolves,4.5,Tom Edozie,Wolves,0,27,direct_match,MID
+Enso González Medina,Wolves,4.5,Enso González,Wolves,0,38,direct_match,MID
+Joe Hodge,Wolves,4.5,Joe Hodge,Wolves,0,38,direct_match,MID
+Jørgen Strand Larsen,Wolves,6.5,Jørgen Strand Larsen,Wolves,145,38,direct_match,FWD
+Fábio Soares Silva,Wolves,5.0,Fábio Silva,Wolves,0,38,direct_match,FWD
+Saša Kalajdžić,Wolves,5.0,Saša Kalajdžić,Wolves,0,38,direct_match,FWD
+Leon Chiwome,Wolves,4.5,Leon Chiwome,Wolves,0,38,direct_match,FWD
+Nathan Fraser,Wolves,4.5,Nathan Fraser,Wolves,0,38,direct_match,FWD
+Jhon Arias,Wolves,5.5,Gonçalo Manuel Ganchinho Guedes,Wolves,62,38,similar_teammate_threshold_0.3,MID

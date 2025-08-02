@@ -1,0 +1,21 @@
+team,total_points,avg_points_per_player,std_points,total_minutes,total_goals,total_assists,total_clean_sheets,total_goals_conceded,total_yellow_cards,total_red_cards,name,players_used,gameweeks_played,next_week_points,upcoming_difficulty
+Arsenal,418,1.53,2.85,8744,16,14,34,110,20,3,Arsenal,36,9,24,3.0
+Aston Villa,383,1.17,2.18,8875,15,15,18,121,24,1,Aston Villa,38,9,24,3.0
+Bournemouth,346,1.29,2.06,8870,11,10,20,121,26,0,Bournemouth,31,9,48,3.0
+Brentford,359,1.25,2.35,8882,17,17,3,198,14,0,Brentford,33,9,36,3.0
+Brighton,415,1.07,2.21,8873,16,14,35,132,20,0,Brighton,45,9,31,3.0
+Chelsea,412,1.13,2.8,8877,19,18,19,121,36,0,Chelsea,45,9,31,3.0
+Crystal Palace,303,1.09,1.91,8883,5,6,22,121,22,0,Crystal Palace,37,9,33,3.0
+Everton,333,1.31,2.46,8862,10,8,23,176,14,1,Everton,29,9,23,3.0
+Fulham,361,1.4,2.19,8849,12,12,24,132,24,1,Fulham,29,9,45,3.0
+Ipswich,271,0.93,1.84,8853,9,7,8,220,22,1,Ipswich,33,9,37,3.0
+Leicester,318,1.09,2.04,8888,13,11,11,187,27,0,Leicester,33,9,33,3.0
+Liverpool,517,1.94,3.25,8879,17,17,54,55,20,0,Liverpool,32,9,47,3.0
+Man City,436,1.81,3.04,8888,20,16,21,99,19,0,Man City,27,9,28,3.0
+Man Utd,376,1.39,2.45,8830,8,8,42,121,27,1,Man Utd,33,9,31,3.0
+Newcastle,346,1.16,2.06,8817,9,8,21,110,22,1,Newcastle,34,9,59,3.0
+Nott'm Forest,386,1.32,2.29,8857,11,8,34,77,24,2,Nott'm Forest,34,9,78,3.0
+Southampton,237,0.73,1.42,8848,6,5,3,209,29,2,Southampton,37,9,57,3.0
+Spurs,408,1.26,2.49,8877,16,16,21,110,23,0,Spurs,37,9,57,3.0
+West Ham,317,1.31,2.36,8873,12,11,12,176,24,1,West Ham,29,9,12,3.0
+Wolves,259,0.77,1.64,8888,12,10,3,275,29,0,Wolves,39,9,41,3.0
