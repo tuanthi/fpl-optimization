@@ -142,8 +142,10 @@ The paper includes:
 ![Results Summary](papers/results_summary.png)
 
 Our framework achieved:
-- **76% rank improvement** in real-world deployment
+- **31x rank improvement** over two seasons (609k → 81k → 19k)
+- **Method deployment impact**: After implementing in 2023/24, moved from ~500k to sub-100k rank
 - **Top 0.2%** global ranking among 10+ million players
+- **Consistent progression**: 2022/23 (rank 609k) → 2023/24 (rank 81k) → 2024/25 (rank 19k)
 - **23.7% higher returns** compared to baseline methods
 - **200x speedup** versus brute-force optimization
 

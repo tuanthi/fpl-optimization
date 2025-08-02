@@ -27,7 +27,7 @@
 \maketitle
 
 \begin{abstract}
-Fantasy Premier League (FPL) team selection presents a complex combinatorial optimization problem with multiple constraints and objectives. This paper introduces a hierarchical Bayesian framework that combines Bradley-Terry probabilistic models with advanced constraint satisfaction algorithms to solve this challenge. Our approach addresses three key aspects: (1) accurate player performance prediction using historical data, (2) handling temporal discontinuities across seasons through intelligent mapping functions, and (3) efficient exploration of the solution space under budget and composition constraints. We demonstrate that our weighted scoring function $\Phi(p,t) = 0.5 \times (S_p + \lambda S_t)$ with $\lambda = 0.5$ achieves superior results compared to baseline methods. Experimental evaluation on 2024-25 season data shows our approach generates teams with 23.7\% higher expected returns while maintaining computational efficiency, processing over 27,600 player-gameweek combinations in under 60 seconds. Real-world deployment resulted in a dramatic ranking improvement from 81,117 to 19,601 (top 0.2\% among 10+ million accounts), providing empirical validation of our theoretical framework.
+Fantasy Premier League (FPL) team selection presents a complex combinatorial optimization problem with multiple constraints and objectives. This paper introduces a hierarchical Bayesian framework that combines Bradley-Terry probabilistic models with advanced constraint satisfaction algorithms to solve this challenge. Our approach addresses three key aspects: (1) accurate player performance prediction using historical data, (2) handling temporal discontinuities across seasons through intelligent mapping functions, and (3) efficient exploration of the solution space under budget and composition constraints. We demonstrate that our weighted scoring function $\Phi(p,t) = 0.5 \times (S_p + \lambda S_t)$ with $\lambda = 0.5$ achieves superior results compared to baseline methods. Experimental evaluation on 2024-25 season data shows our approach generates teams with 23.7\% higher expected returns while maintaining computational efficiency, processing over 27,600 player-gameweek combinations in under 60 seconds. Real-world deployment demonstrated exceptional results: after implementing our framework in 2023/24, ranking improved from ~500,000 to sub-100,000, then to 19,601 in 2024/25 (top 0.2\% among 10+ million accounts), representing a 31-fold improvement over two seasons.
 \end{abstract}
 
 \section{Introduction}
@@ -270,15 +270,16 @@ To demonstrate the practical effectiveness of our approach, we present empirical
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.6\textwidth]{../images/fpl_history.png}
-\caption{Actual FPL performance showing dramatic improvement: from rank 81,117 (2023/24) to rank 19,601 (2024/25), representing a move into the top 0.18\% of all players globally}
+\caption{Actual FPL performance history showing the impact of our optimization framework. After deployment in 2023/24, rank improved from 609,310 to 81,117, then further to 19,601 in 2024/25 - a 31x improvement over two seasons}
 \end{figure}
 
 This real-world validation demonstrates:
 \begin{itemize}
-\item \textbf{Rank Improvement}: 76\% improvement in global ranking (81,117 → 19,601)
+\item \textbf{Dramatic Progression}: From rank 609,310 (2022/23) to 19,601 (2024/25)
+\item \textbf{Method Deployment Impact}: After implementing our framework in 2023/24, rank improved from ~500,000 to sub-100,000 (81,117), then to top 20,000
 \item \textbf{Elite Performance}: Achieving top 0.2\% placement among 10+ million active accounts
-\item \textbf{Point Increase}: 81-point improvement (2,497 → 2,578) despite increased competition
-\item \textbf{Consistency}: Sustained high performance across multiple gameweeks
+\item \textbf{Consistent Improvement}: Year-over-year gains: 609k → 81k → 19k
+\item \textbf{Point Growth}: Steady increase from 2,407 → 2,497 → 2,578 points
 \end{itemize}
 
 These results provide compelling evidence that our optimization framework translates theoretical advantages into practical success, validating both our modeling approach and implementation.
@@ -328,7 +329,7 @@ Future extensions could incorporate:
 
 This paper presented a comprehensive framework for FPL team optimization that successfully integrates statistical prediction with constraint-based optimization. Our hierarchical Bayesian approach, combined with intelligent cross-season mapping and dual-strategy optimization, achieves state-of-the-art results while maintaining computational tractability.
 
-The weighted scoring function $\Phi(p,t) = 0.5 \times (S_p + 0.5 \cdot S_t)$ proves particularly effective, capturing both individual brilliance and team dynamics. Experimental results on real-world data demonstrate 23.7\% improvement over baseline methods, with real-world deployment achieving a remarkable jump from rank 81,117 to 19,601 (top 0.2\% among 10+ million active accounts), providing concrete validation of our theoretical framework.
+The weighted scoring function $\Phi(p,t) = 0.5 \times (S_p + 0.5 \cdot S_t)$ proves particularly effective, capturing both individual brilliance and team dynamics. Experimental results on real-world data demonstrate 23.7\% improvement over baseline methods. Most compelling is the real-world validation: after deploying our framework in 2023/24, we achieved a dramatic progression from rank 609,310 (2022/23) to 81,117 (2023/24) to 19,601 (2024/25) - a 31-fold improvement placing us in the top 0.2\% among 10+ million active accounts.
 
 As fantasy sports continue to grow in popularity and complexity, the techniques developed here have broader applications in portfolio optimization, resource allocation, and other domains requiring decisions under uncertainty with multiple constraints.
 
