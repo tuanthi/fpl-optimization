@@ -27,20 +27,26 @@
 \maketitle
 
 \begin{abstract}
-Fantasy Premier League (FPL) team selection presents a complex combinatorial optimization problem with multiple constraints and objectives. This paper introduces a hierarchical Bayesian framework that combines Bradley-Terry probabilistic models with advanced constraint satisfaction algorithms to solve this challenge. Our approach addresses three key aspects: (1) accurate player performance prediction using historical data, (2) handling temporal discontinuities across seasons through intelligent mapping functions, and (3) efficient exploration of the solution space under budget and composition constraints. We demonstrate that our weighted scoring function $\Phi(p,t) = 0.5 \times (S_p + \lambda S_t)$ with $\lambda = 0.5$ achieves superior results compared to baseline methods. Experimental evaluation on 2024-25 season data shows our approach generates teams with 23.7\% higher expected returns while maintaining computational efficiency, processing over 27,600 player-gameweek combinations in under 60 seconds. Real-world deployment demonstrated exceptional results: after implementing our framework in 2023/24, ranking improved from ~500,000 to sub-100,000, then to 19,601 in 2024/25 (top 0.2\% among 10+ million accounts), representing a 31-fold improvement over two seasons.
+The selection of fifteen professional athletes to accumulate imaginary points in a virtual competition has, inexplicably, captured the attention of over ten million presumably functional adults. This paper presents our modest contribution to this peculiar phenomenon: a hierarchical Bayesian framework that applies the mathematical machinery typically reserved for particle physics to the altogether more pressing matter of Fantasy Premier League optimization. 
+
+We report, with appropriate academic gravitas, that our weighted scoring function $\Phi(p,t) = 0.5 \times (S_p + \lambda S_t)$ successfully captures the revolutionary insight that good players score more points than bad players. Through extensive computational analysis involving 27,600 player-gameweek combinations—each processed with the same care one might apply to climate modeling—we achieved a 23.7\% improvement over the baseline strategy of "picking players whose names we recognize."
+
+Most remarkably, real-world deployment of our framework yielded a progression from rank 609,310 to 19,601 over two seasons, placing us among the top 0.2\% of individuals who have chosen to dedicate significant portions of their lives to this pursuit. We present these findings without irony, as the irony speaks for itself.
 \end{abstract}
 
 \section{Introduction}
 
-Fantasy Premier League has emerged as one of the world's largest fantasy sports platforms, with over 11 million participants managing virtual teams of real football players. The fundamental challenge lies in selecting 15 players from a pool of approximately 600, subject to:
+It is a truth universally acknowledged that a person in possession of a computer and an internet connection must be in want of a Fantasy Premier League team. Over 11 million souls have succumbed to this particular affliction, each convinced that their unique ability to identify which millionaire will most effectively kick a sphere past other millionaires sets them apart from the masses.
+
+The rules of engagement are deceptively simple, which is to say, entirely unreasonable:
 \begin{itemize}
-\item Budget constraint: Total cost $\leq$ £100 million
-\item Squad composition: 2 goalkeepers, 5 defenders, 5 midfielders, 3 forwards
-\item Team diversity: Maximum 3 players from any single club
-\item Formation constraints: Valid starting XI from the 15-player squad
+\item One must acquire 15 athletes using exactly £100 million in fictional currency—a sum that would purchase approximately half a footballer's left boot in reality
+\item The squad must contain precisely 2 goalkeepers, 5 defenders, 5 midfielders, and 3 forwards, because apparently flexibility is the enemy of entertainment
+\item No more than 3 players from any single club, preventing the obvious strategy of simply purchasing Manchester City's starting eleven
+\item One must select 11 of these 15 to actually participate each week, adding a delightful layer of regret to the proceedings
 \end{itemize}
 
-The optimization problem is further complicated by the dynamic nature of player values and performance, which fluctuate based on form, fixtures, and injuries. This creates a sequential decision-making problem under uncertainty, where managers must balance short-term gains with long-term squad value.
+The true complexity emerges when one realizes that player values fluctuate with all the predictability of cryptocurrency, while injuries are announced with the transparency of state secrets. This creates what academics call a "sequential decision-making problem under uncertainty" and what participants call "that bloody game that ruined my weekend."
 
 \subsection{Related Work}
 
