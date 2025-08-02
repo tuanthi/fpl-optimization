@@ -1,10 +1,18 @@
-# Hierarchical Bayesian Framework for Multi-Objective Optimization in Fantasy Premier League: A Novel Approach to Sequential Decision Making Under Uncertainty
+# Advanced Statistical Modeling and Optimization for Fantasy Premier League Team Selection
 
-## Abstract
+## Introduction
 
-This repository presents a groundbreaking advancement in sports analytics and combinatorial optimization, introducing a novel hierarchical Bayesian framework for solving the NP-hard problem of optimal team selection in Fantasy Premier League (FPL). Our approach synthesizes cutting-edge techniques from statistical learning, game theory, and operations research to address the fundamental challenge of sequential decision-making under uncertainty in a multi-agent competitive environment.
+Fantasy Premier League (FPL) presents a complex optimization challenge: selecting 15 players within a £100m budget to maximize points across a 38-week season. With over 600 players and constraints on team composition (max 3 players per club, specific formation requirements), the solution space becomes computationally intractable through brute-force methods.
 
-We propose a revolutionary multi-phase methodology that combines Bradley-Terry probabilistic modeling with advanced constraint satisfaction algorithms, achieving unprecedented accuracy in player performance prediction while maintaining computational tractability. Our framework uniquely addresses the temporal dynamics of player valuations through innovative season-bridging techniques, enabling robust predictions across discontinuous competitive periods.
+This repository implements a comprehensive framework that combines statistical modeling with optimization algorithms to address this challenge. Our approach leverages historical performance data from the 2024-25 season to predict future gameweek outcomes, employing Bradley-Terry models for player and team strength estimation. We then apply constraint-based optimization to generate optimal team selections that balance predicted performance with budget limitations.
+
+## Key Technical Approach
+
+Our solution employs a multi-stage pipeline:
+1. **Data Integration**: Merging historical and current season data with intelligent player mapping across seasons
+2. **Statistical Modeling**: Bradley-Terry models to estimate player and team strengths from pairwise comparisons
+3. **Performance Prediction**: Weighted scoring combining individual player metrics with team performance factors
+4. **Constrained Optimization**: Beam search algorithms to efficiently explore the solution space while respecting FPL rules
 
 ## Key Contributions
 
