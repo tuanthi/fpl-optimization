@@ -326,7 +326,7 @@ def create_optimized_teams(pred_file, output_file, team_weight=0.5, num_teams=20
 def main():
     import sys
     if len(sys.argv) != 3:
-        pred_file = "data/cached_merged_2024_2025_v2/predictions_gw39_with_roles.csv"
+        pred_file = "data/cached_merged_2024_2025_v2/predictions_gw39_proper.csv"
         output_file = "data/cached_merged_2024_2025_v2/top_200_teams_gw39.csv"
     else:
         pred_file = sys.argv[1]
