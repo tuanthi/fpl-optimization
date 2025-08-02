@@ -62,12 +62,34 @@ def update_gameweek_39_predictions():
     # Update team names for 2025
     pred_df['club'] = pred_df['team_2025'].fillna(pred_df['team'])
     
+    # Filter out players who don't have valid 2025 mappings
+    # Get valid 2025 teams from mapping
+    valid_2025_teams = mapping_df['team_2025'].dropna().unique()
+    print(f"\\nValid 2025 teams: {sorted(valid_2025_teams)}")
+    
+    # Only keep players who:
+    # 1. Have a valid team_2025 mapping, OR
+    # 2. Are from teams that weren't replaced (still in 2025)
+    replaced_teams = ['Southampton', 'Leicester', 'Ipswich']
+    
+    valid_players = pred_df[
+        (pred_df['team_2025'].notna()) |  # Has 2025 mapping
+        (~pred_df['team'].isin(replaced_teams))  # Not from replaced team
+    ].copy()
+    
+    print(f"\\nFiltered from {len(pred_df)} to {len(valid_players)} players")
+    
+    # Remove duplicate player_ids (keep the one with highest score)
+    valid_players = valid_players.sort_values('weighted_score', ascending=False).drop_duplicates(['player_id'], keep='first')
+    
+    print(f"\\nAfter removing duplicate player_ids: {len(valid_players)} players")
+    
     # Save updated predictions
     output_cols = ['first_name', 'last_name', 'club', 'gameweek', 'price', 
                    'player_score', 'team_score', 'role_score', 'average_score', 
                    'weighted_score', 'role', 'player_id']
     
-    final_df = pred_df[output_cols].copy()
+    final_df = valid_players[output_cols].copy()
     final_df.to_csv(cache_dir / "predictions_gw39_with_roles.csv", index=False)
     
     print(f"\nSaved updated predictions to {cache_dir}/predictions_gw39_with_roles.csv")

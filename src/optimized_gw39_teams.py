@@ -19,7 +19,13 @@ def create_optimized_teams(pred_file, output_file, team_weight=0.5, num_teams=20
     # Weighted score already calculated: 1/3 * (player_score + 0.5 * team_score + role_score)
     
     # Get unique players with their best stats
-    players = df.groupby(['first_name', 'last_name', 'club', 'role']).agg({
+    # First, create a unique identifier for each player
+    df['player_key'] = df['first_name'] + ' ' + df['last_name'] + ' (' + df['club'] + ')'
+    
+    # Remove duplicates - keep the one with highest weighted score
+    df_unique = df.sort_values('weighted_score', ascending=False).drop_duplicates(['player_key'], keep='first')
+    
+    players = df_unique.groupby(['first_name', 'last_name', 'club', 'role']).agg({
         'player_score': 'mean',
         'team_score': 'mean',
         'weighted_score': 'mean',
@@ -85,12 +91,21 @@ def create_optimized_teams(pred_file, output_file, team_weight=0.5, num_teams=20
         all_mid = starting_mid + bench_mid
         all_fwd = starting_fwd + bench_fwd
         
-        # Check team constraints (max 3 from same team)
+        # Check team constraints (max 3 from same team) and no duplicate players
         team_counts = {}
+        player_names = set()
         valid_team = True
         
         for player_list in [all_gk, all_def, all_mid, all_fwd]:
             for player in player_list:
+                # Check for duplicate players
+                player_name = player['full_name'] + ' (' + player['club'] + ')'
+                if player_name in player_names:
+                    valid_team = False
+                    break
+                player_names.add(player_name)
+                
+                # Check team constraint
                 team = player['club']
                 team_counts[team] = team_counts.get(team, 0) + 1
                 if team_counts[team] > 3:
