@@ -30,7 +30,7 @@ results_box = FancyBboxPatch((0.5, 5), 4, 3,
 ax.add_patch(results_box)
 
 ax.text(2.5, 7.5, 'Key Results', ha='center', fontsize=16, weight='bold')
-ax.text(0.8, 6.8, '✓ 76% Rank Improvement', fontsize=12)
+ax.text(0.8, 6.8, '✓ 31x Rank Improvement', fontsize=12)
 ax.text(0.8, 6.3, '✓ Top 0.2% Global Ranking', fontsize=12)
 ax.text(0.8, 5.8, '✓ 23.7% Better Returns', fontsize=12)
 ax.text(0.8, 5.3, '✓ 200x Faster than Brute Force', fontsize=12)
@@ -44,10 +44,11 @@ validation_box = FancyBboxPatch((5, 5), 4.5, 3,
 ax.add_patch(validation_box)
 
 ax.text(7.25, 7.5, 'Real-World Performance', ha='center', fontsize=16, weight='bold')
-ax.text(7.25, 6.8, '2023/24: Rank 81,117', ha='center', fontsize=12)
-ax.text(7.25, 6.3, '↓', ha='center', fontsize=20, color='#27ae60')
+ax.text(7.25, 7.0, '2022/23: Rank 609,310', ha='center', fontsize=11, color='#7f8c8d')
+ax.text(7.25, 6.6, '2023/24: Rank 81,117', ha='center', fontsize=11, color='#e74c3c')
+ax.text(7.25, 6.2, '↓', ha='center', fontsize=16, color='#27ae60')
 ax.text(7.25, 5.8, '2024/25: Rank 19,601', ha='center', fontsize=12, weight='bold', color='#27ae60')
-ax.text(7.25, 5.3, '(10+ Million Players)', ha='center', fontsize=10, style='italic')
+ax.text(7.25, 5.3, '(31x improvement)', ha='center', fontsize=10, style='italic')
 
 # Technical Approach
 approach_box = FancyBboxPatch((0.5, 1.5), 9, 3,
@@ -80,24 +81,33 @@ print("Created paper_preview.png")
 fig2, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
 
 # Rank improvement visualization
-seasons = ['2023/24', '2024/25']
-ranks = [81117, 19601]
-colors = ['#e74c3c', '#27ae60']
+seasons = ['2022/23', '2023/24', '2024/25']
+ranks = [609310, 81117, 19601]
+colors = ['#95a5a6', '#e74c3c', '#27ae60']
 
-ax1.bar(seasons, ranks, color=colors, alpha=0.8, edgecolor='black', linewidth=2)
-ax1.set_ylabel('Global Rank', fontsize=12)
-ax1.set_title('FPL Rank Improvement', fontsize=14, weight='bold')
-ax1.set_ylim(0, 90000)
+bars = ax1.bar(seasons, ranks, color=colors, alpha=0.8, edgecolor='black', linewidth=2)
+ax1.set_ylabel('Global Rank (Lower is Better)', fontsize=12)
+ax1.set_title('FPL Rank Progression: Impact of Optimization Method', fontsize=14, weight='bold')
+ax1.set_ylim(0, 650000)
 
 # Add value labels
 for i, (season, rank) in enumerate(zip(seasons, ranks)):
-    ax1.text(i, rank + 2000, f'{rank:,}', ha='center', fontsize=11, weight='bold')
-    
-# Add improvement arrow
-ax1.annotate('', xy=(1, ranks[1]), xytext=(0, ranks[0]),
-            arrowprops=dict(arrowstyle='->', lw=3, color='#2c3e50', alpha=0.5))
-ax1.text(0.5, 50000, '76%\nImprovement', ha='center', fontsize=12, 
+    ax1.text(i, rank + 15000, f'{rank:,}', ha='center', fontsize=10, weight='bold')
+
+# Add method deployment annotation
+ax1.axvline(x=0.5, color='red', linestyle='--', alpha=0.5, linewidth=2)
+ax1.text(0.5, 580000, 'Method\nDeployed', ha='center', fontsize=10, 
+         weight='bold', color='red', bbox=dict(boxstyle="round,pad=0.3", facecolor="white", alpha=0.8))
+
+# Add improvement percentages
+ax1.text(1, 350000, '87%\nimprovement', ha='center', fontsize=10, 
          weight='bold', color='#2c3e50')
+ax1.text(2, 350000, '76%\nimprovement\nvs 2023/24', ha='center', fontsize=10, 
+         weight='bold', color='#2c3e50')
+
+# Add note about player count
+ax1.text(1.5, 50000, '10+ Million Players', ha='center', fontsize=9, 
+         style='italic', color='#7f8c8d')
 
 # Model performance comparison
 methods = ['Random', 'Greedy', 'Our Method']
