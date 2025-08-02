@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Optimized approach to create top teams for gameweek 39
-- Uses weighted score: 0.5 * (player_score + team_weight * team_score)
+- Uses weighted score: 1/3 * (player_score + 0.5 * team_score + role_score)
 - Optimizes for 11 players with cheap bench
 - Generates top 200 teams
 """
@@ -16,8 +16,7 @@ def create_optimized_teams(pred_file, output_file, team_weight=0.5, num_teams=20
     # Load predictions
     df = pd.read_csv(pred_file)
     
-    # Calculate weighted average score
-    df['weighted_score'] = 0.5 * (df['player_score'] + team_weight * df['team_score'])
+    # Weighted score already calculated: 1/3 * (player_score + 0.5 * team_score + role_score)
     
     # Get unique players with their best stats
     players = df.groupby(['first_name', 'last_name', 'club', 'role']).agg({
@@ -312,7 +311,7 @@ def create_optimized_teams(pred_file, output_file, team_weight=0.5, num_teams=20
 def main():
     import sys
     if len(sys.argv) != 3:
-        pred_file = "data/cached_merged_2024_2025_v2/predictions_gw39.csv"
+        pred_file = "data/cached_merged_2024_2025_v2/predictions_gw39_with_roles.csv"
         output_file = "data/cached_merged_2024_2025_v2/top_200_teams_gw39.csv"
     else:
         pred_file = sys.argv[1]
