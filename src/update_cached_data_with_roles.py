@@ -67,15 +67,9 @@ def update_gameweek_39_predictions():
     valid_2025_teams = mapping_df['team_2025'].dropna().unique()
     print(f"\\nValid 2025 teams: {sorted(valid_2025_teams)}")
     
-    # Only keep players who:
-    # 1. Have a valid team_2025 mapping, OR
-    # 2. Are from teams that weren't replaced (still in 2025)
-    replaced_teams = ['Southampton', 'Leicester', 'Ipswich']
-    
-    valid_players = pred_df[
-        (pred_df['team_2025'].notna()) |  # Has 2025 mapping
-        (~pred_df['team'].isin(replaced_teams))  # Not from replaced team
-    ].copy()
+    # Only keep players who have explicit 2025 mappings
+    # This ensures we only include players who are actually in the 2025 season
+    valid_players = pred_df[pred_df['team_2025'].notna()].copy()
     
     print(f"\\nFiltered from {len(pred_df)} to {len(valid_players)} players")
     
