@@ -133,7 +133,8 @@ A comprehensive technical report detailing our methodology and findings is avail
 The paper includes:
 - Mathematical formulations and proofs
 - Empirical results from 200 team generations  
-- Real-world validation showing rank improvement from 81,117 to 19,601 (top 0.2%)
+- Real-world validation showing progression from rank 609,310 → 81,117 → 19,601 over two seasons
+- Documented impact of method deployment: ~500k to sub-100k rank in first year (2023/24)
 - Seven data visualizations demonstrating effectiveness
 - Ablation studies and computational analysis
 
