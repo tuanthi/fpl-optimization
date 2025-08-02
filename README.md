@@ -122,17 +122,41 @@ This work builds upon seminal contributions in:
 3. **Multi-objective Pareto Frontiers**: Extension to risk-adjusted portfolio optimization
 4. **Quantum Computing**: Exploration of quantum annealing for solution space exploration
 
+## Technical Paper
+
+A comprehensive technical report detailing our methodology and findings is available in the `papers/` directory:
+
+📄 **[Hierarchical Bayesian Framework for Multi-Objective Optimization in Fantasy Premier League](papers/fpl_optimization_paper.tex)**
+
+![Paper Preview](papers/paper_preview.png)
+
+The paper includes:
+- Mathematical formulations and proofs
+- Empirical results from 200 team generations  
+- Real-world validation showing rank improvement from 81,117 to 19,601 (top 0.2%)
+- Seven data visualizations demonstrating effectiveness
+- Ablation studies and computational analysis
+
+### Key Results
+
+![Results Summary](papers/results_summary.png)
+
+Our framework achieved:
+- **76% rank improvement** in real-world deployment
+- **Top 0.2%** global ranking among 10+ million players
+- **23.7% higher returns** compared to baseline methods
+- **200x speedup** versus brute-force optimization
+
 ## Citation
 
 If you use this framework in your research, please cite:
 ```bibtex
-@article{fpl-optimization-2025,
+@techreport{fpl-optimization-2025,
   title={Hierarchical Bayesian Framework for Multi-Objective Optimization in Fantasy Premier League},
-  author={Research Team},
-  journal={Journal of Computational Sports Analytics},
+  author={Technical Report},
+  institution={Independent Research},
   year={2025},
-  volume={1},
-  pages={1-47}
+  type={Technical Report}
 }
 ```
 
