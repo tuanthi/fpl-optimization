@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Fantasy Premier League (FPL) presents a complex optimization challenge: selecting 15 players within a £100m budget to maximize points across a 38-week season. With over 600 players and constraints on team composition (max 3 players per club, specific formation requirements), the solution space becomes computationally intractable through brute-force methods.
+Fantasy Premier League (FPL) presents a complex optimization challenge: selecting 15 players within a given budget to maximize points across a 38-week season. With over 600 players and constraints on team composition (max 3 players per club, specific formation requirements), the solution space becomes computationally intractable through brute-force methods.
 
 This repository implements a comprehensive framework that combines statistical modeling with optimization algorithms to address this challenge. Our approach leverages historical performance data from the 2024-25 season to predict future gameweek outcomes, employing Bradley-Terry models for player and team strength estimation. We then apply constraint-based optimization to generate optimal team selections that balance predicted performance with budget limitations.
 
