@@ -26,7 +26,7 @@ client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY'))
 
 def load_valid_players():
     """Load the current valid player pool"""
-    predictions_file = Path("../data/cached_merged_2024_2025_v2/predictions_gw39_proper_v4.csv")
+    predictions_file = Path("../data/cached_merged_2024_2025_v3/predictions_gw39_proper_v3.csv")
     if predictions_file.exists():
         df = pd.read_csv(predictions_file)
         # Create player lookup with club info
@@ -42,10 +42,47 @@ def load_valid_players():
         return player_lookup
     return {}
 
+def apply_gk_rules(team_data):
+    """Apply GK rules: 2 GKs from same club, backup gets 0.2 score"""
+    fixes = []
+    
+    # Find all GKs
+    gks = []
+    for col in team_data.keys():
+        if col.startswith('GK') and not col.endswith('_score') and not col.endswith('_price') and not col.endswith('_role'):
+            if pd.notna(team_data.get(col)):
+                gk_data = {
+                    'name': team_data[col],
+                    'score': team_data.get(f'{col}_score', 0),
+                    'price': team_data.get(f'{col}_price', 0),
+                    'club': team_data.get(f'{col}_club', ''),
+                    'col': col
+                }
+                # Extract club from name if needed
+                if isinstance(gk_data['name'], str) and '(' in gk_data['name'] and ')' in gk_data['name']:
+                    gk_data['club'] = gk_data['name'].split('(')[1].split(')')[0]
+                    gk_data['name'] = gk_data['name'].split(' (')[0]
+                gks.append(gk_data)
+    
+    if len(gks) == 2:
+        # Apply score rule: lower scoring GK gets 0.2
+        if gks[0]['score'] > gks[1]['score']:
+            team_data[f'{gks[1]["col"]}_score'] = 0.2
+            fixes.append(f"Set backup GK {gks[1]['name']} score to 0.2")
+        else:
+            team_data[f'{gks[0]["col"]}_score'] = 0.2
+            fixes.append(f"Set backup GK {gks[0]['name']} score to 0.2")
+    
+    return team_data, fixes
+
 def validate_and_fix_team(team_data, valid_players):
     """Validate team and fix any issues"""
     issues = []
     fixes = []
+    
+    # Apply GK rules first
+    team_data, gk_fixes = apply_gk_rules(team_data)
+    fixes.extend(gk_fixes)
     
     # Extract all players from team
     players = []
@@ -311,8 +348,24 @@ def save_analysis_results(analysis_result, output_dir):
         
         selected_teams.append(row)
     
-    # Save CSV
+    # Save CSV with proper player names
     df = pd.DataFrame(selected_teams)
+    
+    # Ensure player names are included in CSV, not just roles
+    for col in df.columns:
+        if col.endswith('_role'):
+            # Find corresponding player name column
+            base_col = col[:-5]  # Remove '_role' suffix
+            if base_col in df.columns:
+                # We have the player name, keep it
+                pass
+            else:
+                # Try to find player name in the data
+                for team in selected_teams:
+                    if base_col in team and col in team:
+                        # Add player name column if missing
+                        df[base_col] = df.apply(lambda row: team.get(base_col) if row.name == selected_teams.index(team) else row.get(base_col, ''), axis=1)
+    
     csv_path = output_dir / "final_selected_teams_llm_v3.csv"
     df.to_csv(csv_path, index=False)
     
@@ -345,7 +398,7 @@ def main():
     print(f"Loaded {len(valid_players)} valid players")
     
     # Load teams to analyze
-    teams_file = Path("../data/cached_merged_2024_2025_v2/top_200_teams_final_v15.csv")
+    teams_file = Path("../data/cached_merged_2024_2025_v3/top_200_teams_final_gk_fixed.csv")
     if not teams_file.exists():
         print(f"Error: {teams_file} not found")
         return
@@ -358,7 +411,7 @@ def main():
     analysis_result = analyze_teams_with_llm(teams_df, valid_players)
     
     # Save results
-    output_dir = Path("../data/cached_merged_2024_2025_v2")
+    output_dir = Path("../data/cached_merged_2024_2025_v3")
     save_analysis_results(analysis_result, output_dir)
 
 if __name__ == "__main__":

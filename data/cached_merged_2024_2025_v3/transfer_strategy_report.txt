@@ -1,0 +1,194 @@
+================================================================================
+FPL TRANSFER OPTIMIZATION REPORT: GW40-43
+================================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Period: Gameweeks 40-43 (4 gameweeks)
+Transfer Rule: 1 free transfer per GW, -4 points for additional
+
+TEAM PERFORMANCE COMPARISON
+----------------------------------------
+ Team Total Score Transfer Cost Net Score Avg per GW
+    1       297.1            -4     293.1       73.3
+    2       293.9            -0     293.9       73.5
+    3       288.7            -0     288.7       72.2
+
+RECOMMENDED: Team 2 (highest net score)
+
+================================================================================
+TEAM 1 DETAILED TRANSFER PLAN
+================================================================================
+
+Initial Squad Key Players:
+- Captain: Mohamed Salah
+- Goalkeeper: Max Weiß (Burnley)
+- Key Midfielders: Mohamed Salah (Liverpool), Cole Palmer (Chelsea)
+- Key Forward: Joël Piroe (Leeds)
+
+Transfer Strategy by Gameweek:
+----------------------------------------
+
+Gameweek 40:
+  Formation: 5-5-1
+  Captain: Mohamed Salah
+  Score: 69.7 points
+  Transfers (1):
+    • OUT: Max Weiß
+      IN:  Kepa Arrizabalaga Revuelta (+1.3 pts)
+
+Gameweek 41:
+  Formation: 4-5-2
+  Captain: Mohamed Salah
+  Score: 71.8 points
+  Transfers (1):
+    • OUT: Morgan Gibbs-White
+      IN:  Anthony Elanga (+1.6 pts)
+
+Gameweek 42:
+  Formation: 4-5-2
+  Captain: Mohamed Salah
+  Score: 75.5 points
+  Transfers (2):
+    • OUT: Joško Gvardiol
+      IN:  David Mota Veiga Teixeira do Carmo (+1.0 pts)
+    • OUT: Joël Piroe
+      IN:  Chris Wood (+4.0 pts)
+  Transfer Cost: -4 points
+
+Gameweek 43:
+  Formation: 4-5-2
+  Captain: Mohamed Salah
+  Score: 80.1 points
+  Transfers (1):
+    • OUT: Virgil van Dijk
+      IN:  Rayan Aït-Nouri (+1.0 pts)
+
+Team 1 Total Net Score: 293.1 points
+
+================================================================================
+TEAM 2 DETAILED TRANSFER PLAN
+================================================================================
+
+Initial Squad Key Players:
+- Captain: Mohamed Salah
+- Goalkeeper: Matz Sels (Nott'm Forest)
+- Key Midfielders: Mohamed Salah (Liverpool), Cole Palmer (Chelsea)
+- Key Forward: Liam Delap (Chelsea)
+
+Transfer Strategy by Gameweek:
+----------------------------------------
+
+Gameweek 40:
+  Formation: 5-5-1
+  Captain: Mohamed Salah
+  Score: 67.7 points
+  Transfers (1):
+    • OUT: Matz Sels
+      IN:  Bernd Leno (+3.2 pts)
+
+Gameweek 41:
+  Formation: 3-5-3
+  Captain: Mohamed Salah
+  Score: 71.9 points
+  Transfers (1):
+    • OUT: Liam Delap
+      IN:  Nicolas Jackson (+0.9 pts)
+
+Gameweek 42:
+  Formation: 4-5-2
+  Captain: Mohamed Salah
+  Score: 78.2 points
+  Transfers (1):
+    • OUT: Fabian Schär
+      IN:  Nikola Milenković (+5.3 pts)
+
+Gameweek 43:
+  Formation: 4-5-2
+  Captain: Mohamed Salah
+  Score: 76.2 points
+  Transfers (1):
+    • OUT: Florian Wirtz
+      IN:  Alex Iwobi (+2.3 pts)
+
+Team 2 Total Net Score: 293.9 points
+
+================================================================================
+TEAM 3 DETAILED TRANSFER PLAN
+================================================================================
+
+Initial Squad Key Players:
+- Captain: Mohamed Salah
+- Goalkeeper: Jordan Pickford (Everton)
+- Key Midfielders: Mohamed Salah (Liverpool), Cole Palmer (Chelsea)
+- Key Forward: Joël Piroe (Leeds)
+
+Transfer Strategy by Gameweek:
+----------------------------------------
+
+Gameweek 40:
+  Formation: 5-5-1
+  Captain: Mohamed Salah
+  Score: 68.4 points
+  Transfers (1):
+    • OUT: Jordan Pickford
+      IN:  Bernd Leno (+3.1 pts)
+
+Gameweek 41:
+  Formation: 3-5-3
+  Captain: Mohamed Salah
+  Score: 71.2 points
+  Transfers (1):
+    • OUT: Rayan Aït-Nouri
+      IN:  Dan Burn (+4.2 pts)
+
+Gameweek 42:
+  Formation: 3-5-3
+  Captain: Mohamed Salah
+  Score: 75.2 points
+  Transfers (1):
+    • OUT: Bernd Leno
+      IN:  Ederson Santana de Moraes (+2.9 pts)
+
+Gameweek 43:
+  Formation: 3-5-2
+  Captain: Mohamed Salah
+  Score: 73.9 points
+  Transfers (1):
+    • OUT: Florian Wirtz
+      IN:  Alex Iwobi (+2.3 pts)
+
+Team 3 Total Net Score: 288.7 points
+
+================================================================================
+KEY INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+Most Transferred Out Players:
+  • Florian Wirtz: 2 times
+  • Max Weiß: 1 times
+  • Morgan Gibbs-White: 1 times
+  • Joško Gvardiol: 1 times
+  • Joël Piroe: 1 times
+
+Most Transferred In Players:
+  • Bernd Leno: 2 times
+  • Alex Iwobi: 2 times
+  • Kepa Arrizabalaga Revuelta: 1 times
+  • Anthony Elanga: 1 times
+  • David Mota Veiga Teixeira do Carmo: 1 times
+
+Highest Impact Transfers:
+  • Fabian Schär → Nikola Milenković (+5.3 pts)
+  • Rayan Aït-Nouri → Dan Burn (+4.2 pts)
+  • Joël Piroe → Chris Wood (+4.0 pts)
+  • Matz Sels → Bernd Leno (+3.2 pts)
+  • Jordan Pickford → Bernd Leno (+3.1 pts)
+
+FINAL RECOMMENDATIONS:
+----------------------------------------
+1. Team 2 provides the best balance with minimal transfer costs
+2. Key transfers focus on form players and fixture swings
+3. Goalkeeper transfers can provide significant gains
+4. Avoid taking hits (-4) unless improvement exceeds 4 points
+5. Monitor Chris Wood and Anthony Elanga as key differentials

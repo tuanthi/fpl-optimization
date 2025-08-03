@@ -555,7 +555,7 @@ if __name__ == "__main__":
     import os
     
     # Use the v4 predictions with fixed GK scores
-    predictions_file = "/Users/huetuanthi/dev/dokeai/fpl/data/cached_merged_2024_2025_v2/predictions_gw39_proper_v4.csv"
+    predictions_file = "/Users/huetuanthi/dev/dokeai/fpl/data/cached_merged_2024_2025_v3/predictions_gw39_proper_v3.csv"
     
     if not os.path.exists(predictions_file):
         print(f"Error: Predictions file not found: {predictions_file}")
@@ -565,7 +565,7 @@ if __name__ == "__main__":
     teams_df = build_optimal_teams(predictions_file, num_teams=200)
     
     # Save results
-    output_file = "/Users/huetuanthi/dev/dokeai/fpl/data/cached_merged_2024_2025_v2/top_200_teams_final_v15.csv"
+    output_file = "/Users/huetuanthi/dev/dokeai/fpl/data/cached_merged_2024_2025_v3/top_200_teams_final_v15.csv"
     teams_df.to_csv(output_file, index=False)
     print(f"\nSaved {len(teams_df)} teams to {output_file}")
     

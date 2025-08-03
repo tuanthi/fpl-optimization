@@ -1,0 +1,27 @@
+{
+  "strategy_comparison": {
+    "v1_average_score": 291.9098555342963,
+    "v2_average_score": 291.13828460052315,
+    "difference": -0.7715709337731482,
+    "v1_total_transfers": 13,
+    "v2_total_transfers": 12,
+    "v1_hits": 1,
+    "v2_hits": 0,
+    "v1_gk_transfers": 4,
+    "v2_gk_transfers": 3
+  },
+  "team_scores": {
+    "team_1": {
+      "v1_net_score": 293.1378759411841,
+      "v2_net_score": 296.0550095522514
+    },
+    "team_2": {
+      "v1_net_score": 293.8683564955403,
+      "v2_net_score": 287.11805846285773
+    },
+    "team_3": {
+      "v1_net_score": 288.7233341661645,
+      "v2_net_score": 290.2417857864603
+    }
+  }
+}
