@@ -384,7 +384,6 @@ Rhys Williams,Liverpool,4.0,Rhys Williams,Liverpool,0,38,direct_match,DEF
 Calvin Ramsay,Liverpool,4.0,Jarell Quansah,Liverpool,9,38,similar_teammate_threshold_0.3,DEF
 Mohamed Salah,Liverpool,14.5,Mohamed Salah,Liverpool,344,38,direct_match,MID
 Florian Wirtz,Liverpool,8.5,Luis Díaz,Liverpool,183,38,similar_teammate_threshold_1.1,MID
-Luis Díaz Marulanda,Liverpool,8.0,Luis Díaz,Liverpool,183,38,direct_match,MID
 Cody Gakpo,Liverpool,7.5,Cody Gakpo,Liverpool,127,38,direct_match,MID
 Federico Chiesa,Liverpool,6.5,Federico Chiesa,Liverpool,7,36,direct_match,MID
 Alexis Mac Allister,Liverpool,6.5,Alexis Mac Allister,Liverpool,122,38,direct_match,MID
@@ -659,7 +658,6 @@ Boubacar Traoré,Wolves,5.0,Boubacar Traoré,Wolves,1,38,direct_match,MID
 Tawanda Chirewa,Wolves,4.5,Tawanda Chirewa,Wolves,0,38,direct_match,MID
 Tom Edozie,Wolves,4.5,Tom Edozie,Wolves,0,27,direct_match,MID
 Enso González Medina,Wolves,4.5,Enso González,Wolves,0,38,direct_match,MID
-Joe Hodge,Wolves,4.5,Joe Hodge,Wolves,0,38,direct_match,MID
 Jørgen Strand Larsen,Wolves,6.5,Jørgen Strand Larsen,Wolves,145,38,direct_match,FWD
 Fábio Soares Silva,Wolves,5.0,Fábio Silva,Wolves,0,38,direct_match,FWD
 Saša Kalajdžić,Wolves,5.0,Saša Kalajdžić,Wolves,0,38,direct_match,FWD

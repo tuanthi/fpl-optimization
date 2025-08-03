@@ -254,8 +254,13 @@ def analyze_teams_with_llm(teams_file: str, output_file: str):
 
 def main():
     """Entry point"""
-    teams_file = "../data/cached_merged_2024_2025_v2/top_200_teams_final_v8.csv"
-    output_file = "../data/cached_merged_2024_2025_v2/final_selected_teams_llm_v2.json"
+    import sys
+    if len(sys.argv) > 2:
+        teams_file = sys.argv[1]
+        output_file = sys.argv[2]
+    else:
+        teams_file = "../data/cached_merged_2024_2025_v2/top_200_teams_final_v8.csv"
+        output_file = "../data/cached_merged_2024_2025_v2/final_selected_teams_llm_v2.json"
     
     analyze_teams_with_llm(teams_file, output_file)
 

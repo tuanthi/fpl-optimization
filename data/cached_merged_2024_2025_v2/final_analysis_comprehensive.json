@@ -1,0 +1,75 @@
+{
+  "analysis_date": "2025-08-02T15:25:07.118577",
+  "analysis_type": "comprehensive_with_web_insights",
+  "key_insights_from_web": {
+    "mohamed_salah": {
+      "2024_25_performance": "Record-breaking 344 points in single season",
+      "captain_stats": "Captained 139,874,652 times across 38 GWs",
+      "best_score": "29 points in DGW24 (Triple-Captained by 1M+ managers)",
+      "consistency": "18 double-figure returns - twice any other player",
+      "goals": "22 goals - 3 ahead of Haaland"
+    },
+    "cole_palmer": {
+      "2024_25_performance": "Second-highest scorer with 173 points",
+      "best_score": "25 points vs Brighton (4 goals in GW6)",
+      "key_stats": "Created most chances (65) across all positions",
+      "penalties": "Chelsea's no.1 penalty taker"
+    },
+    "matz_sels": {
+      "performance": "13 clean sheets - best among all GKs",
+      "fpl_points": "150 points - second best among GKs",
+      "value": "\u00a35.2m - excellent value with 11 bonus points",
+      "status": "Clear first-choice GK for Nottingham Forest"
+    },
+    "matt_turner": {
+      "status": "Third choice GK behind Sels and Carlos Miguel",
+      "last_start": "February 28 in FA Cup",
+      "fpl_relevance": "Not recommended for FPL - won't get minutes"
+    },
+    "chris_wood": {
+      "performance": "Named in Team of the Month (October)",
+      "partnership": "Strong partnership with Matz Sels"
+    }
+  },
+  "recommendations": {
+    "top_team": {
+      "rank": 1,
+      "formation": "4-4-2",
+      "captain": "Mohamed Salah",
+      "key_players": [
+        "Mohamed Salah",
+        "Cole Palmer",
+        "Chris Wood",
+        "Matz Sels"
+      ],
+      "projected_score": 352.2,
+      "budget": 99.0,
+      "reasoning": [
+        "Salah's proven record-breaking consistency as captain",
+        "Palmer's explosive potential and penalty duties",
+        "Wood offers excellent value in strong Nottingham Forest team",
+        "Balanced formation with flexibility",
+        "Strong bench options for rotation"
+      ],
+      "concerns": [
+        "Matt Turner as backup GK won't play - consider alternative",
+        "High ownership of key players may limit rank gains"
+      ]
+    },
+    "alternative_1": {
+      "rank": 2,
+      "formation": "5-3-2",
+      "reasoning": "More defensive stability while maintaining Salah-Palmer core"
+    },
+    "alternative_2": {
+      "rank": 5,
+      "formation": "4-4-2",
+      "reasoning": "Similar structure with differential picks for upside"
+    }
+  },
+  "gk_pairing_issue": {
+    "problem": "Matt Turner is third choice at Nottingham Forest",
+    "solution": "Consider different backup GK strategy or accept minimal risk",
+    "note": "Matz Sels has been extremely reliable with 13 clean sheets"
+  }
+}

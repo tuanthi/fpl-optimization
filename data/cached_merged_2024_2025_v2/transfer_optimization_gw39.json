@@ -1,0 +1,217 @@
+[
+  {
+    "team_index": 1,
+    "initial_score": 49.29,
+    "initial_budget": 94.0,
+    "total_score": 333.6727228026757,
+    "gameweeks": [
+      {
+        "gameweek": 39,
+        "score": 63.74919374919897,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 40,
+        "score": 65.74419099713377,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 41,
+        "score": 67.03672442537322,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 42,
+        "score": 68.1606665368858,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 43,
+        "score": 68.9819470940839,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      }
+    ]
+  },
+  {
+    "team_index": 4,
+    "initial_score": 47.54,
+    "initial_budget": 88.0,
+    "total_score": 331.87200697687376,
+    "gameweeks": [
+      {
+        "gameweek": 39,
+        "score": 62.68787126961353,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 40,
+        "score": 65.13244536215336,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 41,
+        "score": 66.87455563499785,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 42,
+        "score": 68.1670890632373,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 43,
+        "score": 69.01004564687173,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      }
+    ]
+  },
+  {
+    "team_index": 3,
+    "initial_score": 48.37,
+    "initial_budget": 94.0,
+    "total_score": 328.52827919512384,
+    "gameweeks": [
+      {
+        "gameweek": 39,
+        "score": 62.8283640335526,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 40,
+        "score": 64.82336128148741,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 41,
+        "score": 65.94730339299997,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 42,
+        "score": 67.04314695172472,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 43,
+        "score": 67.88610353535915,
+        "captain": "Mohamed Salah (Liverpool)",
+        "transfers": 1,
+        "transfer_cost": 0
+      }
+    ]
+  },
+  {
+    "team_index": 0,
+    "initial_score": 49.87,
+    "initial_budget": 98.5,
+    "total_score": 293.03338449776305,
+    "gameweeks": [
+      {
+        "gameweek": 39,
+        "score": 57.34272371357733,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 40,
+        "score": 58.16400427077544,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 41,
+        "score": 58.725975326531724,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 42,
+        "score": 59.17555217113675,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 43,
+        "score": 59.62512901574178,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      }
+    ]
+  },
+  {
+    "team_index": 2,
+    "initial_score": 49.11,
+    "initial_budget": 98.0,
+    "total_score": 292.1559068349893,
+    "gameweeks": [
+      {
+        "gameweek": 39,
+        "score": 56.94934397454793,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 40,
+        "score": 57.792300558182355,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 41,
+        "score": 58.61358111538046,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 42,
+        "score": 59.17555217113675,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      },
+      {
+        "gameweek": 43,
+        "score": 59.62512901574178,
+        "captain": "Bryan Mbeumo (Man Utd)",
+        "transfers": 1,
+        "transfer_cost": 0
+      }
+    ]
+  }
+]
