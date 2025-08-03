@@ -1,7 +1,7 @@
 #!/bin/bash
-# Compile the FPL optimization paper to PDF
+# Compile all LaTeX documents in the directory to PDF
 
-echo "Compiling LaTeX document..."
+echo "Compiling all LaTeX documents..."
 
 # Check if pdflatex is available
 if ! command -v pdflatex &> /dev/null; then
@@ -11,11 +11,42 @@ if ! command -v pdflatex &> /dev/null; then
     exit 1
 fi
 
-# Compile the document (run twice for references)
-pdflatex -interaction=nonstopmode fpl_optimization_paper.tex
-pdflatex -interaction=nonstopmode fpl_optimization_paper.tex
+# Create figures directory if it doesn't exist
+mkdir -p figures
+
+# Counter for compiled documents
+compiled_count=0
+
+# Find all .tex files and compile them
+for texfile in *.tex; do
+    if [ -f "$texfile" ]; then
+        echo "----------------------------------------"
+        echo "Compiling: $texfile"
+        filename="${texfile%.tex}"
+        
+        # Compile the document (run twice for references)
+        pdflatex -interaction=nonstopmode "$texfile" > /dev/null 2>&1
+        if [ $? -eq 0 ]; then
+            pdflatex -interaction=nonstopmode "$texfile" > /dev/null 2>&1
+            if [ $? -eq 0 ]; then
+                echo "✓ Successfully compiled: $filename.pdf"
+                compiled_count=$((compiled_count + 1))
+            else
+                echo "✗ Error during second pass for: $texfile"
+            fi
+        else
+            echo "✗ Error during first pass for: $texfile"
+        fi
+    fi
+done
 
 # Clean up auxiliary files
-rm -f *.aux *.log *.out *.toc
+echo "----------------------------------------"
+echo "Cleaning up auxiliary files..."
+rm -f *.aux *.log *.out *.toc *.lof *.lot *.fls *.fdb_latexmk *.synctex.gz
 
-echo "Done! Paper compiled to fpl_optimization_paper.pdf"
+echo "----------------------------------------"
+echo "Done! Compiled $compiled_count LaTeX documents."
+echo ""
+echo "PDF files generated:"
+ls -la *.pdf 2>/dev/null || echo "No PDF files found."
